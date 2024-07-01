@@ -35,10 +35,13 @@ export default function useGoToBridge(location: string) {
       params.newTabUrl = undefined;
       params.existingTabId = existingBridgeTab.id;
     } else {
+      // params.newTabUrl = `${
+      //   AppConstants.BRIDGE.URL
+      // }/?metamaskEntry=mobile&srcChain=${getDecimalChainId(chainId)}${
+      //   address ? `&token=${address}` : ''
+      // }`;
       params.newTabUrl = `${
         AppConstants.BRIDGE.URL
-      }/?metamaskEntry=mobile&srcChain=${getDecimalChainId(chainId)}${
-        address ? `&token=${address}` : ''
       }`;
     }
 

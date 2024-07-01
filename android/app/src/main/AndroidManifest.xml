@@ -140,10 +140,14 @@
 			/>
 		</provider>
     <service
-      android:name="io.metamask.nativesdk.MessageService"
+	  android:name="io.metamask.nativesdk.MessageService"
       android:enabled="true"
       android:exported="true">
-
     </service>
+	<service 
+	  android:name="io.metamask.nativesdk.CommunicationClient"
+      android:enabled="true"
+      android:exported="true">
+	</service>
 	</application>
 </manifest>

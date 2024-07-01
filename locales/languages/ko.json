@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "지갑 설정",
-    "sync_desc": "MetaMask 확장 프로그램 또는 다른 지갑을 사용하고 있으신 경우, 기존에 보유한 자산 관리를 위해 이를 연동하거나 가져오세요.",
+    "sync_desc": "Novai 확장 프로그램 또는 다른 지갑을 사용하고 있으신 경우, 기존에 보유한 자산 관리를 위해 이를 연동하거나 가져오세요.",
     "create_desc": "첫 지갑을 설정하고 탈중앙화된 앱을 체험해 보세요.",
     "import": "기존 지갑을 가져오거나 새 지갑을 생성하세요",
     "import_wallet_button": "지갑 동기화 또는 가져오기",
     "new_to_crypto": "암호화 화폐의 세계에 처음 오셨나요?",
     "start_exploring_now": "새 지갑 생성하기",
     "unlock": "잠금 해제",
-    "new_to_metamask": "MetaMask에 처음 오셨나요?",
+    "new_to_metamask": "Novai에 처음 오셨나요?",
     "already_have_wallet": "이미 지갑이 있으신가요?",
     "optin_back_title": "조심하세요!",
     "optin_back_desc": "데이터 분석 사용에 동의 또는 비동의해 주세요. 설정에서 이 옵션을 변경하실 수 있습니다.",
@@ -76,15 +76,15 @@
     "warning_text_1": "계속 진행하시면 현재의 지갑과 계정이",
     "warning_text_2": "제거되니",
     "warning_text_3": "이 점 유의하세요.",
-    "warning_text_4": "삭제되면 지갑의 비밀복구구문을 통해서만 복구가 가능합니다. MetaMask는 관련 복구를 도와드릴 수 없습니다.",
+    "warning_text_4": "삭제되면 지갑의 비밀복구구문을 통해서만 복구가 가능합니다. Novai는 관련 복구를 도와드릴 수 없습니다.",
     "warning_proceed": "지갑 제거 & 진행",
     "warning_cancel": "취소",
     "step1": "지갑 설정",
     "step2": "비밀번호 생성",
     "step3": "지갑 보호",
     "already_have": "이미 지갑이 있으신가요?",
-    "sync_existing": "현재 보유 중인 MetaMask 지갑을 브라우저 확장 프로그램에서 동기화하거나 수동으로 가져오세요.",
-    "scan_title": "MetaMask 확장 프로그램 동기화 절차",
+    "sync_existing": "현재 보유 중인 Novai 지갑을 브라우저 확장 프로그램에서 동기화하거나 수동으로 가져오세요.",
+    "scan_title": "Novai 확장 프로그램 동기화 절차",
     "scan": "스캔",
     "scan_step_1": "데스크탑에서 확장 기능 열기",
     "scan_step_2": "설정 > 고급으로 이동",
@@ -113,12 +113,12 @@
     "done": "완료"
   },
   "onboarding_carousel": {
-    "title1": "MetaMask에 오신 것을 환영합니다",
+    "title1": "Novai에 오신 것을 환영합니다",
     "title2": "디지털 자산을 관리하세요",
     "title3": "웹 3.0으로 가는 관문",
-    "subtitle1": "수백만 명의 신뢰를 받는 MetaMask는 웹 3.0의 세계를 누구나 사용할 수 있게 만들어줄 안전 지갑입니다.",
+    "subtitle1": "수백만 명의 신뢰를 받는 Novai는 웹 3.0의 세계를 누구나 사용할 수 있게 만들어줄 안전 지갑입니다.",
     "subtitle2": "토큰, 에테르리움, 유니크한 콜렉티블 등 디지털 자산을 저장, 사용, 전송하세요.",
-    "subtitle3": "MetaMask에 로그인하여 투자, 적립, 게임 플레이, 판매 등의 트랜잭션을 진행하세요!",
+    "subtitle3": "Novai에 로그인하여 투자, 적립, 게임 플레이, 판매 등의 트랜잭션을 진행하세요!",
     "get_started": "시작하기"
   },
   "onboarding_wizard": {
@@ -148,7 +148,7 @@
     "step4": {
       "title": "메인 메뉴",
       "content1": "이 메뉴에서 트랜잭션 기록, 설정 및 지원 등을 이용하실 수 있습니다.",
-      "content2": "계정 및 MetaMask 설정에 접속하면 더 많은 작업을 수행할 수 있습니다."
+      "content2": "계정 및 Novai 설정에 접속하면 더 많은 작업을 수행할 수 있습니다."
     },
     "step5": {
       "title": "브라우저 탐색",
@@ -167,7 +167,7 @@
     },
     "step1": {
       "title": "지갑의 세계에 오신 걸 환영합니다!",
-      "content1": "블록체인에서는 지갑이 필요합니다(약간의 ETH도 포함). 그럼 MetaMask 지갑 사용법을 살펴보겠습니다."
+      "content1": "블록체인에서는 지갑이 필요합니다(약간의 ETH도 포함). 그럼 Novai 지갑 사용법을 살펴보겠습니다."
     },
     "step2": {
       "title": "계정",
@@ -199,14 +199,14 @@
     "subtitle": "오래 걸리지 않을 것입니다"
   },
   "import_wallet": {
-    "title": "이미 MetaMask 사용자인가요?",
+    "title": "이미 Novai 사용자인가요?",
     "sub_title": "확장 프로그램과 동기화",
     "sync_help": "확장 프로그램과 지갑을 동기화하세요",
     "sync_help_step_one": "1. 확장 프로그램을 켭니다",
     "sync_help_step_two": "2. 설정 > 고급으로 이동합니다",
     "sync_help_step_three": "3. \"모바일과 동기화\"를 클릭합니다",
     "sync_help_step_four": "4. QR 코드를 스캔해 동기화를 시작합니다",
-    "sync_from_browser_extension_button": "MetaMask 확장 프로그램과 동기화하기",
+    "sync_from_browser_extension_button": "Novai 확장 프로그램과 동기화하기",
     "or": "또는",
     "import_from_seed_button": "비밀복구구문을 활용해 가져오기"
   },
@@ -226,13 +226,13 @@
     "this_action": "이 작업은 취소할 수 없습니다.",
     "you_can_only": "지갑을 복구하는 유일한 방법은",
     "recovery_phrase": "비밀복구구문입니다",
-    "metamask_does_not": "MetaMask는 사용자의 비밀복구구문을 보유하고 있지 않습니다.",
+    "metamask_does_not": "Novai는 사용자의 비밀복구구문을 보유하고 있지 않습니다.",
     "i_understand": "이해했습니다. 계속 진행하겠습니다",
     "passcode_not_set_error": "오류: 비밀번호가 설정되지 않았습니다.",
     "wrong_password_error": "오류: 디크립트에 실패했습니다",
     "wrong_password_error_android": "오류: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "오류: 이전 볼트가 없으면 잠금을 해제할 수 없습니다.",
-    "clean_vault_error": "저장 공간 부족으로 오류가 발생했습니다. 로컬 데이터가 손상되었습니다. MetaMask를 다시 설치하고 비밀복구구문으로 복원을 진행하세요.",
+    "clean_vault_error": "저장 공간 부족으로 오류가 발생했습니다. 로컬 데이터가 손상되었습니다. Novai를 다시 설치하고 비밀복구구문으로 복원을 진행하세요.",
     "security_alert_title": "보안 경고",
     "security_alert_desc": "계속하려면, 비밀번호를 켜거나 또는 회원님의 기기에서 지원되는 생체 인식 인증 방법을 켜야 합니다 (FaceID, TouchID 또는 지문)"
   },
@@ -249,7 +249,7 @@
   },
   "choose_password": {
     "title": "비밀번호 생성",
-    "subtitle": "이 비밀번호는 이 기기에서 회원님의 MetaMask 지갑을 잠금 해제할 때만 사용됩니다.",
+    "subtitle": "이 비밀번호는 이 기기에서 회원님의 Novai 지갑을 잠금 해제할 때만 사용됩니다.",
     "password": "신규 비밀번호",
     "confirm_password": "비밀번호 컨펌",
     "create_button": "비밀번호 생성",
@@ -267,7 +267,7 @@
     "remember_me": "로그인 정보 저장",
     "security_alert_title": "보안 경고",
     "security_alert_message": "계속하려면, 비밀번호를 켜거나 또는 회원님의 기기에서 지원되는 생체 인식 인증 방법을 켜야 합니다 (FaceID, TouchID 또는 지문)",
-    "i_understand": "MetaMask가 비밀번호를 복구해 줄 수 없음을 이해했습니다.",
+    "i_understand": "Novai가 비밀번호를 복구해 줄 수 없음을 이해했습니다.",
     "learn_more": "더 알아보기.",
     "secure": "지갑 보호",
     "confirm": "비밀복구구문 컨펌",
@@ -275,7 +275,7 @@
   },
   "reset_password": {
     "title": "비밀번호 변경",
-    "subtitle": "이 비밀번호는 이 기기에서 회원님의 MetaMask 지갑을 잠금 해제할 때만 사용됩니다.",
+    "subtitle": "이 비밀번호는 이 기기에서 회원님의 Novai 지갑을 잠금 해제할 때만 사용됩니다.",
     "password": "신규 비밀번호",
     "confirm_password": "비밀번호 컨펌",
     "reset_button": "비밀번호 재설정",
@@ -293,7 +293,7 @@
     "remember_me": "로그인 정보 저장",
     "security_alert_title": "보안 경고",
     "security_alert_message": "계속하려면, 비밀번호를 켜거나 또는 회원님의 기기에서 지원되는 생체 인식 인증 방법을 켜야 합니다 (FaceID, TouchID 또는 지문)",
-    "i_understand": "MetaMask가 비밀번호를 복구해 줄 수 없음을 이해했습니다.",
+    "i_understand": "Novai가 비밀번호를 복구해 줄 수 없음을 이해했습니다.",
     "learn_more": "더 알아보기.",
     "secure": "지갑 보호",
     "confirm": "비밀복구구문 컨펌",
@@ -334,7 +334,7 @@
     "view_in_etherscan": "Etherscan에서 보기",
     "view_in": "다음에서 보기:",
     "browser": "브라우저",
-    "settings": "설정",
+    "settings": "나의",
     "settings_warning": "지갑 보호 안 됨",
     "settings_warning_short": "보호 안 됨",
     "help": "지원",
@@ -343,7 +343,7 @@
     "lock_ok": "예",
     "lock_cancel": "아니오",
     "feedback": "피드백",
-    "metamask_support": "MetaMask 지원",
+    "metamask_support": "Novai 지원",
     "public_address": "공개 주소"
   },
   "send": {
@@ -413,7 +413,7 @@
     "no_tokens": "토큰이 없습니다!",
     "no_nfts_yet": "아직 NFT가 없습니다",
     "nfts_autodetection_title": "NFT 감지",
-    "nfts_autodetection_desc": "MetaMask가 OpenSea에서 NFT를 자동으로 탐지하여 MetaMask 지갑에 표시할 수 있도록 하세요.",
+    "nfts_autodetection_desc": "Novai가 OpenSea에서 NFT를 자동으로 탐지하여 Novai 지갑에 표시할 수 있도록 하세요.",
     "network_details_check": "네트워크 세부 정보 확인",
     "network_with_chain_id": "체인 ID 포함 네트워크",
     "chain_list_returned_different_ticker_symbol": "이 토큰 심볼이 입력한 네트워크 이름 또는 체인 ID와 일치하지 않습니다. 여러 인기 토큰이 비슷한 심볼을 사용합니다. 사기꾼은 이를 이용해 더 가격이 높은 토큰을 보내도록 속일 수 있습니다. 계속하기 전에 모든 사항을 확인하세요.",
@@ -480,7 +480,8 @@
     "title": "활동"
   },
   "transactions_view": {
-    "title": "트랜잭션"
+    "title": "트랜잭션",
+    "title_description":"거래 기록"
   },
   "add_asset": {
     "title": "토큰 가져오기",
@@ -517,25 +518,25 @@
     "privacy_policy_button": "개인정보 처리방침",
     "agree": "동의합니다",
     "decline": "동의하지 않습니다",
-    "description_title": "MetaMask 개선에 도움을 주세요",
-    "description_content_1": "MetaMask를 개선하기 위해 기본적인 데이터 사용 데이터를 수집하고자 합니다. MetaMask는 제공받은 데이터를 절대 판매하지 않습니다.",
+    "description_title": "Novai 개선에 도움을 주세요",
+    "description_content_1": "Novai를 개선하기 위해 기본적인 데이터 사용 데이터를 수집하고자 합니다. Novai는 제공받은 데이터를 절대 판매하지 않습니다.",
     "description_content_2": "메트릭을 수집할 때는 항상...",
     "checkbox": "We'll use this data to learn how you interact with our marketing communications. We may share relavent news (like product features).",
     "action_description_1_prefix": "개인 정보:",
     "action_description_2_prefix": "일반:",
     "action_description_3_prefix": "선택 사항:",
     "action_description_1_description": "앱의 클릭 수와 조회수는 저장되지만, 공개 주소와 같은 기타 세부 정보는 저장되지 않습니다.",
-    "action_description_2_description": "MetaMask는 사용자의 국가나 지역과 같은 일반적인 위치를 찾기 위해 일시적으로 사용자의 IP 주소를 사용하지만, 이 정보는 저장되지 않습니다.",
+    "action_description_2_description": "Novai는 사용자의 국가나 지역과 같은 일반적인 위치를 찾기 위해 일시적으로 사용자의 IP 주소를 사용하지만, 이 정보는 저장되지 않습니다.",
     "action_description_3_description": "언제든지 설정을 통해 사용 데이터를 공유할지 삭제할지 결정할 수 있습니다.",
     "cta_no_thanks": "아니요, 괜찮습니다",
     "cta_i_agree": "동의합니다",
     "fine_print_1_legacy": "이 데이터는 집계된 것이며 개인정보보호규정(EU) 2016/679의 목적에 따라 익명 처리되었습니다.",
-    "fine_print_2a_legacy": "*MetaMask에서 Infura를 기본 RPC 공급업체로 이용하는 경우, 트랜잭션 전송 시 Infura가 IP 주소와 이더리움 지갑 주소 정보를 수집합니다. MetaMask는 해당 두 정보를 연계할 수 있는 방식으로 정보를 저장하지 않습니다. 계속 진행하기 전에 RPC 공급업체 이용방식을 구성할 수 있습니다.",
-    "fine_print_2b_legacy": "데이터 수집 관점에서 MetaMask와 Infura가 인터렉션하는 방법에 대한 자세한 내용은 업데이트를 참고하세요.",
+    "fine_print_2a_legacy": "*Novai에서 Infura를 기본 RPC 공급업체로 이용하는 경우, 트랜잭션 전송 시 Infura가 IP 주소와 이더리움 지갑 주소 정보를 수집합니다. Novai는 해당 두 정보를 연계할 수 있는 방식으로 정보를 저장하지 않습니다. 계속 진행하기 전에 RPC 공급업체 이용방식을 구성할 수 있습니다.",
+    "fine_print_2b_legacy": "데이터 수집 관점에서 Novai와 Infura가 인터렉션하는 방법에 대한 자세한 내용은 업데이트를 참고하세요.",
     "fine_print_2c_legacy": "일반적인 개인정보 보호 관행에 관한 자세한 내용은 여기에서 개인정보 처리방침을",
     "here_legacy": "확인하세요",
-    "description_content_1_legacy": "MetaMask는 사용자가 MetaMask를 어떻게 사용하는지 이해하기 위해 기본적인 사용 데이터를 수집하고자 합니다. 이 데이터는 사용자 경험을 통한 서비스 개선에 사용됩니다.",
-    "description_content_2_legacy": "MetaMask는...",
+    "description_content_1_legacy": "Novai는 사용자가 Novai를 어떻게 사용하는지 이해하기 위해 기본적인 사용 데이터를 수집하고자 합니다. 이 데이터는 사용자 경험을 통한 서비스 개선에 사용됩니다.",
+    "description_content_2_legacy": "Novai는...",
     "action_description_1_legacy": "언제든 설정을 통해 해제할 수 있습니다.",
     "action_description_2_legacy": "익명화된 클릭 및 페이지뷰 이벤트를 보낼 수 있습니다",
     "action_description_3_legacy": "서비스 제공에 필요하지 않은 정보(예: 키, 주소, 트랜잭션 해시, 잔액) 관련 정보를 수집합니다.",
@@ -639,7 +640,7 @@
     "learn_more": "자세히 알아보기",
     "advisory_by": "Ethereum Phishing Detector와 PhishFort에서 자문 제공",
     "potential_threat": "다음과 같은 잠재적 위협이 있습니다.",
-    "fake_metamask": "MetaMask 위조 버전",
+    "fake_metamask": "Novai 위조 버전",
     "srp_theft": "비밀복구구문 또는 비밀번호 도용",
     "malicious_transactions": "자산 도난으로 이어지는 악성 거래"
   },
@@ -672,7 +673,7 @@
   },
   "data_collection_modal": {
     "accept": "Okay",
-    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use MetaMask on other devices, make sure to opt out there as well."
+    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use Novai on other devices, make sure to opt out there as well."
   },
   "account_selector": {
     "prev": "이전",
@@ -685,7 +686,7 @@
     "current_conversion": "기준 통화",
     "current_language": "현재 언어",
     "ipfs_gateway": "IPFS 게이트웨이",
-    "ipfs_gateway_content": "MetaMask는 타사 서비스를 이용하여 IPFS에 저장된 NFT 이미지를 표시하고, 브라우저 주소창에 입력한 ENS 주소 관련 정보를 표시하며 다양한 토큰의 아이콘도 가져옵니다. 이러한 서비스를 이용하면 회원님의 IP 주소가 해당 서비스에 노출될 수 있습니다.",
+    "ipfs_gateway_content": "Novai는 타사 서비스를 이용하여 IPFS에 저장된 NFT 이미지를 표시하고, 브라우저 주소창에 입력한 ENS 주소 관련 정보를 표시하며 다양한 토큰의 아이콘도 가져옵니다. 이러한 서비스를 이용하면 회원님의 IP 주소가 해당 서비스에 노출될 수 있습니다.",
     "ipfs_gateway_down": "현재 IPFS 게이트웨이가 닫혀 있습니다",
     "ipfs_gateway_desc": "선호하는 IPFS 게이트웨이를 선택하세요.",
     "search_engine": "검색 엔진",
@@ -694,7 +695,7 @@
     "add_network_title": "네트워크 추가",
     "auto_lock": "자동 잠금",
     "auto_lock_desc": "앱이 자동으로 잠기기 전까지 걸리는 시간을 선택하세요.",
-    "state_logs_desc": "이렇게 하면 MetaMask에서 발생할 수 있는 문제를 디버깅하는 데 도움이 됩니다. 햄버거 아이콘 > 피드백 보내기로 문의하시거나 또는 기존 문의 티켓이 있으면, 해당 티켓으로 회신하여 MetaMask 지원 서비스로 보내주시기 바랍니다.",
+    "state_logs_desc": "이렇게 하면 Novai에서 발생할 수 있는 문제를 디버깅하는 데 도움이 됩니다. 햄버거 아이콘 > 피드백 보내기로 문의하시거나 또는 기존 문의 티켓이 있으면, 해당 티켓으로 회신하여 Novai 지원 서비스로 보내주시기 바랍니다.",
     "autolock_immediately": "즉시",
     "autolock_never": "절대",
     "autolock_after": " {{time}}초 후",
@@ -728,7 +729,7 @@
     "protect_title": "지갑 보호하기",
     "video_failed": "영상을 가져올 수 없습니다.",
     "protect_desc": "비밀복구구문을 종이, 패스워드 매니저 및/또는 클라우드 등 다양한 장소에 저장해 자신의 지갑을 보호하세요.",
-    "protect_desc_no_backup": "이것은 지갑의 12단어 구문입니다. 이 구문은 지갑에 있는 자금을 보내는 기능을 포함하여 현재와 미래의 모든 계정을 통제하기 위해 사용할 수 있습니다. 이 구문은 안전하게 보관하고 다른 사람과 공유하지 마세요. MetaMask는 이 키를 복구해 드릴 수 없습니다.",
+    "protect_desc_no_backup": "이것은 지갑의 12단어 구문입니다. 이 구문은 지갑에 있는 자금을 보내는 기능을 포함하여 현재와 미래의 모든 계정을 통제하기 위해 사용할 수 있습니다. 이 구문은 안전하게 보관하고 다른 사람과 공유하지 마세요. Novai는 이 키를 복구해 드릴 수 없습니다.",
     "learn_more": "더 알아보기.",
     "seedphrase_not_backed_up": "중요! 비밀복구구문이 백업되지 않았습니다",
     "seedphrase_backed_up": "비밀복구구문이 백업되었습니다",
@@ -824,8 +825,8 @@
     "remove_network_title": "해당 네트워크를 제거하시겠습니까?",
     "remove_network": "제거",
     "cancel_remove_network": "취소",
-    "info_title": "MetaMask 소개",
-    "info_title_flask": "MetaMask Flask 소개",
+    "info_title": "Novai 소개",
+    "info_title_flask": "Novai Flask 소개",
     "experimental_title": "실험적",
     "experimental_desc": "지갑 연결 및 기타...",
     "legal_title": "법률",
@@ -874,7 +875,7 @@
     "hide_zero_balance_tokens_title": "잔고 없는 토큰 숨기기",
     "hide_zero_balance_tokens_desc": "토큰 목록에서 잔고가 없는 토큰을 보이지 않게 합니다.",
     "token_detection_title": "강화된 토큰 감지",
-    "token_detection_description": "MetaMask는 지갑에 보내진 새로운 토큰을 감지해 표시하기 위해 타사 API를 사용합니다. 이 서비스로부터 데이터를 가져오기를 원치 않으시면 해당 기능을 끄세요.",
+    "token_detection_description": "Novai는 지갑에 보내진 새로운 토큰을 감지해 표시하기 위해 타사 API를 사용합니다. 이 서비스로부터 데이터를 가져오기를 원치 않으시면 해당 기능을 끄세요.",
     "theme_button_text": "테마 변경",
     "theme_title": "({{theme}}) 테마",
     "theme_description": "테마를 설정해 앱 외관을 변경하세요.",
@@ -893,18 +894,18 @@
     "delete_metrics_confirm_modal_title": "MetaMetrics 데이터를 삭제할까요?",
     "delete_metrics_confirm_modal_description": "모든 MetaMetrics 데이터를 삭제하려고 합니다. 확실합니까?",
     "delete_wallet_data_title": "지갑 삭제",
-    "delete_wallet_data_description": "장치에서 모든 지갑 관련 데이터가 삭제됩니다. 계정은 블록체인에 존재하므로 MetaMask와는 관련이 없습니다. 비밀복구구문을 사용하면 언제든지 계정을 복구할 수 있습니다.",
+    "delete_wallet_data_description": "장치에서 모든 지갑 관련 데이터가 삭제됩니다. 계정은 블록체인에 존재하므로 Novai와는 관련이 없습니다. 비밀복구구문을 사용하면 언제든지 계정을 복구할 수 있습니다.",
     "delete_wallet_data_button": "지갑 삭제",
     "delete_data_status_title": "삭제 작업 상태",
     "delete_data_status_description": "현재 상태:",
     "delete_metrics_error_title": "지금 데이터를 가져올 수 없습니다.",
     "delete_metrics_error_description": "분석 시스템 서버 문제로 지금 요청을 처리할 수 없습니다. 나중에 다시 시도하세요.",
     "ok": "확인",
-    "clear_sdk_connections_title": "모든 MetaMask SDK 연결 지우기",
+    "clear_sdk_connections_title": "모든 Novai SDK 연결 지우기",
     "clear_sdk_connections_text": "모든 연결이 삭제되며 디앱은 다시 연결을 위해 요청할 것입니다.",
-    "sdk_connections": "MetaMask SDK 연결",
+    "sdk_connections": "Novai SDK 연결",
     "manage_sdk_connections_title": "연결 관리",
-    "manage_sdk_connections_text": "사이트 및/또는 MetaMask SDK 연결 제거",
+    "manage_sdk_connections_text": "사이트 및/또는 Novai SDK 연결 제거",
     "fiat_on_ramp": {
       "title": "암호화폐 매수 및 매도",
       "description": "지역 & 더 보기...",
@@ -927,11 +928,11 @@
     "contact_support": "문의하기",
     "display_nft_media": "NFT 미디어 표시",
     "display_nft_media_desc": "NFT 미디어와 데이터를 표시하면 IP 주소가 OpenSea나 기타 제3자에게 노출될 수 있습니다. NFT 자동 감지는 이 기능을 사용하며, 이 기능이 꺼져 있는 경우 사용할 수 없습니다.",
-    "autodetect_nft_desc": "MetaMask가 타사 서비스(예: OpenSea)를 이용하여 회원님의 NFT를 추가할 수 있도록 합니다. NFT를 자동 감지하면 이러한 서비스에 IP와 계정 주소가 노출됩니다. 이 기능을 켜면 IP 주소가 이더리움 주소와 연결되고 사기꾼이 에어드랍한 가짜 NFT가 표시될 수 있습니다. 이러한 위험을 피하기 위해 수동으로 토큰을 추가할 수 있습니다.",
+    "autodetect_nft_desc": "Novai가 타사 서비스(예: OpenSea)를 이용하여 회원님의 NFT를 추가할 수 있도록 합니다. NFT를 자동 감지하면 이러한 서비스에 IP와 계정 주소가 노출됩니다. 이 기능을 켜면 IP 주소가 이더리움 주소와 연결되고 사기꾼이 에어드랍한 가짜 NFT가 표시될 수 있습니다. 이러한 위험을 피하기 위해 수동으로 토큰을 추가할 수 있습니다.",
     "incoming_transactions_title": "수신 트랜잭션 표시",
     "incoming_transactions_content": "IP 주소이는 선택한 네트워크에 따라 달라지며, 네트워크에는 이더리움 주소와 IP 주소가 노출됩니다.",
     "display_nft_media_desc_new": "NFT 미디어와 데이터를 표시하면 IP 주소가 OpenSea나 기타 제삼자에게 노출될 수 있습니다. NFT 자동 감지는 이 기능을 이용하기 때문에 이 기능이 꺼져 있는 경우 사용할 수 없습니다. NFT 미디어가 IPFS에 완전히 자리를 잡으면 이 기능이 꺼져 있어도 계속 표시될 수 있습니다.",
-    "use_safe_chains_list_validation_desc_1": "MetaMask는 다음의 제3자 서비스를 사용하여 ",
+    "use_safe_chains_list_validation_desc_1": "Novai는 다음의 제3자 서비스를 사용하여 ",
     "use_safe_chains_list_validation_desc_2": "정확하고 표준화된 네트워크 세부 정보를 표시합니다. 이를 통해 악성 또는 잘못된 네트워크에 연결될 가능성이 줄어듭니다. 이 기능을 사용하면 사용자의 IP 주소가 다음에 노출됩니다:  ",
     "snaps": {
       "title": "Snap",
@@ -1002,7 +1003,7 @@
     "manage_connections": "연결 관리",
     "manage": "관리",
     "cancel": "취소",
-    "loading": "MetaMask 연결 중...",
+    "loading": "Novai 연결 중...",
     "unkown_dapp": "디앱 이름을 사용할 수 없습니다",
     "no_connections": "연결 없음",
     "no_connections_desc": "계정을 사이트나 앱에 연결하면 여기에 표시됩니다."
@@ -1027,7 +1028,7 @@
   "sdk_feedback_modal": {
     "ok": "확인",
     "title": "계정에 연결할 수 없습니다",
-    "info": "MetaMask에 다시 연결하려면 디앱의 QR 코드를 스캔하세요"
+    "info": "Novai에 다시 연결하려면 디앱의 QR 코드를 스캔하세요"
   },
   "app_information": {
     "title": "정보",
@@ -1052,7 +1053,7 @@
       "비밀복구구문 (SRP)",
       "(을)를 통해",
       "지갑과 자금, 계정에 완전히 접속할 수 있습니다.\n\n",
-      "MetaMask는",
+      "Novai는",
       "비수탁형 지갑입니다",
       "이는 사용자가",
       "SRP에 대한 모든 책임을 가지게 된다는 의미입니다."
@@ -1061,14 +1062,14 @@
     "private_key_warning": "이것은 현재 선택된 계정용 개인 키 {{accountName}} 입니다. 이 키를 절대 다른 사람에게 공개하지 마세요. 개인 키를 가지고 있는 사람은 누구든 해당 계정을 완전히 통제할 수 있습니다. 계정의 자금을 다른 곳에 송금할 수도 있습니다.",
     "seed_phrase_warning_explanation": [
       "본인의 화면을 아무도 보지 못하게 하세요.",
-      "MetaMask 지원팀은 절대 개인 키를 알려달라고 요청하지 않습니다."
+      "Novai 지원팀은 절대 개인 키를 알려달라고 요청하지 않습니다."
     ],
     "private_key_warning_explanation": "이 키를 절대 다른 사람에게 공개하지 마세요. 개인 키를 가지고 있는 사람은 누구든 해당 계정을 완전히 통제할 수 있습니다. 계정의 자금을 다른 곳에 송금할 수도 있습니다.",
     "reveal_credential_modal": [
       "{{credentialName}} 사용자 이름으로 ",
       "계정과 자금에 완전히 액세스할 수 있습니다.\n\n이 정보를 아무에게도 알려주지 마세요.\n",
       "지갑과 자금에 완전히 액세스할 수 있습니다.\n\n이 정보를 아무에게도 알려주지 마세요.\n",
-      "MetaMask 지원팀은 이러한 정보를 절대로 묻지 않습니다, ",
+      "Novai 지원팀은 이러한 정보를 절대로 묻지 않습니다, ",
       "정보를 요구하는 경우 피싱 사기일 수 있습니다."
     ],
     "seed_phrase": "비밀복구구문",
@@ -1104,7 +1105,7 @@
   },
   "password_reset": {
     "password_title": "비밀번호",
-    "password_desc": "기기에 설치된 MetaMask 앱을 잠금 해제하는 비밀번호는 보안 강도가 높아야 합니다. 비밀번호를 잃어버렸을 때는 지갑을 다시 가져오기 위해 비밀복구구문이 필요합니다.",
+    "password_desc": "기기에 설치된 Novai 앱을 잠금 해제하는 비밀번호는 보안 강도가 높아야 합니다. 비밀번호를 잃어버렸을 때는 지갑을 다시 가져오기 위해 비밀복구구문이 필요합니다.",
     "password_learn_more": "더 알아보기.",
     "change_password": "비밀번호 변경"
   },
@@ -1162,7 +1163,7 @@
       "show_less": "요약 보기"
     },
     "activity": "{{symbol}} 활동",
-    "disclaimer": "시장 데이터는 CoinGecko 등 복수의 타사 데이터 소스에서 제공됩니다. 이러한 타사 콘텐츠는 정보 제공의 목적으로만 제공되므로 특정 자산의 구매, 판매 또는 사용에 대한 조언으로 취급해서는 안 됩니다. MetaMask는 특정한 목적으로 콘텐츠를 사용하는 것을 권장하지 않으며 그 정확성에 대해서도 책임지지 않습니다."
+    "disclaimer": "시장 데이터는 CoinGecko 등 복수의 타사 데이터 소스에서 제공됩니다. 이러한 타사 콘텐츠는 정보 제공의 목적으로만 제공되므로 특정 자산의 구매, 판매 또는 사용에 대한 조언으로 취급해서는 안 됩니다. Novai는 특정한 목적으로 콘텐츠를 사용하는 것을 권장하지 않으며 그 정확성에 대해서도 책임지지 않습니다."
   },
   "account_details": {
     "title": "계정 상세 내역",
@@ -1205,7 +1206,7 @@
     "cancel": "취소",
     "error": "오류",
     "attempting_to_scan_with_wallet_locked": "QR 코드를 스캔하시는 것 같습니다. 먼저 지갑을 잠금 해제하세요.",
-    "attempting_sync_from_wallet_error": "확장 프로그램과의 동기화를 시도하시는 것 같습니다. 이를 위해서는 현재 지갑을 지워야 합니다. \n\n 신규 버전 앱을 지우거나 재설치하고 나면 \"MetaMask 확장 프로그램과 동기화\" 옵션을 선택하세요. 중요!: 지갑을 지우기 전에 비밀복구구문을 반드시 백업하세요.",
+    "attempting_sync_from_wallet_error": "확장 프로그램과의 동기화를 시도하시는 것 같습니다. 이를 위해서는 현재 지갑을 지워야 합니다. \n\n 신규 버전 앱을 지우거나 재설치하고 나면 \"Novai 확장 프로그램과 동기화\" 옵션을 선택하세요. 중요!: 지갑을 지우기 전에 비밀복구구문을 반드시 백업하세요.",
     "not_allowed_error_title": "카메라 접근 허용",
     "not_allowed_error_desc": "계정 주소나 연락처 주소와 연동된 QR 코드를 스캔하려면 카메라 접근을 허용해야 합니다",
     "unrecognized_address_qr_code_title": "읽을 수 없는 QR 코드",
@@ -1320,7 +1321,7 @@
     "gas_education_1": "가스비는 다음 네트워크에서 트랜잭션을 진행할 때 암호화 화폐 채굴자에게 지불하는 비용입니다:",
     "gas_education_2_ethereum": "이더리움 네트워크.",
     "gas_education_2": "네트워크.",
-    "gas_education_3": "MetaMask는 가스비로 수익을 얻지 않습니다.",
+    "gas_education_3": "Novai는 가스비로 수익을 얻지 않습니다.",
     "gas_education_4": "가스비는 네트워크의 트래픽과 트랜잭션의 복잡성에 따라 달라질 수 있습니다.",
     "gas_education_learn_more": "가스비에 대해 더 자세히 알아보기",
     "confusable_title": "받는 사람 주소를 확인하세요",
@@ -1335,7 +1336,7 @@
     "invalid_qr_code_sync": "잘못된 QR 코드입니다. 하드웨어 지갑의 동기화 QR 코드를 스캔하세요.",
     "no_camera_permission": "카메라가 허용되지 않았습니다. 권한 허용 후 다시 시도하세요.",
     "invalid_qr_code_sign": "잘못된 QR 코드입니다. 하드웨어를 확인하고 다시 시도하세요.",
-    "no_camera_permission_android": "진행하려면 MetaMask에서 카메라를 허용해야 합니다. 시스템 설정을 변경해야 할 수도 있습니다.",
+    "no_camera_permission_android": "진행하려면 Novai에서 카메라를 허용해야 합니다. 시스템 설정을 변경해야 할 수도 있습니다.",
     "mismatched_qr_request_id": "일치하지 않는 트랜잭션 데이터입니다. 키스톤으로 하단의 QR 코드에 서명하고 '서명 받기'를 누르세요.",
     "fiat_conversion_not_available": "현재 명목 화폐 환율을 사용할 수 없습니다.",
     "hex_data_copied": "헥스 데이터를 클립보드에 복사했습니다",
@@ -1353,7 +1354,7 @@
     "save": "저장",
     "warning_gas_limit": "가스 한도 값은 20999보다 더 커야 합니다",
     "warning_gas_limit_estimated": "예상 가스 한도 가격은 {{gas}}이니 이를 최소 값으로 생각하고 이용하세요",
-    "cost_explanation": "가스비는 이더리움 네트워크에서 트랜잭션을 진행할 때 지불하는 비용을 의미합니다. MetaMask는 이 비용으로 수익을 얻지 않습니다. 비용이 더 높을수록 트랜잭션이 처리될 확률이 높습니다."
+    "cost_explanation": "가스비는 이더리움 네트워크에서 트랜잭션을 진행할 때 지불하는 비용을 의미합니다. Novai는 이 비용으로 수익을 얻지 않습니다. 비용이 더 높을수록 트랜잭션이 처리될 확률이 높습니다."
   },
   "spend_limit_edition": {
     "save": "저장",
@@ -1405,7 +1406,7 @@
     "approve_asset": "다음 자산 승인:"
   },
   "browser": {
-    "title": "브라우저",
+    "title": "발견",
     "reload": "새로고침",
     "share": "공유",
     "bookmark": "북마크",
@@ -1420,7 +1421,7 @@
     "change_url": "url 변경",
     "switch_network": "네트워크 변경",
     "dapp_browser": "디앱 브라우저",
-    "dapp_browser_message": "MetaMask는 탈중앙화 웹을 위한 여러분의 지갑과 브라우저입니다. 전체를 둘러보세요!",
+    "dapp_browser_message": "Novai는 탈중앙화 웹을 위한 여러분의 지갑과 브라우저입니다. 전체를 둘러보세요!",
     "featured_dapps": "추천 디앱",
     "my_favorites": "즐겨찾기",
     "search": "검색 또는 URL 입력",
@@ -1542,7 +1543,7 @@
     "status_cancelled_header": "트랜잭션이 취소되었습니다",
     "status_cancelled_description": "트랜잭션이 완료되지 않았습니다. 가스비 지출이 없도록 트랜잭션을 취소했습니다.",
     "status_failed_header": "트랜잭션 실패",
-    "status_failed_description": "시장 상황이 갑자기 변하면 실패할 수 있습니다. 문제가 지속되면 MetaMask 고객 지원으로 문의하세요.",
+    "status_failed_description": "시장 상황이 갑자기 변하면 실패할 수 있습니다. 문제가 지속되면 Novai 고객 지원으로 문의하세요.",
     "view_transaction": "트랜잭션 보기",
     "view_activity": "활동 보기",
     "return_to_dapp": "{{dappName}}(으)로 돌아가기",
@@ -1594,8 +1595,8 @@
     "status_not_ok": "네트워크에 문제가 있습니다",
     "want_to_add_network": "이 네트워크를 추가하시겠습니까?",
     "add_custom_network": "사용자 지정 네트워크 추가",
-    "network_infomation": "이렇게 하면 MetaMask 내에서 이 네트워크를 사용할 수 있습니다",
-    "network_endorsement": "MetaMask는 커스텀 네트워크나 해당 네트워크의 보안을 보증하지 않습니다.",
+    "network_infomation": "이렇게 하면 Novai 내에서 이 네트워크를 사용할 수 있습니다",
+    "network_endorsement": "Novai는 커스텀 네트워크나 해당 네트워크의 보안을 보증하지 않습니다.",
     "learn_about": "다음에 대해 자세히 알아보기:",
     "network_risk": "사기 및 네트워크 보안 위험",
     "network_display_name": "이름 표시",
@@ -1633,7 +1634,7 @@
     "show_test_networks": "테스트 네트워크 표시",
     "deprecated_goerli": "이더리움의 프로토콜 변경으로 인해 Goerli 테스트 네트워크가 안정적으로 작동하지 않을 수 있으며, 곧 사용 중지될 예정입니다.",
     "network_deprecated_title": "이 네트워크는 더 이상 지원되지 않습니다",
-    "network_deprecated_description": "연결하려는 네트워크는 Metamask에서 더 이상 지원되지 않습니다."
+    "network_deprecated_description": "연결하려는 네트워크는 Novai에서 더 이상 지원되지 않습니다."
   },
   "select": {
     "cancel": "취소",
@@ -1687,9 +1688,9 @@
   },
   "authentication": {
     "auth_prompt_title": "인증 필요",
-    "auth_prompt_desc": "MetaMask를 사용하려면 인증을 받으세요",
+    "auth_prompt_desc": "Novai를 사용하려면 인증을 받으세요",
     "fingerprint_prompt_title": "인증 필요",
-    "fingerprint_prompt_desc": "지문으로 MetaMask 잠금을 해제하세요",
+    "fingerprint_prompt_desc": "지문으로 Novai 잠금을 해제하세요",
     "fingerprint_prompt_cancel": "취소"
   },
   "accountApproval": {
@@ -1711,7 +1712,7 @@
   },
   "import_private_key": {
     "title": "계정 가져오기",
-    "description_one": "가져온 계정을 지갑에서 확인할 수 있습니다. 다만 해당 계정은 MetaMask 비밀복구구문으로는 복구할 수 없습니다.",
+    "description_one": "가져온 계정을 지갑에서 확인할 수 있습니다. 다만 해당 계정은 Novai 비밀복구구문으로는 복구할 수 없습니다.",
     "learn_more_here": "가져온 계정에 대한 더 자세한 내용을 여기에서 알아보세요.",
     "subtitle": "개인 키 문자열을 붙여넣으세요",
     "cta_text": "가져오기",
@@ -1723,7 +1724,7 @@
   },
   "import_private_key_success": {
     "title": "계정을 성공적으로 가져왔습니다!",
-    "description_one": "이제 MetaMask에 있는 계정을 확인할 수 있습니다."
+    "description_one": "이제 Novai에 있는 계정을 확인할 수 있습니다."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} 자산이 계정에 입급되었습니다",
@@ -1738,7 +1739,7 @@
     "step_1_description": "비밀번호 생성",
     "step_2": "2단계:",
     "step_2_description": "지갑 비밀복구구문을 저장하세요",
-    "info_text_1": "잠깐의 시간을 내어 MetaMask 지갑 설정을 완료하세요.",
+    "info_text_1": "잠깐의 시간을 내어 Novai 지갑 설정을 완료하세요.",
     "info_text_2": "이를 통해 오직 본인만이 자금에 접속할 수 있고 기기를 잃어버렸을 때 지갑을 복구할 수 있습니다.",
     "cta_text": "비밀번호 생성",
     "creating_password": "비밀번호 생성 중..."
@@ -1760,7 +1761,7 @@
     "what_is_seedphrase_title": "‘비밀복구구문’이 무엇인가요?",
     "what_is_seedphrase_text_1": "비밀복구구문은 자금을 포함한 지갑의 모든 정보를 보호하는 12개의 단어 조합입니다. 지갑 전체 영역에 접속하기 위한 비밀 암호라고 볼 수 있습니다.",
     "what_is_seedphrase_text_2": "비밀복구구문은 비밀스럽고 안전한 곳에 보관해야 합니다. 누군가가 비밀복구구문을 알게 되면, 해당 계정을 제어할 수 있게 됩니다.",
-    "what_is_seedphrase_text_3": "본인만 접근할 수 있는 곳에 이를 저장하세요. 이를 잃어버리게 되면 MetaMask도 구문 복구를 도와드릴 수 없습니다."
+    "what_is_seedphrase_text_3": "본인만 접근할 수 있는 곳에 이를 저장하세요. 이를 잃어버리게 되면 Novai도 구문 복구를 도와드릴 수 없습니다."
   },
   "account_backup_step_1B": {
     "title": "자신의지갑을 보호하세요",
@@ -1833,7 +1834,7 @@
   },
   "account_backup_step_6": {
     "title": "보안 팁",
-    "info_text": "비밀복구구문 분실시 MetaMask는 구문을 복구해드릴 수 없습니다",
+    "info_text": "비밀복구구문 분실시 Novai는 구문을 복구해드릴 수 없습니다",
     "tip_1": "자신의 비밀복구구문을 여러 군데 백업해 놓으세요",
     "tip_2": "구문을 신뢰할 수 있는 비밀번호 매니저에 저장하고 종이에 적어 안전한 곳에 두세요",
     "tip_3": "다른 사람과 절대 구문을 공유하지 마세요",
@@ -1873,7 +1874,7 @@
     "congratulations": "축하합니다",
     "success": "지갑을 성공적으로 보호했습니다. 비밀복구구문을 꼭 안전하게 보관하세요. 이 구문의 보안 책임을 본인에게 있습니다!",
     "hint": "힌트를 남기고 싶으신가요?",
-    "recover": "지갑을 잃어버릴 경우 MetaMask는 이를 복구해드릴 수 없습니다. 비밀복구구문은 설정 > 보안 & 개인정보 보호에서 확인할 수 있습니다.",
+    "recover": "지갑을 잃어버릴 경우 Novai는 이를 복구해드릴 수 없습니다. 비밀복구구문은 설정 > 보안 & 개인정보 보호에서 확인할 수 있습니다.",
     "learn": "더 알아보기",
     "done": "완료",
     "recovery_hint": "복구 힌트",
@@ -1886,8 +1887,8 @@
   "phishing": {
     "ethereum_phishing_detection": "이더리움 피싱 사기 탐지",
     "ethereum_phishing_detector": "이더리움 피싱 사기 탐지기",
-    "intro": "이 도메인은 현재 MetaMask 도메인 위험 목록에 있습니다. 즉 이용 가능한 정보를 바탕으로, MetaMask는 이 도메인이 회원님의 보안에 침투할 수 있다고 판단한 것입니다. 추가적인 안전 조치로 MetaMask는 해당 사이트의 접근을 제한했습니다. 이를 무시하고 계속 진행하고 싶으시면 나머지 경고 내용을 읽어 위험을 감수하고 계속 진행하는 방법을 확인하세요.",
-    "reasons": "사이트가 위험 목록에 오르는 데에는 여러가지 이유가 있습니다. 그MetaMask은 다른 산업에서도 널리 사용되고 있는 목록을 병합한 것입니다. 사기 이력, 보안 위험 같이 테스트 결과 위험이 확인되는 것 등이 이유가 될 수 있습니다.",
+    "intro": "이 도메인은 현재 Novai 도메인 위험 목록에 있습니다. 즉 이용 가능한 정보를 바탕으로, Novai는 이 도메인이 회원님의 보안에 침투할 수 있다고 판단한 것입니다. 추가적인 안전 조치로 Novai는 해당 사이트의 접근을 제한했습니다. 이를 무시하고 계속 진행하고 싶으시면 나머지 경고 내용을 읽어 위험을 감수하고 계속 진행하는 방법을 확인하세요.",
+    "reasons": "사이트가 위험 목록에 오르는 데에는 여러가지 이유가 있습니다. 그Novai은 다른 산업에서도 널리 사용되고 있는 목록을 병합한 것입니다. 사기 이력, 보안 위험 같이 테스트 결과 위험이 확인되는 것 등이 이유가 될 수 있습니다.",
     "list_content": "위험 목록에 있는 도메인은 명백히 악의적인 웹사이트이거나 악의적인 행위자에 의해 해킹을 당한 적이 있는 적법한 웹사이트 등일 수 있습니다.",
     "to_read_more": "이 웹사이트 대해 더 자세히 알아보세요",
     "review_on_etherscam": "Etherscam에 있는 도메인을 검토하세요.",
@@ -1938,7 +1939,7 @@
     "received_message": "눌러서 이 트랜잭션을 확인하세요",
     "received_payment_message": "{{amount}} DAI를 받았습니다",
     "prompt_title": "공지 알림 활성화",
-    "prompt_desc": "공지 알림을 활성화해서 MetaMask가 언제 ETH를 받았는지 혹은 언제 트랜잭션이 컨펌되었는지 등의 알림을 받으세요.",
+    "prompt_desc": "공지 알림을 활성화해서 Novai가 언제 ETH를 받았는지 혹은 언제 트랜잭션이 컨펌되었는지 등의 알림을 받으세요.",
     "prompt_ok": "예",
     "prompt_cancel": "아니요, 괜찮습니다",
     "wc_connected_title": "{{title}}에 연결",
@@ -1966,7 +1967,7 @@
     "activation_card": {
       "title": "알림 켜기",
       "description_1": "알림을 통해 지갑에서 무슨 일이 일어나고 있는지 계속 확인하세요. ",
-      "description_2": "이 기능 사용을 위해 계정에 대한 익명 ID가 생성됩니다. 이는 MetaMask에서 데이터를 동기화하는 데에만 사용되며 활동이나 기타 식별자와 링크되지 않으므로 개인정보가 보호됩니다.",
+      "description_2": "이 기능 사용을 위해 계정에 대한 익명 ID가 생성됩니다. 이는 Novai에서 데이터를 동기화하는 데에만 사용되며 활동이나 기타 식별자와 링크되지 않으므로 개인정보가 보호됩니다.",
       "learn_more": "이 기능을 사용하는 동안 개인정보가 어떻게 보호되는지 알아보세요. ",
       "manage_preferences_1": "다음에서 언제든지 알림을 끌 수 있습니다: ",
       "manage_preferences_2": "설정 > 알림",
@@ -2124,7 +2125,7 @@
     "wyre_minimum_deposit": "최소 예금은 {{amount}}입니다",
     "wyre_maximum_deposit": "최대 예금은 {{amount}}입니다",
     "apple_pay_purchase": "{{currency}} 구매",
-    "apple_pay_provider_total_label": "{{provider}} (MetaMask 경유)",
+    "apple_pay_provider_total_label": "{{provider}} (Novai 경유)",
     "buy_with": "다음으로 구매:",
     "plus_fee": "수수료 {{fee}} 추가",
     "date": "날짜",
@@ -2143,12 +2144,12 @@
         "average_gas_fee": "현재 평균 가스비:",
         "subtitle_1": "{{ticker}} 스와프 또는 전송을 원하시면 가스비 충당을 위해 추가로 구매를 진행하세요.",
         "subtitle_2": "트랜잭션에 대한 가스비는 {{ticker}} 구매 비용과 별도입니다.",
-        "subtitle_3": "MetaMask는 가스비로 수익을 얻지 않습니다."
+        "subtitle_3": "Novai는 가스비로 수익을 얻지 않습니다."
       },
       "step_2": {
         "title": "가스비가 무엇인가요?",
         "subtitle_1": "가스가 있어야 이더리움 네트워크에서 트랜잭션이 진행될 수 있습니다. 가스비는 트랜잭션을 진행하는 암호화폐 채굴자에게 {{ticker}}으(로) 지불하는 수수료입니다.",
-        "subtitle_2": "MetaMask는 가스비로 수익을 얻지 않습니다.",
+        "subtitle_2": "Novai는 가스비로 수익을 얻지 않습니다.",
         "learn_more": "가스비에 대해 더 자세히 알아보기"
       },
       "step_3": {
@@ -2187,8 +2188,8 @@
     },
     "onboarding": {
       "what_to_expect": "소개",
-      "quotes": "MetaMask의 암호화폐 구매 기능은 통합된 공급업체로부터 견적을 집계하여 견적을 제공하므로 대기 기간 없이 암호화폐를 소스에서 지갑으로 직접 가져올 수 있습니다.",
-      "quotes_sell": "이제 MetaMask에서 직접 현금을 인출할 수 있습니다! MetaMask의 안내에 따라 한 단계씩 진행하며 신뢰하는 제공업체의 최신 견적을 받으세요.",
+      "quotes": "Novai의 암호화폐 구매 기능은 통합된 공급업체로부터 견적을 집계하여 견적을 제공하므로 대기 기간 없이 암호화폐를 소스에서 지갑으로 직접 가져올 수 있습니다.",
+      "quotes_sell": "이제 Novai에서 직접 현금을 인출할 수 있습니다! Novai의 안내에 따라 한 단계씩 진행하며 신뢰하는 제공업체의 최신 견적을 받으세요.",
       "benefits": "가스비가 저렴하면서 수많은 네트워크, 토큰, 결제 수단이 지원됩니다.",
       "benefits_sell": "이제 암호화폐를 현지 통화로 환전하는 것이 어느 때보다 쉬워졌습니다.",
       "get_started": "지금 시작하세요"
@@ -2372,13 +2373,13 @@
       "best_swap": "스와프를",
       "across": "찾으세요...",
       "want_to_learn_more": "더 자세히 알아보고 싶으신가요?",
-      "learn_more": "MetaMask 스와프에 대해 더 자세히 알아보세요",
+      "learn_more": "Novai 스와프에 대해 더 자세히 알아보세요",
       "what_are": "토큰 스와프란 무엇인가요?",
       "review_audits": "공식 계약 감사 검토",
       "start_swapping": "스와프 시작"
     },
     "feature_off_title": "일시적으로 이용이 불가합니다",
-    "feature_off_body": "MetaMask 스와프는 현재 유지 보수 작업을 진행하고 있습니다. 향후에 다시 확인해 주세요.",
+    "feature_off_body": "Novai 스와프는 현재 유지 보수 작업을 진행하고 있습니다. 향후에 다시 확인해 주세요.",
     "wrong_network_title": "스와프 이용 불가",
     "wrong_network_body": "이더리움 메인 네트워크에서만 토큰 스와프가 가능합니다.",
     "unallowed_asset_title": "이 토큰은 스와프할 수 없습니다.",
@@ -2456,16 +2457,16 @@
     "estimated_gas_fee": "예상 가스비",
     "max_gas_fee": "최대 가스비",
     "edit": "편집",
-    "quotes_include_fee": "견적에는 {{fee}}%의 MetaMask 수수료가 포함됩니다",
+    "quotes_include_fee": "견적에는 {{fee}}%의 Novai 수수료가 포함됩니다",
     "tap_to_swap": "눌러서 스와프하세요",
     "swipe_to_swap": "밀어서 스와프하세요",
     "swipe_to": "밀어서",
     "swap": "스와프",
     "completed_swap": "스와프!",
-    "metamask_swap_fee": "MetaMask 스와프 수수료",
+    "metamask_swap_fee": "Novai 스와프 수수료",
     "fee_text": {
-      "fee_is_applied": "{{fee}}의 수수료는 자동으로 각 견적에 반영됩니다. 이는 MetaMask의 유동성 공급자 정보 집계용 소프트웨어 사용 라이선스 비용입니다.",
-      "fee_is_not_applied": "MetaMask에서는 이 견적에 추가 비용을 부과되지 않습니다."
+      "fee_is_applied": "{{fee}}의 수수료는 자동으로 각 견적에 반영됩니다. 이는 Novai의 유동성 공급자 정보 집계용 소프트웨어 사용 라이선스 비용입니다.",
+      "fee_is_not_applied": "Novai에서는 이 견적에 추가 비용을 부과되지 않습니다."
     },
     "enable": {
       "this_will": "이것이",
@@ -2530,7 +2531,7 @@
     "gas_education_1": "가스비는 다음 네트워크에서 트랜잭션을 진행할 때 암호화 화폐 채굴자에게 지불하는 비용입니다:",
     "gas_education_2_ethereum": "이더리움 네트워크.",
     "gas_education_2": "네트워크.",
-    "gas_education_3": "MetaMask는 가스비로 수익을 얻지 않습니다.",
+    "gas_education_3": "Novai는 가스비로 수익을 얻지 않습니다.",
     "gas_education_4": "\"예상 ",
     "gas_education_5": "가스비\"는",
     "gas_education_6": "실제 수수료로 예상되는 비용을 말합니다. 정확한 금액은 네트워크 조건에 따라 다릅니다.",
@@ -2571,14 +2572,14 @@
     "title": "새로운 소식",
     "blockaid": {
       "title": "보안 경고로 안전성을 유지하세요",
-      "description_1": "Blockaid가 제공하는 보안 경고를 통해 개인정보를 보호하고 사기도 방지하세요. 이 기능은 이제 모든 MetaMask 사용자에게 기본적으로 적용됩니다.",
+      "description_1": "Blockaid가 제공하는 보안 경고를 통해 개인정보를 보호하고 사기도 방지하세요. 이 기능은 이제 모든 Novai 사용자에게 기본적으로 적용됩니다.",
       "description_2": "요청을 승인하기 전에 항상 직접 확인하세요.",
       "description_3": "Arbitrum, Avalanche, BNB chain, 이더리움 메인넷, Linea, Optimism, Polygon, Sepolia, Base에서 사용할 수 있습니다.",
       "got_it": "확인"
     },
     "sell": {
       "title": "간편한 현금 인출",
-      "description": "MetaMask에서 바로 암호화폐를 매도하세요! 신뢰할 수 있는 제공업체의 견적을 찾을 수 있도록 도와드립니다. 언제나 쉽고 빠르며 안전한 방법으로 암호화폐를 매도할 수 있습니다.",
+      "description": "Novai에서 바로 암호화폐를 매도하세요! 신뢰할 수 있는 제공업체의 견적을 찾을 수 있도록 도와드립니다. 언제나 쉽고 빠르며 안전한 방법으로 암호화폐를 매도할 수 있습니다.",
       "action_text": "사용해 보세요"
     },
     "stx": {
@@ -2606,15 +2607,15 @@
   "switch_custom_network": {
     "title_existing_network": "이 사이트는 네트워크 전환을 원합니다",
     "title_new_network": "신규 네트워크 추가됨",
-    "switch_warning": "이는 MetaMask에서 선택한 네트워크를 이전에 추가한 다음 네트워크로 전환하게 됩니다:",
+    "switch_warning": "이는 Novai에서 선택한 네트워크를 이전에 추가한 다음 네트워크로 전환하게 됩니다:",
     "available": "이것은 이제 네트워크 선택자 내에서 이용 가능합니다.",
     "cancel": "취소",
     "switch": "네트워크 변경"
   },
   "add_custom_network": {
     "title": "이 사이트를 네트워크에 추가하는 것을 허용하시겠습니까?",
-    "warning": "이것은 이 네트워크가 MetaMask 내에 사용될 수 있게 합니다.",
-    "warning_subtext_1": "MetaMask는 맞춤 네트워크나 그의 보안은 인증해주지 않습니다.",
+    "warning": "이것은 이 네트워크가 Novai 내에 사용될 수 있게 합니다.",
+    "warning_subtext_1": "Novai는 맞춤 네트워크나 그의 보안은 인증해주지 않습니다.",
     "warning_subtext_2": "다음에 대해 알아보세요:",
     "warning_subtext_3": "사기 및 네트워크 보안 위험",
     "display_name": "디스플레이 이름",
@@ -2630,7 +2631,7 @@
     "alert_recommend": "체인 ID를",
     "alert_verify": "인증할 것을 권고합니다",
     "warning_subtext_new": {
-      "1": "MetaMask는 사용자 지정 네트워크를 확인하지 않습니다. 신뢰할 수 있는 네트워크만 승인하세요.",
+      "1": "Novai는 사용자 지정 네트워크를 확인하지 않습니다. 신뢰할 수 있는 네트워크만 승인하세요.",
       "2": "네트워크 보안 위험 및 사기에 관해 자세히 알아보세요."
     },
     "invalid_rpc_url": "이 네트워크 URL은 이 체인 ID에 대해 알려진 공급자와 일치하지 않습니다.",
@@ -2705,7 +2706,7 @@
     "estimated_gas_fee_tooltip_text_1": "가스비는 다음에서 트랜잭션을 처리하는 암호화 화폐 채굴자에게 지급되는 비용입니다:",
     "estimated_gas_fee_tooltip_text_2": "이더리움",
     "estimated_gas_fee_tooltip_text_3": "네트워크.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask는 가스비로 수익을 얻지 않습니다.",
+    "estimated_gas_fee_tooltip_text_4": "Novai는 가스비로 수익을 얻지 않습니다.",
     "estimated_gas_fee_tooltip_text_5": "가스비는 네트워크에 의해 설정되며 네트워크 트래픽 및 트랜잭션 복잡성에 따라 달라집니다.",
     "learn_more": "가스비에 대해 더 자세히 알아보기",
     "legacy_gas_suggestion_tooltip": "이 가스비 추천은 기존의 가스 예측 시스템을 사용해 계산된 것으로, 부정확할 수 있습니다."
@@ -2729,7 +2730,7 @@
     "high_fees": "왜 수수료가 이렇게 높은가요?",
     "missing_tokens": "토큰이 사라졌습니다...",
     "swap_issues": "스와프가 불가능합니다...",
-    "mobile_sentiment": "MetaMask 모바일에 대해 어떻게 생각하시나요?",
+    "mobile_sentiment": "Novai 모바일에 대해 어떻게 생각하시나요?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "좋습니다!",
@@ -2777,12 +2778,12 @@
   },
   "remember_me": {
     "enable_remember_me": "로그인 정보 저장",
-    "enable_remember_me_description": "로그인 정보를 저장하면 회원님의 휴대폰을 이용하는 모든 사람이 회원님의 MetaMask 계정에 액세스할 수 있습니다."
+    "enable_remember_me_description": "로그인 정보를 저장하면 회원님의 휴대폰을 이용하는 모든 사람이 회원님의 Novai 계정에 액세스할 수 있습니다."
   },
   "turn_off_remember_me": {
     "title": "로그인 정보 저장 기능을 끄려면 비밀번호를 입력하세요",
     "placeholder": "비밀번호",
-    "description": "이 기능을 끄면 지금부터 비밀번호를 사용하여 MetaMask를 잠금 해제해야 합니다.",
+    "description": "이 기능을 끄면 지금부터 비밀번호를 사용하여 Novai를 잠금 해제해야 합니다.",
     "action": "로그인 정보 저장 끄기"
   },
   "dapp_connect": {
@@ -2794,11 +2795,11 @@
   },
   "automatic_security_checks": {
     "title": "자동 보안 점검",
-    "description": "업데이트를 위한 자동 보안 점검의 경우 GitHub 서버에 IP 주소가 노출될 수 있습니다. 이때 노출되는 정보는 해당 IP 주소가 MetaMask를 사용한다는 사실뿐입니다. 다른 정보나 계정 주소는 노출되지 않습니다."
+    "description": "업데이트를 위한 자동 보안 점검의 경우 GitHub 서버에 IP 주소가 노출될 수 있습니다. 이때 노출되는 정보는 해당 IP 주소가 Novai를 사용한다는 사실뿐입니다. 다른 정보나 계정 주소는 노출되지 않습니다."
   },
   "terms_of_use_modal": {
     "title": "최근 이용약관 검토",
-    "terms_of_use_check_description": "본인은 MetaMask의 사용과 관련 모든 기능에 적용되는 이용약관에 동의합니다",
+    "terms_of_use_check_description": "본인은 Novai의 사용과 관련 모든 기능에 적용되는 이용약관에 동의합니다",
     "accept_cta": "수락",
     "accept_helper_description": "스크롤하여 모든 섹션의 내용을 읽으세요"
   },
@@ -2810,7 +2811,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "보안 업데이트를 자동으로 확인할까요?",
-    "description": "업데이트를 위한 자동 보안 점검의 경우 GitHub 서버에 IP 주소가 노출될 수 있습니다. 이때 노출되는 정보는 해당 IP 주소가 MetaMask를 사용한다는 사실뿐입니다. 다른 정보나 계정 주소는 노출되지 않습니다.",
+    "description": "업데이트를 위한 자동 보안 점검의 경우 GitHub 서버에 IP 주소가 노출될 수 있습니다. 이때 노출되는 정보는 해당 IP 주소가 Novai를 사용한다는 사실뿐입니다. 다른 정보나 계정 주소는 노출되지 않습니다.",
     "primary_action": "자동 보안 확인 활성화",
     "secondary_action": "괜찮습니다"
   },
@@ -2863,7 +2864,7 @@
     "new_wallet_needed_create_try_again_action": "지갑 복구 시도",
     "new_wallet_needed_description_part_one": "지갑에 문제가 발생하여 새 지갑이 필요할 수 있습니다. 회원님의 계정은 블록체인에 있기 때문에 여전히 안전합니다. 기기에 저장된 기본 설정, 저장된 네트워크, 계정 제목 및 관련 데이터만 손실되었습니다.",
     "new_wallet_needed_description_part_two": "새 지갑으로 계정을 가져오려면 비밀복구구문이 필요합니다. 비밀복구구문이 없으면 계정을 가져올 수 없습니다.",
-    "new_wallet_needed_description_part_three": "이런 일이 다시 발생하지 않도록 MetaMask 앱과 OS를 항상 최신 버전으로 업데이트하세요."
+    "new_wallet_needed_description_part_three": "이런 일이 다시 발생하지 않도록 Novai 앱과 OS를 항상 최신 버전으로 업데이트하세요."
   },
   "srp_security_quiz": {
     "title": "보안 퀴즈",
@@ -2874,7 +2875,7 @@
     "continue": "계속",
     "of": "/",
     "question_one": {
-      "question": "비밀복구구문을 분실하시면 MetaMask가...",
+      "question": "비밀복구구문을 분실하시면 Novai가...",
       "right_answer": "도와드릴 수 없습니다",
       "wrong_answer": "찾아드릴 수 있습니다",
       "right_answer_title": "맞습니다! 아무도 본인의 비밀복구구문을 복구할 수 없습니다",
@@ -2899,9 +2900,9 @@
     "bluetooth_off_message": "기기의 블루투스를 켜세요",
     "bluetooth_access_blocked": "Ledger가 모바일 기기와 페어링하려면 블루투스가 필요합니다.",
     "bluetooth_access_blocked_message": "블루투스를 이용하여 Ledger 기기를 페어링하기 원하시면 설정에서 블루투스를 활성화하고 다시 시도하세요.",
-    "location_access_blocked": "MetaMask를 Ledger와 페어링하려면 위치 액세스 권한이 필요합니다.",
+    "location_access_blocked": "Novai를 Ledger와 페어링하려면 위치 액세스 권한이 필요합니다.",
     "location_access_blocked_message": "블루투스를 이용하여 Ledger 기기를 페어링하기 원하시면 설정에서 위치 정보 액세스를 활성화하고 다시 시도하세요.",
-    "nearbyDevices_access_blocked": "MetaMask를 Ledger와 페어링하려면 주변 장치 권한이 필요합니다.",
+    "nearbyDevices_access_blocked": "Novai를 Ledger와 페어링하려면 주변 장치 권한이 필요합니다.",
     "nearbyDevices_access_blocked_message": "블루투스를 이용하여 Ledger 기기를 페어링하려면, 설정에서 주변 장치 액세스를 활성화하고 다시 시도하세요.",
     "bluetooth_scanning_error": "기기 스캐닝 중 오류 발생",
     "bluetooth_scanning_error_message": "기기가 잠금해제되어 있고 이더리움 앱이 실행되고 있는지 확인하세요",
@@ -2941,7 +2942,7 @@
     "unknown_error_message": "예기치 못한 오류가 발생했습니다. 다시 시도하세요.",
     "error_occured": "오류가 발생했습니다",
     "how_to_install_eth_app": "Ledger 기기에 이더리움 앱 설치하는 방법",
-    "ledger_account_count": "MetaMask Mobile의 Ledger에서 1개의 계정을 사용 중입니다.",
+    "ledger_account_count": "Novai Mobile의 Ledger에서 1개의 계정을 사용 중입니다.",
     "open_eth_app": "이더리움 앱을 여세요",
     "open_eth_app_message_one": "이더리움 앱이 설치되었지만 열려있지 않습니다. ",
     "open_eth_app_message_two": "이더리움 앱을 계속 실행할 수 있도록 기기의 두 버튼을 누르고 안내에 따라 진행하세요.",
@@ -2955,7 +2956,7 @@
     "not_supported": "지원되지 않는 지역입니다",
     "not_supported_error": "입력한 데이터의 버전 4만 지원됩니다.",
     "error_during_connection": "알 수 없는 오류가 발생했습니다",
-    "error_during_connection_message": "Ledger Nano X를 연결하는 데 약간의 문제가 발생했습니다. 다시 시도하려면 아래의 '재시도'를 탭하세요. 이는 가끔 모바일 MetaMask의 페어링을 시작할 때 Ledger Nano X에서 ETH 앱이 열려 있기 때문에 발생합니다.",
+    "error_during_connection_message": "Ledger Nano X를 연결하는 데 약간의 문제가 발생했습니다. 다시 시도하려면 아래의 '재시도'를 탭하세요. 이는 가끔 모바일 Novai의 페어링을 시작할 때 Ledger Nano X에서 ETH 앱이 열려 있기 때문에 발생합니다.",
     "how_to_install_eth_webview_title": "이더리움 앱 설치 방법",
     "nonce_too_low": "논스가 너무 낮습니다",
     "nonce_too_low_error": "설정한 논스가 너무 낮습니다"
@@ -3016,7 +3017,7 @@
   },
   "default_settings": {
     "title": "지갑이 준비되었습니다",
-    "description": "MetaMask의 기본 설정은 보안과 사용의 편의성 사이에서 최적의 균형을 맞추기 위한 설정입니다. 개인정보 보호 기능을 강화하려면 설정을 변경하세요.",
+    "description": "Novai의 기본 설정은 보안과 사용의 편의성 사이에서 최적의 균형을 맞추기 위한 설정입니다. 개인정보 보호 기능을 강화하려면 설정을 변경하세요.",
     "learn_more_about_privacy": "개인정보 보호 모범 사례에 대해 자세히 알아보세요.",
     "privacy_policy": "개인정보 처리방침",
     "default_settings": "기본 설정",
@@ -3025,12 +3026,12 @@
     "manage_networks": "네트워크 관리",
     "manage_networks_body": "가능한 가장 안정적인 비공개 이더리움 액세스를 위해 Infura를 원격 프로시저 호출(RPC) 공급업체로 선정하였습니다. 회원님은 개인적으로 원하는 RPC를 선택할 수 있습니다. 하지만, 모든 RPC는 트랜잭션을 위해 회원님의 이더리움 지갑과 IP 주소를 수령한다는 점에 유의해야 합니다. 다음을 확인하세요: ",
     "manage_networks_body2": " infura의 데이터 처리 방법 확인.",
-    "functionality_body": "토큰 데이터 및 가격, 최적의 가스 설정, 보안 업데이트 등을 포함합니다. 이 서비스를 사용하면 웹사이트를 방문할 때와 마찬가지로 사용자의 IP 주소를 MetaMask와 공유하게 됩니다.",
+    "functionality_body": "토큰 데이터 및 가격, 최적의 가스 설정, 보안 업데이트 등을 포함합니다. 이 서비스를 사용하면 웹사이트를 방문할 때와 마찬가지로 사용자의 IP 주소를 Novai와 공유하게 됩니다.",
     "sheet": {
       "title_off": "기본 기능 끄기",
-      "description_off": "이렇게 하면 MetaMask에서 시간을 완전히 최적화할 수 없습니다. 기본 기능(토큰 세부 정보, 최적의 가스 설정 등)을 사용할 수 없게 됩니다.",
+      "description_off": "이렇게 하면 Novai에서 시간을 완전히 최적화할 수 없습니다. 기본 기능(토큰 세부 정보, 최적의 가스 설정 등)을 사용할 수 없게 됩니다.",
       "title_on": "기본 기능 켜기",
-      "description_on": "MetaMask에서 시간을 최적화하려면 이 기능을 켜야 합니다. 기본 기능(토큰 세부 정보, 최적의 가스 설정 등)은 웹3 경험에 중요한 요소입니다.",
+      "description_on": "Novai에서 시간을 최적화하려면 이 기능을 켜야 합니다. 기본 기능(토큰 세부 정보, 최적의 가스 설정 등)은 웹3 경험에 중요한 요소입니다.",
       "checkbox_label": "이해했습니다. 계속 진행하겠습니다",
       "buttons": {
         "cancel": "취소",

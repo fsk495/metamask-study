@@ -32,6 +32,5 @@ const allowedChainIds = [
  */
 export default function isBridgeAllowed(chainId: string) {
   if (!AppConstants.BRIDGE.ACTIVE) return false;
-
   return allowedChainIds.includes(chainId);
 }

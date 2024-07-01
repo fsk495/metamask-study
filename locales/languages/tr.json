@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Cüzdan kurulumu",
-    "sync_desc": "Zaten MetaMask uzantısı veya başka bir cüzdan aldıysanız mevcut varlıklarınızı yönetmek için onu senkronize edin veya içe aktarın.",
+    "sync_desc": "Zaten Novai uzantısı veya başka bir cüzdan aldıysanız mevcut varlıklarınızı yönetmek için onu senkronize edin veya içe aktarın.",
     "create_desc": "İlk cüzdan kurulumunuzu yapın ve merkeziyetsiz uygulamaları keşfetmeye başlayın.",
     "import": "Mevcut bir cüzdanı içe aktarın veya yeni bir tane oluşturun.",
     "import_wallet_button": "Cüzdanı senkronize et veya içe aktar",
     "new_to_crypto": "Kriptoda yeni misiniz?",
     "start_exploring_now": "Yeni bir cüzdan oluştur",
     "unlock": "Kilidini Aç",
-    "new_to_metamask": "MetaMask'te yeni misiniz?",
+    "new_to_metamask": "Novai'te yeni misiniz?",
     "already_have_wallet": "Zaten bir cüzdanınız var mı?",
     "optin_back_title": "Dikkat!",
     "optin_back_desc": "Lütfen veri analitiklerinin kullanımını kabul edin veya reddedin. Bu seçeneği ayarlar kısmında da güncelleyebilirsiniz.",
@@ -76,15 +76,15 @@
     "warning_text_1": "İlerlediğiniz takdirde",
     "warning_text_2": "geçerli cüzdan ve hesaplarınız",
     "warning_text_3": "kaldırılacak.",
-    "warning_text_4": "Onları sadece cüzdanınızın Gizli Kurtarma İfadesi ile kurtarabilirsiniz. MetaMask onu kurtarmanıza yardımcı olamaz.",
+    "warning_text_4": "Onları sadece cüzdanınızın Gizli Kurtarma İfadesi ile kurtarabilirsiniz. Novai onu kurtarmanıza yardımcı olamaz.",
     "warning_proceed": "Cüzdanı kaldır ve ilerle",
     "warning_cancel": "İptal",
     "step1": "Cüzdan kurulumu",
     "step2": "Şifre oluştur",
     "step3": "Cüzdanı güvenli hale getir",
     "already_have": "Zaten bir cüzdanınız var mı?",
-    "sync_existing": "Tarayıcı uzantısından mevcut MetaMask cüzdanınızı senkronize edin veya manuel olarak içe aktarın.",
-    "scan_title": "MetaMask uzantısı ile senkronize etme adımları",
+    "sync_existing": "Tarayıcı uzantısından mevcut Novai cüzdanınızı senkronize edin veya manuel olarak içe aktarın.",
+    "scan_title": "Novai uzantısı ile senkronize etme adımları",
     "scan": "Tara",
     "scan_step_1": "Uzantıyı masaüstünde aç",
     "scan_step_2": "Ayarlar > Gelişmiş kısmına gidin",
@@ -113,12 +113,12 @@
     "done": "Bitti"
   },
   "onboarding_carousel": {
-    "title1": "MetaMask'e Hoş Geldiniz",
+    "title1": "Novai'e Hoş Geldiniz",
     "title2": "Dijital varlıklarını yönet",
     "title3": "web3 ağ geçidiniz",
-    "subtitle1": "Milyonların güvendiği MetaMask web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır.",
+    "subtitle1": "Milyonların güvendiği Novai web3 dünyasını herkes için erişilebilir kılan güvenli bir cüzdandır.",
     "subtitle2": "Token, ethereum, eşsiz koleksiyonlar gibi dijital varlıkları tutun, harcayın ve gönderin.",
-    "subtitle3": "MetaMask ile oturum açın ve yatırım yapmak, kazanmak, oyun oynamak ve satmak ve daha fazlası için işlem yapın!",
+    "subtitle3": "Novai ile oturum açın ve yatırım yapmak, kazanmak, oyun oynamak ve satmak ve daha fazlası için işlem yapın!",
     "get_started": "Başla"
   },
   "onboarding_wizard": {
@@ -148,7 +148,7 @@
     "step4": {
       "title": "Ana Menü",
       "content1": "Bu menüden İşlem geçmişi, Ayarlar ve Destek kısımlarına erişim sağlayabilirsiniz.",
-      "content2": "Hesaplarınızla daha fazla işlem yapabilir ve MetaMask ayarlarına erişim sağlayabilirsiniz."
+      "content2": "Hesaplarınızla daha fazla işlem yapabilir ve Novai ayarlarına erişim sağlayabilirsiniz."
     },
     "step5": {
       "title": "Tarayıcıyı Keşfet",
@@ -167,7 +167,7 @@
     },
     "step1": {
       "title": "Cüzdanınıza hoş geldiniz!",
-      "content1": "Blokzincirinde bir cüzdana ihtiyacınız vardır (ve belki biraz ETH'ye). Öyleyse, MetaMask cüzdanınızı nasıl kullanacağınıza bakalım."
+      "content1": "Blokzincirinde bir cüzdana ihtiyacınız vardır (ve belki biraz ETH'ye). Öyleyse, Novai cüzdanınızı nasıl kullanacağınıza bakalım."
     },
     "step2": {
       "title": "Hesaplarınız",
@@ -199,14 +199,14 @@
     "subtitle": "Bu işlem uzun sürmeyecektir"
   },
   "import_wallet": {
-    "title": "Zaten MetaMask kullanıcısı mısınız?",
+    "title": "Zaten Novai kullanıcısı mısınız?",
     "sub_title": "Uzantı ile senkronize et",
     "sync_help": "Uzantı ile cüzdanını senkronize et",
     "sync_help_step_one": "1. Uzantıyı aç",
     "sync_help_step_two": "2. Ayarlar > Gelişmiş kısmına gidin",
     "sync_help_step_three": "3. “Mobil ile Senkronize Et” düğmesine tıklayın",
     "sync_help_step_four": "4. Senkronize etmeye başlamak için QR kodunu tarayın",
-    "sync_from_browser_extension_button": "MetaMask uzantısı ile senkronize et",
+    "sync_from_browser_extension_button": "Novai uzantısı ile senkronize et",
     "or": "VEYA",
     "import_from_seed_button": "Gizli Kurtarma İfadesini kullanarak içe aktar"
   },
@@ -226,13 +226,13 @@
     "this_action": "Bu eylem geri alınamaz.",
     "you_can_only": "Bu cüzdanı SADECE",
     "recovery_phrase": "Gizli Kurtarma İfadenizle kurtarabilirsiniz",
-    "metamask_does_not": "Gizli Kurtarma İfadeniz MetaMask'in içerisinde bulunmaz.",
+    "metamask_does_not": "Gizli Kurtarma İfadeniz Novai'in içerisinde bulunmaz.",
     "i_understand": "Anlıyorum, devam et",
     "passcode_not_set_error": "Hata: Parola ayarlanmadı.",
     "wrong_password_error": "Hata: Şifre çözme başarısız oldu",
     "wrong_password_error_android": "Hata: error:1e000065:Şifreleme fonksiyonları:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Hata: Önceki bir vault olmadan kilidi açılamaz.",
-    "clean_vault_error": "MetaMask, depolama limitine ulaşılmasından dolayı bir hata ile karşılaştı. Yerel veriler bozuldu. Lütfen MetaMask'ı tekrar yükleyin ve Gizli Kurtarma İfadenizi kullanarak geri yükleyin.",
+    "clean_vault_error": "Novai, depolama limitine ulaşılmasından dolayı bir hata ile karşılaştı. Yerel veriler bozuldu. Lütfen Novai'ı tekrar yükleyin ve Gizli Kurtarma İfadenizi kullanarak geri yükleyin.",
     "security_alert_title": "Güvenlik Uyarısı",
     "security_alert_desc": "İlerlemek için Parolayı veya cihazınızda desteklenen herhangi bir biyometrik kimlik doğrulama yöntemini (FaceID, TouchID veya Parmak İzi) açmanız gereklidir"
   },
@@ -249,7 +249,7 @@
   },
   "choose_password": {
     "title": "Şifre oluştur",
-    "subtitle": "Bu şifre sadece bu cihazda MetaMask cüzdanınızın kilidini açar.",
+    "subtitle": "Bu şifre sadece bu cihazda Novai cüzdanınızın kilidini açar.",
     "password": "Yeni Şifre",
     "confirm_password": "Şifreyi onayla",
     "create_button": "Şifre oluştur",
@@ -267,7 +267,7 @@
     "remember_me": "Beni hatırla",
     "security_alert_title": "Güvenlik Uyarısı",
     "security_alert_message": "İlerlemek için Parolayı veya cihazınızda desteklenen herhangi bir biyometri kimlik doğrulama yöntemini (FaceID, TouchID veya Parmak İzi) açmanız gerekir",
-    "i_understand": "MetaMask'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
+    "i_understand": "Novai'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
     "learn_more": "Daha fazlasını öğren.",
     "secure": "Cüzdanı güvenli hale getir",
     "confirm": "Gizli Kurtarma İfadesini onayla",
@@ -275,7 +275,7 @@
   },
   "reset_password": {
     "title": "Şifreyi değiştir",
-    "subtitle": "Bu şifre sadece bu cihazda MetaMask cüzdanınızın kilidini açar.",
+    "subtitle": "Bu şifre sadece bu cihazda Novai cüzdanınızın kilidini açar.",
     "password": "Yeni Şifre",
     "confirm_password": "Şifreyi onayla",
     "reset_button": "Şifreyi sıfırla",
@@ -293,7 +293,7 @@
     "remember_me": "Beni hatırla",
     "security_alert_title": "Güvenlik Uyarısı",
     "security_alert_message": "İlerlemek için Parolayı veya cihazınızda desteklenen herhangi bir biyometri kimlik doğrulama yöntemini (FaceID, TouchID veya Parmak İzi) açmanız gerekir",
-    "i_understand": "MetaMask'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
+    "i_understand": "Novai'ın benim için bu şifreyi kurtaramadığını anlıyorum.",
     "learn_more": "Daha fazlasını öğren.",
     "secure": "Cüzdanı güvenli hale getir",
     "confirm": "Gizli Kurtarma İfadesini onayla",
@@ -334,7 +334,7 @@
     "view_in_etherscan": "Etherscan üzerinde görüntüle",
     "view_in": "Şurada görüntüle:",
     "browser": "Tarayıcı",
-    "settings": "Ayarlar",
+    "settings": "Benim.",
     "settings_warning": "Cüzdan korunmasız",
     "settings_warning_short": "Korunmasız",
     "help": "Destek",
@@ -343,7 +343,7 @@
     "lock_ok": "EVET",
     "lock_cancel": "HAYIR",
     "feedback": "Geri Bildirim",
-    "metamask_support": "MetaMask Destek",
+    "metamask_support": "Novai Destek",
     "public_address": "Genel Adres"
   },
   "send": {
@@ -413,7 +413,7 @@
     "no_tokens": "Tokeniniz yok!",
     "no_nfts_yet": "Henüz NFT yok",
     "nfts_autodetection_title": "NFT algılama",
-    "nfts_autodetection_desc": "MetaMask'ın OpenSea'den NFT'leri otomatik olarak algılayıp MetaMask cüzdanınızda göstermesine izin verin.",
+    "nfts_autodetection_desc": "Novai'ın OpenSea'den NFT'leri otomatik olarak algılayıp Novai cüzdanınızda göstermesine izin verin.",
     "network_details_check": "Ağ bilgileri kontrolü",
     "network_with_chain_id": "Zincir kimliği olan ağ",
     "chain_list_returned_different_ticker_symbol": "Bu token sembolü, girilen ağ adı veya zincir kimliği ile eşleşmiyor. Pek çok popüler token benzer sembolleri kullanır ve dolandırıcılar, karşılığında daha değerli bir token gönderecekleri yönünde sizi kandırmak için bunları kullanabilirler. Devam etmeden önce her şeyi doğrulayın.",
@@ -480,7 +480,8 @@
     "title": "Faaliyet"
   },
   "transactions_view": {
-    "title": "İşlemler"
+    "title": "İşlemler",
+    "title_description":"Transaksyon kayıtları"
   },
   "add_asset": {
     "title": "Tokenleri içe aktar",
@@ -517,8 +518,8 @@
     "privacy_policy_button": "Gizlilik Politikası",
     "agree": "Kabul Ediyorum",
     "decline": "Hayır, teşekkürler",
-    "description_title": "MetaMask'ı iyileştirmemize yardımcı olun",
-    "description_content_1": "MetaMask'i iyileştirmek için temel kullanım verilerini toplamak istiyoruz. Burada sunduğunuz verileri asla satmadığımızı bilmenizi isteriz.",
+    "description_title": "Novai'ı iyileştirmemize yardımcı olun",
+    "description_content_1": "Novai'i iyileştirmek için temel kullanım verilerini toplamak istiyoruz. Burada sunduğunuz verileri asla satmadığımızı bilmenizi isteriz.",
     "description_content_2": "Topladığımız ölçümler her zaman şu şekilde olacaktır...",
     "checkbox": "We'll use this data to learn how you interact with our marketing communications. We may share relavent news (like product features).",
     "action_description_1_prefix": "Özel:",
@@ -530,12 +531,12 @@
     "cta_no_thanks": "Hayır, istemiyorum",
     "cta_i_agree": "Kabul ediyorum",
     "fine_print_1_legacy": "Bu veriler birleştirilmiştir ve bu nedenle 2016/679 sayılı Genel Veri Koruma Tüzüğü (AB) kapsamında isimsizdir.",
-    "fine_print_2a_legacy": "*MetaMask'te varsayılan RPC sağlayıcınız olarak Infura'yı kullanırsanız siz bir işlem gönderdiğinizde Infura, IP adresinizi ve Ethereum cüzdan adresinizi toplar. Bu bilgileri sistemlerimizin bu iki veri parçasını ilişkilendirmesine izin verecek şekilde saklamayız. İlerlemeden önce RPC sağlayıcınızı",
-    "fine_print_2b_legacy": "yapılandırabilirsiniz. \nMetaMask ve Infura'nın veri toplama açısından nasıl etkileşimde bulunduğu hakkında daha fazla bilgi için güncellememize bakın",
+    "fine_print_2a_legacy": "*Novai'te varsayılan RPC sağlayıcınız olarak Infura'yı kullanırsanız siz bir işlem gönderdiğinizde Infura, IP adresinizi ve Ethereum cüzdan adresinizi toplar. Bu bilgileri sistemlerimizin bu iki veri parçasını ilişkilendirmesine izin verecek şekilde saklamayız. İlerlemeden önce RPC sağlayıcınızı",
+    "fine_print_2b_legacy": "yapılandırabilirsiniz. \nNovai ve Infura'nın veri toplama açısından nasıl etkileşimde bulunduğu hakkında daha fazla bilgi için güncellememize bakın",
     "fine_print_2c_legacy": ". Genel olarak gizlilik uygulamalarımız hakkında daha fazla bilgi için Gizlilik Politikası bölümümüze bakın",
     "here_legacy": "buradan",
-    "description_content_1_legacy": "MetaMask olarak kullanıcılarımızın MetaMask ile nasıl etkileşimde bulunduğunu daha iyi anlamak amacıyla temel kullanım verilerini toplamak isteriz. Bu veriler ürünümüze ilişkin kullanılabilirliği ve kullanıcı deneyimini devamlı iyileştirmek amacıyla kullanılacaktır.",
-    "description_content_2_legacy": "MetaMask...",
+    "description_content_1_legacy": "Novai olarak kullanıcılarımızın Novai ile nasıl etkileşimde bulunduğunu daha iyi anlamak amacıyla temel kullanım verilerini toplamak isteriz. Bu veriler ürünümüze ilişkin kullanılabilirliği ve kullanıcı deneyimini devamlı iyileştirmek amacıyla kullanılacaktır.",
+    "description_content_2_legacy": "Novai...",
     "action_description_1_legacy": "Her zaman Ayarlar kısmından vazgeçebilmenize izin verir",
     "action_description_2_legacy": "İsimsizleştirilmiş tıklama ve sayfa görüntüleme olaylarını gönder",
     "action_description_3_legacy": "hizmeti sunmak için ihtiyacımız olmayan bilgileri (anahtarlar, adresler, işlem hash değerleri veya bakiyeler gibi) toplar",
@@ -639,7 +640,7 @@
     "learn_more": "Daha fazla bilgi",
     "advisory_by": "Ethereum Kimlik Avı Algılayıcı ve PhishFort tarafından sunulan uyarı",
     "potential_threat": "Potansiyel tehditler şunları içerir",
-    "fake_metamask": "Sahte MetaMask sürümleri",
+    "fake_metamask": "Sahte Novai sürümleri",
     "srp_theft": "Gizli kurtarma ifadesi veya şifre hırsızlığı",
     "malicious_transactions": "Varlıkların çalınmasına neden olan kötü amaçlı işlemler"
   },
@@ -672,7 +673,7 @@
   },
   "data_collection_modal": {
     "accept": "Okay",
-    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use MetaMask on other devices, make sure to opt out there as well."
+    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use Novai on other devices, make sure to opt out there as well."
   },
   "account_selector": {
     "prev": "ÖNCEKİ",
@@ -685,7 +686,7 @@
     "current_conversion": "Temel Para Birimi",
     "current_language": "Geçerli Dil",
     "ipfs_gateway": "IPFS Ağ Geçidi",
-    "ipfs_gateway_content": "MetaMask, IPFS'de depolanan NFT'lerinizin görüntülerini göstermek, tarayıcınızın adres çubuğuna girilen ENS adresleri ile ilgili bilgileri göstermek ve farklı token'lerin simgelerini almak için üçüncü taraf hizmetleri kullanır. Siz bunları kullanırken IP adresiniz bu hizmetlerle paylaşılabilir.",
+    "ipfs_gateway_content": "Novai, IPFS'de depolanan NFT'lerinizin görüntülerini göstermek, tarayıcınızın adres çubuğuna girilen ENS adresleri ile ilgili bilgileri göstermek ve farklı token'lerin simgelerini almak için üçüncü taraf hizmetleri kullanır. Siz bunları kullanırken IP adresiniz bu hizmetlerle paylaşılabilir.",
     "ipfs_gateway_down": "Geçerli IPFS ağ geçidiniz bozuk",
     "ipfs_gateway_desc": "Tercih ettiğiniz IPFS ağ geçidini seçin.",
     "search_engine": "Arama Motoru",
@@ -694,7 +695,7 @@
     "add_network_title": "Ağ ekle",
     "auto_lock": "Otomatik kilitle",
     "auto_lock_desc": "Uygulama otomatik olarak kilitlenmeden süre miktarını seçin.",
-    "state_logs_desc": "Bu, MetaMask'ın, karşılaşabileceğiniz her sorunu çözmesine yardımcı olur. Lütfen hamburger simgesinden > Geri Bildirim Gönder kısmından MetaMask destek bölümüne gönderin veya varsa mevcut sorgunuza yanıt verin.",
+    "state_logs_desc": "Bu, Novai'ın, karşılaşabileceğiniz her sorunu çözmesine yardımcı olur. Lütfen hamburger simgesinden > Geri Bildirim Gönder kısmından Novai destek bölümüne gönderin veya varsa mevcut sorgunuza yanıt verin.",
     "autolock_immediately": "Hemen",
     "autolock_never": "Hiçbir Zaman",
     "autolock_after": "{{time}} saniye sonra",
@@ -728,7 +729,7 @@
     "protect_title": "Cüzdanınızı koruyun",
     "video_failed": "Video Yükleme İşlemi Başarısız Oldu.",
     "protect_desc": "Gizli Kurtarma İfadenizi bir kağıt parçası, şifre yöneticisi ve/veya bulut gibi çeşitli yerlere kaydederek cüzdanını koruyun.",
-    "protect_desc_no_backup": "Bu sizin cüzdanınızın 12 sözcükten oluşan ifadesidir. Bu ifade, cüzdanınızda para gönderme kabiliyeti de dahil olmak üzere tüm şimdiki ve gelecekteki hesaplarınızı kontrol etmek için kullanılabilir. Bu ifadeyi güvenli bir şekilde saklayın, hiç kimseyle PAYLAŞMAYIN. MetaMask bu anahtarı kurtarmanıza yardımcı olamaz.",
+    "protect_desc_no_backup": "Bu sizin cüzdanınızın 12 sözcükten oluşan ifadesidir. Bu ifade, cüzdanınızda para gönderme kabiliyeti de dahil olmak üzere tüm şimdiki ve gelecekteki hesaplarınızı kontrol etmek için kullanılabilir. Bu ifadeyi güvenli bir şekilde saklayın, hiç kimseyle PAYLAŞMAYIN. Novai bu anahtarı kurtarmanıza yardımcı olamaz.",
     "learn_more": "Daha fazlasını öğren.",
     "seedphrase_not_backed_up": "Önemli! Gizli Kurtarma İfadesi yedeklenmedi",
     "seedphrase_backed_up": "Gizli Kurtarma İfadesi yedeklendi",
@@ -824,8 +825,8 @@
     "remove_network_title": "Bu ağı kaldırmak istiyor musunuz?",
     "remove_network": "Kaldır",
     "cancel_remove_network": "İptal",
-    "info_title": "MetaMask Hakkında",
-    "info_title_flask": "MetaMask Flask Hakkında",
+    "info_title": "Novai Hakkında",
+    "info_title_flask": "Novai Flask Hakkında",
     "experimental_title": "Deneysel",
     "experimental_desc": "WalletConnect ve daha fazlası...",
     "legal_title": "Hukuki",
@@ -893,18 +894,18 @@
     "delete_metrics_confirm_modal_title": "MetaMetrics verilerini sil?",
     "delete_metrics_confirm_modal_description": "Tüm MetaMetrics verilerini kaldırmak üzeresiniz. Emin misiniz?",
     "delete_wallet_data_title": "Cüzdanı sil",
-    "delete_wallet_data_description": "Bu işlem cüzdanla ilgili tüm verileri cihazınızdan silecek. Hesaplar blokzincirinde bulunur ve MetaMask ile ilgili değildir. Dilediğiniz zaman Gizli Kurtarma İfadenizi kullanarak hesaplarınızı kurtarabilirsiniz.",
+    "delete_wallet_data_description": "Bu işlem cüzdanla ilgili tüm verileri cihazınızdan silecek. Hesaplar blokzincirinde bulunur ve Novai ile ilgili değildir. Dilediğiniz zaman Gizli Kurtarma İfadenizi kullanarak hesaplarınızı kurtarabilirsiniz.",
     "delete_wallet_data_button": "Cüzdanı sil",
     "delete_data_status_title": "Silme İşleminin Durumu",
     "delete_data_status_description": "Güncel durum ",
     "delete_metrics_error_title": "Şu anda bu verileri silemiyoruz.",
     "delete_metrics_error_description": "Bu talep analitik bir sistem sunucusu sorunundan dolayı şu anda tamamlanamıyor, lütfen daha sonra tekrar deneyin.",
     "ok": "Tamam",
-    "clear_sdk_connections_title": "Tüm MetaMask SDK Bağlantılarını temizle",
+    "clear_sdk_connections_title": "Tüm Novai SDK Bağlantılarını temizle",
     "clear_sdk_connections_text": "Tüm bağlantılar temizlenecek ve uygulamaların tekrar bağlantı talep etmesi gerekecek",
-    "sdk_connections": "MetaMask SDK Bağlantıları",
+    "sdk_connections": "Novai SDK Bağlantıları",
     "manage_sdk_connections_title": "Bağlantıları yönet",
-    "manage_sdk_connections_text": "Sitelere ve/veya MetaMask SDK bağlantılarını kaldırın.",
+    "manage_sdk_connections_text": "Sitelere ve/veya Novai SDK bağlantılarını kaldırın.",
     "fiat_on_ramp": {
       "title": "Kripto Al ve Sat",
       "description": "Bölge ve daha fazlası...",
@@ -927,11 +928,11 @@
     "contact_support": "Destek ile iletişim kurun",
     "display_nft_media": "NFT Medyasını göster",
     "display_nft_media_desc": "NFT medyasını ve verilerini göstermek IP adresinizi OpenSea veya diğer üçüncü taraflara ifşa edebilir. NFT otomatik algılama bu özelliğe dayanır ve bu kapatıldığında kullanılamaz.",
-    "autodetect_nft_desc": "MetaMask'in üçüncü taraf hizmetleri (OpenSea) kullanarak size ait olan NFT'leri eklemesine izin verin. NFT'leri otomatik algılama, IP adresinizi ve hesap adresinizi bu hizmetlere ifşa eder. Bu özelliğin etkinleştirilmesi IP adresinizi Ethereum adresinizle ilişkilendirebilir ve dolandırıcılar tarafından airdrop'u gerçekleştirilen sahte NFT'leri gösterebilir. Bu riski önlemek için token'leri elle ekleyebilirsiniz.",
+    "autodetect_nft_desc": "Novai'in üçüncü taraf hizmetleri (OpenSea) kullanarak size ait olan NFT'leri eklemesine izin verin. NFT'leri otomatik algılama, IP adresinizi ve hesap adresinizi bu hizmetlere ifşa eder. Bu özelliğin etkinleştirilmesi IP adresinizi Ethereum adresinizle ilişkilendirebilir ve dolandırıcılar tarafından airdrop'u gerçekleştirilen sahte NFT'leri gösterebilir. Bu riski önlemek için token'leri elle ekleyebilirsiniz.",
     "incoming_transactions_title": "Gelen işlemleri göster",
     "incoming_transactions_content": "Bu, Ethereum adresinizi ve IP adresinizi ifşa edecek olan seçtiğiniz ağa dayalıdır.",
     "display_nft_media_desc_new": "NFT medyasını ve verilerini görüntülemek, IP adresinizin OpenSea veya diğer üçüncü taraflarla paylaşılmasına neden olabilir. NFT otomatik algılama bu özelliğe dayanır ve kapatıldığında kullanılamaz. NFT medyası tamamen IPFS'de bulunuyorsa bu özellik kapalı olduğunda bile görüntülenmeye devam edebilir.",
-    "use_safe_chains_list_validation_desc_1": "MetaMask ",
+    "use_safe_chains_list_validation_desc_1": "Novai ",
     "use_safe_chains_list_validation_desc_2": "adlı bir üçüncü taraf hizmetini kullanır. Bu, kötü amaçlı ve yanlış ağa bağlanma ihtimalinizi düşürür. Bu özelliği kullanırken IP adresiniz şununla paylaşılır:  ",
     "snaps": {
       "title": "Snap'ler",
@@ -1002,7 +1003,7 @@
     "manage_connections": "Bağlantıları Yönet",
     "manage": "Yönet",
     "cancel": "İptal",
-    "loading": "MetaMask'a bağlanılıyor...",
+    "loading": "Novai'a bağlanılıyor...",
     "unkown_dapp": "Merkeziyetsiz uygulama adı kullanılamıyor",
     "no_connections": "Bağlantı yok",
     "no_connections_desc": "Bir siteye veya bir uygulamaya bağladığınız hesabı burada göreceksiniz."
@@ -1027,7 +1028,7 @@
   "sdk_feedback_modal": {
     "ok": "Tamam",
     "title": "Hesap bağlantısı kurulamadı",
-    "info": "MetaMask'a tekrar bağlanmak için lütfen merkeziyetsiz uygulama üzerinde QR kodunu tarayın"
+    "info": "Novai'a tekrar bağlanmak için lütfen merkeziyetsiz uygulama üzerinde QR kodunu tarayın"
   },
   "app_information": {
     "title": "Bilgi",
@@ -1052,7 +1053,7 @@
       "Gizli Kurtarma İfadesi (GKİ)",
       " cüzdanınıza,",
       " paranıza ve hesaplarınıza tam erişim verir.\n\n",
-      "MetaMask,",
+      "Novai,",
       "emanete dayalı olmayan bir cüzdandır",
       ". Yani, ",
       "GKİ'niz size aittir."
@@ -1061,14 +1062,14 @@
     "private_key_warning": "Bu, halihazırda seçili hesabın özel anahtarıdır: {{accountName}}. Bu anahtarı hiçbir zaman ifşa etmeyin. Özel anahtara sahip olan herkes, paranızın tamamını transfer etmek de dahil olmak üzere hesabınızı tam olarak kontrol edebilir.",
     "seed_phrase_warning_explanation": [
       "Hiç kimsenin ekranınıza bakmadığından emin olun.",
-      "MetaMask Destek bölümü bunu asla talep etmez."
+      "Novai Destek bölümü bunu asla talep etmez."
     ],
     "private_key_warning_explanation": "Bu anahtarı hiçbir zaman ifşa etmeyin. Özel anahtarınıza sahip olan herkes, paranızın tamamını transfer etmek de dahil olmak üzere hesabınızı tamamen kontrol edebilir.",
     "reveal_credential_modal": [
       "{{credentialName}} bilgileriniz ",
       "hesabınıza ve paranıza tam erişim sunar.\n\nBunu hiç kimseyle paylaşmayın.",
       "cüzdanınıza ve paranıza tam erişim sunar.\n\nBunu hiç kimseyle paylaşmayın.",
-      "MetaMask Destek tarafından bu talep edilmez, ",
+      "Novai Destek tarafından bu talep edilmez, ",
       "ancak dolandırıcılar tarafından talep edilebilir."
     ],
     "seed_phrase": "Gizli Kurtarma İfadeniz",
@@ -1104,7 +1105,7 @@
   },
   "password_reset": {
     "password_title": "Şifre",
-    "password_desc": "Cihazınızda MetaMask uygulamasının kilidini açmak için güçlü bir şifre seçin. Bu şifreyi kaybettiğiniz takdirde cüzdanınızı yeniden içe aktarmak için Gizli Kurtarma İfadenize ihtiyacınız olacaktır.",
+    "password_desc": "Cihazınızda Novai uygulamasının kilidini açmak için güçlü bir şifre seçin. Bu şifreyi kaybettiğiniz takdirde cüzdanınızı yeniden içe aktarmak için Gizli Kurtarma İfadenize ihtiyacınız olacaktır.",
     "password_learn_more": "Daha fazlasını öğren.",
     "change_password": "Şifreyi değiştir"
   },
@@ -1162,7 +1163,7 @@
       "show_less": "Daha az göster"
     },
     "activity": "{{symbol}} aktivitesi",
-    "disclaimer": "Piyasa verileri CoinGecko dahil bir veya daha fazla üçüncü taraf veri kaynakları tarafından sunulur. Söz konusu üçüncü taraf içerik sadece bilgi vermek amacıyla sunulur ve belirli bir varlığı satın alma, satma ya da kullanma tavsiyesi olarak görülmemelidir. MetaMask bu içeriğin herhangi bir belirli amaçla kullanımını önermez ve bunun doğruluğundan sorumlu değildir."
+    "disclaimer": "Piyasa verileri CoinGecko dahil bir veya daha fazla üçüncü taraf veri kaynakları tarafından sunulur. Söz konusu üçüncü taraf içerik sadece bilgi vermek amacıyla sunulur ve belirli bir varlığı satın alma, satma ya da kullanma tavsiyesi olarak görülmemelidir. Novai bu içeriğin herhangi bir belirli amaçla kullanımını önermez ve bunun doğruluğundan sorumlu değildir."
   },
   "account_details": {
     "title": "Hesap Bilgileri",
@@ -1205,7 +1206,7 @@
     "cancel": "İptal",
     "error": "Hata",
     "attempting_to_scan_with_wallet_locked": "Görünüşe göre bir QR kodunu taramaya çalışıyorsunuz, bunu kullanmak için cüzdanınızın kilidini açmanız gerekecek.",
-    "attempting_sync_from_wallet_error": "Görünüşe göre uzantı ile senkronize etmeye çalışıyorsunuz. Bunu yapabilmek için mevcut cüzdanınızı silmeniz gerekecek. \n\nUygulamayı sildiğinizde veya uygulamanın yeni bir sürümünü tekrar yüklediğinizde \"MetaMask Uzantısı ile Senkronize Et\" seçeneğini seçin. Önemli! Cüzdanınızı silmeden önce Gizli Kurtarma İfadenizi yedeklediğinizden emin olun.",
+    "attempting_sync_from_wallet_error": "Görünüşe göre uzantı ile senkronize etmeye çalışıyorsunuz. Bunu yapabilmek için mevcut cüzdanınızı silmeniz gerekecek. \n\nUygulamayı sildiğinizde veya uygulamanın yeni bir sürümünü tekrar yüklediğinizde \"Novai Uzantısı ile Senkronize Et\" seçeneğini seçin. Önemli! Cüzdanınızı silmeden önce Gizli Kurtarma İfadenizi yedeklediğinizden emin olun.",
     "not_allowed_error_title": "Kamera erişimini etkinleştir",
     "not_allowed_error_desc": "Bir hesap adresi veya iletişim adresi ile ilişkili bir QR kodunu taramak için kamera erişimine ihtiyaç var",
     "unrecognized_address_qr_code_title": "Tanınmayan QR kodu",
@@ -1320,7 +1321,7 @@
     "gas_education_1": "Gaz ücretleri",
     "gas_education_2_ethereum": "Ethereum ağında işlem gerçekleştiren kripto madencilerine ödenir.",
     "gas_education_2": "ağda işlem gerçekleştiren kripto madencilerine ödenir.",
-    "gas_education_3": "MetaMask gaz ücretlerinden kâr elde etmez.",
+    "gas_education_3": "Novai gaz ücretlerinden kâr elde etmez.",
     "gas_education_4": "Gaz ücretleri ağ trafiğine ve işlem karmaşıklığına göre dalgalanır.",
     "gas_education_learn_more": "Gaz ücretleri hakkında daha fazla bilgi alın",
     "confusable_title": "Alıcı adresini kontrol edin",
@@ -1335,7 +1336,7 @@
     "invalid_qr_code_sync": "Geçersiz QR kodu. Lütfen donanım cüzdanının senkronizasyon QR kodunu tarayın.",
     "no_camera_permission": "Kamera izni yok. Lütfen izin verin ve tekrar deneyin",
     "invalid_qr_code_sign": "Geçersiz QR kodu. Lütfen donanımınızı kontrol edin ve tekrar deneyin.",
-    "no_camera_permission_android": "Devam etmek için kameranıza MetaMask erişim izni vermeniz gerekiyor. Ayrıca sistem ayarlarınızı değiştirmeniz gerekebilir.",
+    "no_camera_permission_android": "Devam etmek için kameranıza Novai erişim izni vermeniz gerekiyor. Ayrıca sistem ayarlarınızı değiştirmeniz gerekebilir.",
     "mismatched_qr_request_id": "Uyumsuz işlem verisi. Lütfen aşağıdaki QR koduyla imzalamak için Kilidinizi kullanın ve 'İmzayı Al' tuşuna tıklayın.",
     "fiat_conversion_not_available": "Fiat para dönüştürmeleri şu anda kullanılmıyor",
     "hex_data_copied": "On altılı veriler panoya kopyalandı",
@@ -1353,7 +1354,7 @@
     "save": "Kaydet",
     "warning_gas_limit": "Gaz limiti 20999 üzerinde olmalıdır",
     "warning_gas_limit_estimated": "Tahmini gaz limiti {{gas}}, minimum değer olarak bunu kullanın",
-    "cost_explanation": "Gaz ücreti Ethereum ağında işleminizin gerçekleştirilme maliyetini kapsar. MetaMask bu ücretten kâr elde etmez. Ücret ne kadar yüksek olursa işleminizin gerçekleşme şansı o kadar yüksek olur."
+    "cost_explanation": "Gaz ücreti Ethereum ağında işleminizin gerçekleştirilme maliyetini kapsar. Novai bu ücretten kâr elde etmez. Ücret ne kadar yüksek olursa işleminizin gerçekleşme şansı o kadar yüksek olur."
   },
   "spend_limit_edition": {
     "save": "Kaydet",
@@ -1405,7 +1406,7 @@
     "approve_asset": "Varlığı onayla:"
   },
   "browser": {
-    "title": "Tarayıcı",
+    "title": "Bul",
     "reload": "Tekrar Yükle",
     "share": "Paylaş",
     "bookmark": "Yer İmi",
@@ -1420,7 +1421,7 @@
     "change_url": "Url adresini değiştir",
     "switch_network": "Ağ değiştir",
     "dapp_browser": "MERKEZİYETSİZ UYGULAMA TARAYICISI",
-    "dapp_browser_message": "MetaMask, merkeziyetsiz web için cüzdanınız ve tarayıcınızdır. Bir bakın!",
+    "dapp_browser_message": "Novai, merkeziyetsiz web için cüzdanınız ve tarayıcınızdır. Bir bakın!",
     "featured_dapps": "ÖNE ÇIKAN MERKEZİYETSİZ UYGULAMALAR",
     "my_favorites": "FAVORİLERİM",
     "search": "Ara veya URL adresi gir",
@@ -1542,7 +1543,7 @@
     "status_cancelled_header": "İşleminiz iptal edildi",
     "status_cancelled_description": "İşleminiz tamamlanamadığından gereksiz gaz ücreti ödemenizi önlemek amacıyla iptal edildi.",
     "status_failed_header": "İşleminiz başarısız oldu",
-    "status_failed_description": "Ani piyasa değişimleri başarısızlıklara sebep olabilir. Sorun devam ederse MetaMask müşteri destek bölümüne ulaşın.",
+    "status_failed_description": "Ani piyasa değişimleri başarısızlıklara sebep olabilir. Sorun devam ederse Novai müşteri destek bölümüne ulaşın.",
     "view_transaction": "İşlemi görüntüle",
     "view_activity": "Aktiviteyi görüntüle",
     "return_to_dapp": "{{dappName}} uygulamasına geri dön",
@@ -1594,8 +1595,8 @@
     "status_not_ok": "Ağda bazı sorunlar yaşanıyor",
     "want_to_add_network": "Bu ağı eklemek istiyor musunuz?",
     "add_custom_network": "Özel ağ ekle",
-    "network_infomation": "Bu, bu ağın MetaMask dahilinde kullanılmasına izin verir",
-    "network_endorsement": "MetaMask kişisel ağları veya onların güvenliğini ciro etmez.",
+    "network_infomation": "Bu, bu ağın Novai dahilinde kullanılmasına izin verir",
+    "network_endorsement": "Novai kişisel ağları veya onların güvenliğini ciro etmez.",
     "learn_about": "Dolandırıcılıklar ve ağ güvenlik riskleri",
     "network_risk": "hakkında bilgi alın",
     "network_display_name": "Görüntü adı",
@@ -1633,7 +1634,7 @@
     "show_test_networks": "Test ağlarını göster",
     "deprecated_goerli": "Ethereum'da yaşanan protokol değişikliklerinden dolayı: Goerli test ağı güvenilir bir şekilde çalışmayabilir ve yakında kullanım dışı olacak.",
     "network_deprecated_title": "Bu ağ artık kullanılmıyor",
-    "network_deprecated_description": "Bağlanmaya çalıştığınız ağ artık Metamask'te desteklenmiyor."
+    "network_deprecated_description": "Bağlanmaya çalıştığınız ağ artık Novai'te desteklenmiyor."
   },
   "select": {
     "cancel": "İptal",
@@ -1687,9 +1688,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Doğrulama gerekli",
-    "auth_prompt_desc": "MetaMask'ı kullanabilmek için lütfen doğrulama yapın",
+    "auth_prompt_desc": "Novai'ı kullanabilmek için lütfen doğrulama yapın",
     "fingerprint_prompt_title": "Doğrulama gerekli",
-    "fingerprint_prompt_desc": "MetaMask'ın kilidini açmak için parmak izinizi kullanın",
+    "fingerprint_prompt_desc": "Novai'ın kilidini açmak için parmak izinizi kullanın",
     "fingerprint_prompt_cancel": "İptal"
   },
   "accountApproval": {
@@ -1711,7 +1712,7 @@
   },
   "import_private_key": {
     "title": "Hesabı İçe Aktar",
-    "description_one": "İçe aktarılan hesaplar cüzdanınızda görüntülenebilir ancak MetaMask Gizli Kurtarma İfadenizle kurtarılamaz.",
+    "description_one": "İçe aktarılan hesaplar cüzdanınızda görüntülenebilir ancak Novai Gizli Kurtarma İfadenizle kurtarılamaz.",
     "learn_more_here": "Burada içe aktarılan hesaplar hakkında daha fazla bilgi alın.",
     "subtitle": "Özel anahtar dizinizi yapıştırın",
     "cta_text": "İÇE AKTAR",
@@ -1723,7 +1724,7 @@
   },
   "import_private_key_success": {
     "title": "Hesap başarılı bir şekilde içe aktarıldı!",
-    "description_one": "Artık hesabınızı MetaMask'ta görüntüleyebileceksiniz."
+    "description_one": "Artık hesabınızı Novai'ta görüntüleyebileceksiniz."
   },
   "first_incoming_transaction": {
     "title": "Hesabınıza {{asset}} yatırıldı",
@@ -1738,7 +1739,7 @@
     "step_1_description": "Şifre oluştur",
     "step_2": "Adım 2:",
     "step_2_description": "Cüzdan Gizli Kurtarma İfadesini kaydedin",
-    "info_text_1": "MetaMask cüzdanınızın kurulumunu bitirmek için birkaç dakika ayırın.",
+    "info_text_1": "Novai cüzdanınızın kurulumunu bitirmek için birkaç dakika ayırın.",
     "info_text_2": "Bu, sadece cihazınızı kaybettiğiniz takdirde paranıza erişim sağlayabilmenizi ve cüzdanınızı kurtarmanızı sağlar",
     "cta_text": "Şifre oluştur",
     "creating_password": "Şifre oluşturuluyor..."
@@ -1760,7 +1761,7 @@
     "what_is_seedphrase_title": "‘Gizli Kurtarma İfadesi’ nedir",
     "what_is_seedphrase_text_1": "Gizli Kurtarma İfadesi, paranız da dahil olmak üzere cüzdanınız hakkında tüm bilgileri içeren on iki sözcükten oluşan bir dizidir. Cüzdanınıza erişim sağlamak için kullanılan gizli bir kod gibidir.",
     "what_is_seedphrase_text_2": "Gizli Kurtarma İfadenizi gizli ve güvende tutmalısınız. Gizli Kurtarma İfadenizi ele geçiren biri hesaplarınızın kontrolünü de ele geçirir.",
-    "what_is_seedphrase_text_3": "Sadece sizin erişim sağlayabileceğiniz bir yere kaydedin. Kaybettiğiniz takdirde onu kurtarmanıza MetaMask bile yardımcı olamaz."
+    "what_is_seedphrase_text_3": "Sadece sizin erişim sağlayabileceğiniz bir yere kaydedin. Kaybettiğiniz takdirde onu kurtarmanıza Novai bile yardımcı olamaz."
   },
   "account_backup_step_1B": {
     "title": "Cüzdanınızı koruyun",
@@ -1833,7 +1834,7 @@
   },
   "account_backup_step_6": {
     "title": "Güvenlik İpuçları",
-    "info_text": "MetaMask, Gizli Kurtarma İfadenizi kaybettiğiniz takdirde kurtaramaz",
+    "info_text": "Novai, Gizli Kurtarma İfadenizi kaybettiğiniz takdirde kurtaramaz",
     "tip_1": "Gizli Kurtarma İfadenizin birden fazla yedeğini tutun",
     "tip_2": "İfadeyi güvenilen bir şifre yöneticisinde ve güvenli bir yerde kağıt yedekler halinde saklayın",
     "tip_3": "Bu ifadeyi asla hiç kimseyle paylaşmayın",
@@ -1873,7 +1874,7 @@
     "congratulations": "Tebrikler",
     "success": "Cüzdanınızı başarılı bir şekilde korudunuz! Gizli Kurtarma İfadenizi güvende tutmayı unutmayın, bu sizin sorumluluğunuzdadır!",
     "hint": "Kendine bir ipucu bırak?",
-    "recover": "Kaybettiğiniz takdirde MetaMask cüzdanınızı kurtaramaz. Gizli Kurtarma İfadenizi Ayarlar > Güvenlik ve Gizlilik kısmında bulabilirsiniz.",
+    "recover": "Kaybettiğiniz takdirde Novai cüzdanınızı kurtaramaz. Gizli Kurtarma İfadenizi Ayarlar > Güvenlik ve Gizlilik kısmında bulabilirsiniz.",
     "learn": "Daha fazlasını öğren",
     "done": "Bitti",
     "recovery_hint": "Kurtarma ipucu",
@@ -1886,7 +1887,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Ethereum Kimlik Avı Algılama",
     "ethereum_phishing_detector": "Ethereum Kimlik Avı Algılayıcı",
-    "intro": " şu anda MetaMask alan adı uyarı listesindedir. Yani, bizde bulunan bilgilere göre MetaMask, bu alan adının şu anda güvenliğinizi ihlal edebiliyor olduğuna inanıyor ve ek bir güvenlik özelliği olarak MetaMask bu siteye erişimi kısıtlamıştır. Bunu geçersiz kılmak için lütfen riski size ait olmak üzere nasıl devam edebileceğiniz hakkındaki talimatlar için bu uyarının geri kalan kısmını okuyun.",
+    "intro": " şu anda Novai alan adı uyarı listesindedir. Yani, bizde bulunan bilgilere göre Novai, bu alan adının şu anda güvenliğinizi ihlal edebiliyor olduğuna inanıyor ve ek bir güvenlik özelliği olarak Novai bu siteye erişimi kısıtlamıştır. Bunu geçersiz kılmak için lütfen riski size ait olmak üzere nasıl devam edebileceğiniz hakkındaki talimatlar için bu uyarının geri kalan kısmını okuyun.",
     "reasons": "Uyarı listemizde sitelerin yer almasının pek çok sebebi vardır ve uyarı listemiz diğer çok kullanılan sektör listelerinden derlenir. Sebepleri şunlar olabilir: Şurada pozitif olan alan adları gibi bilinen dolandırıcılık veya güvenlik riskleri:",
     "list_content": "Bu uyarı listelerinde yer alan alan adları, tamamen kötü amaçlı web siteleri ve kötü amaçlı bir aktör tarafından gizliliği ihlal edilen meşru web siteler olabilir.",
     "to_read_more": "Bu site hakkında daha fazlasını okumak için ",
@@ -1938,7 +1939,7 @@
     "received_message": "Bu işlemi görüntülemek için dokunun",
     "received_payment_message": "{{amount}} DAI aldınız",
     "prompt_title": "Anlık Bildirimleri Etkinleştir",
-    "prompt_desc": "MetaMask'ın ne zaman ETH aldığınızı veya işlemlerinizin ne zaman onaylandığını size bildirebilmesi için bildirimleri etkinleştirin.",
+    "prompt_desc": "Novai'ın ne zaman ETH aldığınızı veya işlemlerinizin ne zaman onaylandığını size bildirebilmesi için bildirimleri etkinleştirin.",
     "prompt_ok": "Evet",
     "prompt_cancel": "Hayır, teşekkürler",
     "wc_connected_title": "{{title}} alanına bağlanıldı",
@@ -1966,7 +1967,7 @@
     "activation_card": {
       "title": "Bildirimleri aç",
       "description_1": "Bildirimler ile cüzdanınızda neler olduğundan haberdar olun. ",
-      "description_2": "Bu özelliği kullanmak üzere hesabınız için anonim bir kimlik oluşturacağız. Bu kimlik sadece MetaMask'teki verilerinizi senkronize etmek için kullanılır ve aktivitelerinizi veya diğer tanımlayıcıları bağlamayarak gizliliğinizi korur.",
+      "description_2": "Bu özelliği kullanmak üzere hesabınız için anonim bir kimlik oluşturacağız. Bu kimlik sadece Novai'teki verilerinizi senkronize etmek için kullanılır ve aktivitelerinizi veya diğer tanımlayıcıları bağlamayarak gizliliğinizi korur.",
       "learn_more": "Bu özelliği kullanırken gizliliğinizi nasıl koruduğumuzu öğrenin. ",
       "manage_preferences_1": "Bildirimleri dilediğiniz zaman şurada kapatabilirsiniz: ",
       "manage_preferences_2": "Ayarlar > Bildirimler.",
@@ -2124,7 +2125,7 @@
     "wyre_minimum_deposit": "Minimum yatırılması gereken tutar{{amount}}",
     "wyre_maximum_deposit": "Maksimum yatırılması gereken tutar {{amount}}",
     "apple_pay_purchase": "{{currency}} Satın Alın",
-    "apple_pay_provider_total_label": "{{provider}}(MetaMask ile)",
+    "apple_pay_provider_total_label": "{{provider}}(Novai ile)",
     "buy_with": "Şununla satın al:",
     "plus_fee": "Artı {{fee}} ücret",
     "date": "Tarih",
@@ -2143,12 +2144,12 @@
         "average_gas_fee": "Güncel ortalama gaz ücreti:",
         "subtitle_1": "{{ticker}} öğenizi değiştirmeyi ve aktarmayı planlıyorsanız gaz ücretlerini karşılamak için ekstra satın alın.",
         "subtitle_2": "İşlemlerin gaz ücretleri {{ticker}} satın almanın maliyetinden ayrıdır.",
-        "subtitle_3": "MetaMask gaz ücretlerinden kâr elde etmez."
+        "subtitle_3": "Novai gaz ücretlerinden kâr elde etmez."
       },
       "step_2": {
         "title": "Gaz ücretleri nedir?",
         "subtitle_1": "Ethereum ağındaki gaz gücü işlemleri. İşlemlerinizi gerçekleştiren kripto madencilerine {{ticker}} cinsinde ödenen bir ücrettir.",
-        "subtitle_2": "MetaMask gaz ücretlerinden kâr elde etmez.",
+        "subtitle_2": "Novai gaz ücretlerinden kâr elde etmez.",
         "learn_more": "Gaz ücretleri hakkında daha fazla bilgi alın"
       },
       "step_3": {
@@ -2188,7 +2189,7 @@
     "onboarding": {
       "what_to_expect": "Bekleyebileceklerin",
       "quotes": "Kripto satın alma özelliğimiz, entegre satıcılardan teklifleri toplayarak bekleme süresi olmadan doğrudan cüzdanınıza kripto para alabilmeniz için size bu kaynaklardan teklifleri sunar.",
-      "quotes_sell": "Artık doğrudan MetaMask'te paraya çevirebilirsiniz! Biz size yolun her adımında rehberlik ederken güvenilir sağlayıcılardan en güncel teklifleri alın.",
+      "quotes_sell": "Artık doğrudan Novai'te paraya çevirebilirsiniz! Biz size yolun her adımında rehberlik ederken güvenilir sağlayıcılardan en güncel teklifleri alın.",
       "benefits": "Daha az gaz ücreti ödenir ve çeşitli ağ, token ve ödeme yöntemleri desteklenir",
       "benefits_sell": "Kriptodan yerel para biriminize off-ramp artık hiç olmadığı kadar kolay.",
       "get_started": "Başlarken"
@@ -2372,13 +2373,13 @@
       "best_swap": "swap işlemini",
       "across": "bul...",
       "want_to_learn_more": "Daha fazla bilgi almak mı istiyorsunuz?",
-      "learn_more": "MetaMask Swap işlemleri hakkında daha fazla bilgi alın",
+      "learn_more": "Novai Swap işlemleri hakkında daha fazla bilgi alın",
       "what_are": "Token swap nedir?",
       "review_audits": "Resmi sözleşme denetimimizi inceleyin",
       "start_swapping": "Swap işlemine başlayın"
     },
     "feature_off_title": "Geçici olarak kullanılamıyor",
-    "feature_off_body": "MetaMask Swaps şu anda bakım altındadır. Lütfen daha sonra tekrar kontrol edin.",
+    "feature_off_body": "Novai Swaps şu anda bakım altındadır. Lütfen daha sonra tekrar kontrol edin.",
     "wrong_network_title": "Swaplar kullanılamıyor",
     "wrong_network_body": "Sadece Ethereum Ana Ağında token swap işlemi gerçekleştirebilirsiniz.",
     "unallowed_asset_title": "Bu token ile swap gerçekleştirilemiyor",
@@ -2456,16 +2457,16 @@
     "estimated_gas_fee": "Tahmini gaz ücreti",
     "max_gas_fee": "Maks. gaz ücreti",
     "edit": "Düzenle",
-    "quotes_include_fee": "%{{fee}} MetaMask ücreti tekliflere dahildir",
+    "quotes_include_fee": "%{{fee}} Novai ücreti tekliflere dahildir",
     "tap_to_swap": "Swap gerçekleştirmek için dokun",
     "swipe_to_swap": "Swap gerçekleştirmek için kaydır",
     "swipe_to": "Swap gerçekleştirmek için",
     "swap": "swap",
     "completed_swap": "Swap gerçekleştir!",
-    "metamask_swap_fee": "MetaMask Swap ücreti",
+    "metamask_swap_fee": "Novai Swap ücreti",
     "fee_text": {
-      "fee_is_applied": "Bu teklife otomatik olarak {{fee}} ücret dahil edilmiştir. MetaMask'in likidite sağlayıcı bilgilerinin toplandığı yazılımı kullanma lisansı karşılığında ödersiniz.",
-      "fee_is_not_applied": "MetaMask bu teklife ek bir ücret eklemez."
+      "fee_is_applied": "Bu teklife otomatik olarak {{fee}} ücret dahil edilmiştir. Novai'in likidite sağlayıcı bilgilerinin toplandığı yazılımı kullanma lisansı karşılığında ödersiniz.",
+      "fee_is_not_applied": "Novai bu teklife ek bir ücret eklemez."
     },
     "enable": {
       "this_will": "Bu,",
@@ -2530,7 +2531,7 @@
     "gas_education_1": "Gaz ücretleri",
     "gas_education_2_ethereum": "Ethereum ağında işlem gerçekleştiren kripto madencilerine ödenir.",
     "gas_education_2": "ağda işlem gerçekleştiren kripto madencilerine ödenir.",
-    "gas_education_3": "MetaMask gaz ücretlerinden kâr elde etmez.",
+    "gas_education_3": "Novai gaz ücretlerinden kâr elde etmez.",
     "gas_education_4": "Bu",
     "gas_education_5": "“Tahmini gaz ücreti”",
     "gas_education_6": "olmasını beklediğimiz gerçek ücrettir. Tam tutar ağ koşullarına bağlıdır.",
@@ -2571,14 +2572,14 @@
     "title": "Yenilikler",
     "blockaid": {
       "title": "Güvenlik uyarıları ile güvende kalın",
-      "description_1": "Blockaid tarafından desteklenen güvenlik uyarıları ile gizliliğinizi korumaya devam ederken bilinen dolandırıcılıklardan güvenli bir şekilde uzakta kalın. Bu özellik şu anda tüm MetaMask kullanıcıları için varsayılan olarak açıktır.",
+      "description_1": "Blockaid tarafından desteklenen güvenlik uyarıları ile gizliliğinizi korumaya devam ederken bilinen dolandırıcılıklardan güvenli bir şekilde uzakta kalın. Bu özellik şu anda tüm Novai kullanıcıları için varsayılan olarak açıktır.",
       "description_2": "Talepleri onaylamadan önce kendiniz her zaman gerekli özeni gösterin.",
       "description_3": "Arbitrum, Avalanche, BNB chain, Ethereum Mainnet, Linea, Optimism, Polygon, Sepolia ve Base için sunulur.",
       "got_it": "Anladım"
     },
     "sell": {
       "title": "Paraya çevirmek artık kolay",
-      "description": "Kriptonuzu doğrudan MetaMask'ta satın! Kriptonuzu her defasında erişilebilir, hızlı ve güvenli bir şekilde satabilmeniz için güvenilir sağlayıcılardan teklifleri bulmanıza yardımcı olacağız.",
+      "description": "Kriptonuzu doğrudan Novai'ta satın! Kriptonuzu her defasında erişilebilir, hızlı ve güvenli bir şekilde satabilmeniz için güvenilir sağlayıcılardan teklifleri bulmanıza yardımcı olacağız.",
       "action_text": "Deneyin"
     },
     "stx": {
@@ -2606,15 +2607,15 @@
   "switch_custom_network": {
     "title_existing_network": "Bu site ağ değiştirmek istiyor",
     "title_new_network": "Yeni ağ eklendi",
-    "switch_warning": "Bu işlem, MetaMask'te seçili bir ağı önceden eklenmiş bir ağ ile değiştirecek:",
+    "switch_warning": "Bu işlem, Novai'te seçili bir ağı önceden eklenmiş bir ağ ile değiştirecek:",
     "available": "artık ağ seçicide mevcut.",
     "cancel": "İptal",
     "switch": "Ağ değiştir"
   },
   "add_custom_network": {
     "title": "Bu sitenin ağ eklemesine izin ver?",
-    "warning": "Bu, bu ağın MetaMask dahilinde kullanılmasına izin verir.",
-    "warning_subtext_1": "MetaMask kişisel ağları veya onların güvenliğini doğrulamaz.",
+    "warning": "Bu, bu ağın Novai dahilinde kullanılmasına izin verir.",
+    "warning_subtext_1": "Novai kişisel ağları veya onların güvenliğini doğrulamaz.",
     "warning_subtext_2": "Dolandırıcılıklar ve ağ güvenlik riskleri",
     "warning_subtext_3": "hakkında bilgi alın",
     "display_name": "Görüntü adı",
@@ -2630,7 +2631,7 @@
     "alert_recommend": "Size",
     "alert_verify": "zincir kimliğini doğrulamanızı öneririz",
     "warning_subtext_new": {
-      "1": "MetaMask özel ağları doğrulamaz, bu yüzden sadece güvendiğiniz ağları onaylayın.",
+      "1": "Novai özel ağları doğrulamaz, bu yüzden sadece güvendiğiniz ağları onaylayın.",
       "2": "Ağ güvenlik riskleri ve dolandırıcılıklar hakkında daha fazla bilgi alın."
     },
     "invalid_rpc_url": "Bu ağın URL adresi bu zincir kimliği için bilinen bir sağlayıcı ile eşleşmiyor.",
@@ -2705,7 +2706,7 @@
     "estimated_gas_fee_tooltip_text_1": "Gaz ücretleri",
     "estimated_gas_fee_tooltip_text_2": " Ethereum",
     "estimated_gas_fee_tooltip_text_3": "ağında işlem gerçekleştiren kripto madencilerine ödenir.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask gaz ücretlerinden kâr elde etmez.",
+    "estimated_gas_fee_tooltip_text_4": "Novai gaz ücretlerinden kâr elde etmez.",
     "estimated_gas_fee_tooltip_text_5": "Gaz ücretleri ağ tarafından belirlenir ve ağ trafiğine ve işlemin karmaşıklığına göre dalgalanır.",
     "learn_more": "Gaz ücretleri hakkında daha fazla bilgi alın",
     "legacy_gas_suggestion_tooltip": "Bu gaz ücreti yanlış olabilen eski gaz tahmininin kullanılmasını öneriyor."
@@ -2729,7 +2730,7 @@
     "high_fees": "Ücretler neden bu kadar yüksek?",
     "missing_tokens": "Tokenlerim eksik...",
     "swap_issues": "Swap gerçekleştiremiyorum...",
-    "mobile_sentiment": "MetaMask mobil hakkında ne düşünüyorsunuz?",
+    "mobile_sentiment": "Novai mobil hakkında ne düşünüyorsunuz?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Bayıldım!",
@@ -2777,12 +2778,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Beni Hatırla özelliğini aç",
-    "enable_remember_me_description": "Beni Hatırla özelliği açıldığında telefonunuza erişimi olan herkes MetaMask hesabınıza erişim sağlayabilir."
+    "enable_remember_me_description": "Beni Hatırla özelliği açıldığında telefonunuza erişimi olan herkes Novai hesabınıza erişim sağlayabilir."
   },
   "turn_off_remember_me": {
     "title": "Beni Hatırla özelliğini kapatmak için şifrenizi girin",
     "placeholder": "Şifre",
-    "description": "Bu seçeneği kapatırsanız şu andan itibaren MetaMask'in kilidini açmak için şifrenizi girmeniz gerekecektir.",
+    "description": "Bu seçeneği kapatırsanız şu andan itibaren Novai'in kilidini açmak için şifrenizi girmeniz gerekecektir.",
     "action": "Beni Hatırla özelliğini kapat"
   },
   "dapp_connect": {
@@ -2794,11 +2795,11 @@
   },
   "automatic_security_checks": {
     "title": "Otomatik güvenlik kontrolleri",
-    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin MetaMask kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz."
+    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin Novai kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz."
   },
   "terms_of_use_modal": {
     "title": "En yeni Kullanım Şartları bölümümüzü inceleyin",
-    "terms_of_use_check_description": "MetaMask ve tüm özelliklerini kullanırken geçerli olan Kullanım Koşulları bölümünü kabul ediyorum",
+    "terms_of_use_check_description": "Novai ve tüm özelliklerini kullanırken geçerli olan Kullanım Koşulları bölümünü kabul ediyorum",
     "accept_cta": "Kabul Edin",
     "accept_helper_description": "Tüm bölümleri okumak için lütfen kaydırın"
   },
@@ -2810,7 +2811,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Güvenlik güncellemelerini otomatik kontrol et?",
-    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin MetaMask kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz.",
+    "description": "Güncellemelerin otomatik kontrolü IP adresini GitHub sunucularında açığa çıkarabilir. Bu durum sadece IP adresinin Novai kullandığını gösterir. Başka hiçbir bilgi ya da hesap adresi açığa çıkmaz.",
     "primary_action": "Otomatik güvenlik kontrollerini etkinleştir",
     "secondary_action": "Hayır, teşekkürler"
   },
@@ -2863,7 +2864,7 @@
     "new_wallet_needed_create_try_again_action": "Cüzdanı kurtarmayı dene",
     "new_wallet_needed_description_part_one": "Cüzdanınızla ilgili bir sorun oluştu ve yeni bir tane oluşturmanız gerekecek. Hesaplarınız blokzincirinde olduğu için hala güvende. Sadece cihazınızda kayıtlı olan tercihler, kaydedilen ağlar, hesap adları ve ilgili veriler kayboldu.",
     "new_wallet_needed_description_part_two": "Hesapları yeni bir cüzdana aktarmak için Gizli Kurtarma İfadene ihtiyacın olacak. Gizli Kurtarma İfaden yoksa hesaplarını içe aktaramayacaksın.",
-    "new_wallet_needed_description_part_three": "Bunun tekrar olmasını önlemek için her zaman MetaMask uygulamanı ve işletim sistemini en yeni sürümde güncel tuttuğundan emin ol."
+    "new_wallet_needed_description_part_three": "Bunun tekrar olmasını önlemek için her zaman Novai uygulamanı ve işletim sistemini en yeni sürümde güncel tuttuğundan emin ol."
   },
   "srp_security_quiz": {
     "title": "Güvenlik testi",
@@ -2874,7 +2875,7 @@
     "continue": "Devam",
     "of": "/",
     "question_one": {
-      "question": "Gizli Kurtarma İfadenizi kaybederseniz MetaMask...",
+      "question": "Gizli Kurtarma İfadenizi kaybederseniz Novai...",
       "right_answer": "Size yardımcı olamaz",
       "wrong_answer": "Size onu tekrar verebilir",
       "right_answer_title": "Doğru! Hiç kimse Gizli Kurtarma İfadenizi geri almanıza yardımcı olamaz",
@@ -2899,9 +2900,9 @@
     "bluetooth_off_message": "Lütfen cihazınızda Bluetooth özelliğini açın",
     "bluetooth_access_blocked": "Ledger, mobil cihazınızla eşleşmek için Bluetooth erişimine ihtiyaç duyuyor.",
     "bluetooth_access_blocked_message": "Bluetooth kullanarak Ledger cihazını eşleştirmek istiyorsanız Ayarlar kısmında Bluetooth'u etkinleştirip tekrar deneyin.",
-    "location_access_blocked": "MetaMask, ledger'ınızla eşleştirmek için konum erişimi iznine ihtiyaç duyuyor.",
+    "location_access_blocked": "Novai, ledger'ınızla eşleştirmek için konum erişimi iznine ihtiyaç duyuyor.",
     "location_access_blocked_message": "Bluetooth kullanarak Ledger cihazınızı eşleştirmek istiyorsanız Ayarlar kısmında konum erişimini etkinleştirip tekrar denemeniz gerekecek.",
-    "nearbyDevices_access_blocked": "MetaMask, Ledger'ınızla eşleştirmek için yakındaki cihazlar iznine ihtiyaç duyuyor.",
+    "nearbyDevices_access_blocked": "Novai, Ledger'ınızla eşleştirmek için yakındaki cihazlar iznine ihtiyaç duyuyor.",
     "nearbyDevices_access_blocked_message": "Bluetooth kullanarak Ledger cihazınızı eşleştirmek istiyorsanız Ayarlar kısmında yakındaki cihazlar erişimini etkinleştirip tekrar denemeniz gerekli.",
     "bluetooth_scanning_error": "Cihaz taranırken hata",
     "bluetooth_scanning_error_message": "Lütfen cihazınızın kilidinin açık olduğundan ve Ethereum uygulamasının çalıştığından emin olun",
@@ -2941,7 +2942,7 @@
     "unknown_error_message": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.",
     "error_occured": "Bir hata oluştu",
     "how_to_install_eth_app": "Ledger cihazına Ethereum uygulaması nasıl yüklenir?",
-    "ledger_account_count": "Ledger cihazınızda MetaMask Mobil ile 1 hesap kullanıyorsunuz.",
+    "ledger_account_count": "Ledger cihazınızda Novai Mobil ile 1 hesap kullanıyorsunuz.",
     "open_eth_app": "Lütfen Ethereum uygulamasını açın",
     "open_eth_app_message_one": "Ethereum uygulamasının yüklü olduğunu ancak açık olmadığını tespit ettik; ",
     "open_eth_app_message_two": "devam etmek için lütfen cihazdaki iki düğmeye basarak Ethereum uygulamasını açma komutunu kabul edin.",
@@ -2955,7 +2956,7 @@
     "not_supported": "İşlem desteklenmiyor",
     "not_supported_error": "Girilen veri imzalama işleminde sadece sürüm 4 desteklenmektedir.",
     "error_during_connection": "Bilinmeyen bir hata oluştu",
-    "error_during_connection_message": "Ledger Nano X cihazınıza bağlanırken küçük bir sorun oluştu, bunu tekrar denemek için aşağıdaki \"Tekrar Dene\" düğmesine dokunun. Bazen MetaMask Mobil ile eşleştirme sürecinin başlangıcında Ledger Nano X cihazında ETH uygulamasının açık olması nedeniyle bu durum meydana gelir.",
+    "error_during_connection_message": "Ledger Nano X cihazınıza bağlanırken küçük bir sorun oluştu, bunu tekrar denemek için aşağıdaki \"Tekrar Dene\" düğmesine dokunun. Bazen Novai Mobil ile eşleştirme sürecinin başlangıcında Ledger Nano X cihazında ETH uygulamasının açık olması nedeniyle bu durum meydana gelir.",
     "how_to_install_eth_webview_title": "Ethereum uygulaması nasıl yüklenir?",
     "nonce_too_low": "Nonce çok düşük",
     "nonce_too_low_error": "Ayarlanan nonce çok düşük"
@@ -3016,7 +3017,7 @@
   },
   "default_settings": {
     "title": "Cüzdanınız hazır",
-    "description": "MetaMask, güvenlik ve kullanım kolaylığını en iyi şekilde dengelemek için varsayılan ayarları kullanır. Gizliliğinizi daha fazla artırmak için bu ayarları değiştirin.",
+    "description": "Novai, güvenlik ve kullanım kolaylığını en iyi şekilde dengelemek için varsayılan ayarları kullanır. Gizliliğinizi daha fazla artırmak için bu ayarları değiştirin.",
     "learn_more_about_privacy": "En iyi gizlilik uygulamaları hakkında daha fazla bilgi edinin.",
     "privacy_policy": "Gizlilik politikası",
     "default_settings": "Varsayılan Ayarlar",
@@ -3025,12 +3026,12 @@
     "manage_networks": "Ağları yönet",
     "manage_networks_body": "Ethereum verilerine mümkün olan en güvenilir ve gizli erişimi sunmak amacıyla uzak yordam çağrısı (RPC) sağlayıcısı olarak Infura kullanırız. Kendi RPC'nizi seçebilirsiniz ancak tüm RPC'lerin işlemleri gerçekleştirmek için IP adresinizi ve Ethereum cüzdanınızı alacağını unutmayın. Infura'nın verileri nasıl kullandığı hakkında daha fazla bilgi edinmek için ",
     "manage_networks_body2": " $1 bölümümüzü okuyun.",
-    "functionality_body": "Token verileri ve değeri, en iyi gaz ayarları, güvenlik güncellemeleri ve daha fazlasını içerir. Bu hizmetleri kullanırken tıpkı bir web sitesini ziyaret ederken olduğu gibi IP adresiniz MetaMask ile paylaşılır.",
+    "functionality_body": "Token verileri ve değeri, en iyi gaz ayarları, güvenlik güncellemeleri ve daha fazlasını içerir. Bu hizmetleri kullanırken tıpkı bir web sitesini ziyaret ederken olduğu gibi IP adresiniz Novai ile paylaşılır.",
     "sheet": {
       "title_off": "Temel işlevselliği kapat",
-      "description_off": "Bu, MetaMask'te zamanınızı tamamen optimize edemeyeceğiniz anlamına gelir. Temel özellikler (token bilgileri, en iyi gaz ayarları vb. gibi) sizin için sunulmayacaktır.",
+      "description_off": "Bu, Novai'te zamanınızı tamamen optimize edemeyeceğiniz anlamına gelir. Temel özellikler (token bilgileri, en iyi gaz ayarları vb. gibi) sizin için sunulmayacaktır.",
       "title_on": "Temel işlevselliği aç",
-      "description_on": "MetaMask'te zamanınızı tamamen optimize etmek için bu özelliği açmanız gerekecektir. Temel özellikler (token bilgileri, en iyi gaz ayarları vb. gibi) web3 deneyimi için önemlidir.",
+      "description_on": "Novai'te zamanınızı tamamen optimize etmek için bu özelliği açmanız gerekecektir. Temel özellikler (token bilgileri, en iyi gaz ayarları vb. gibi) web3 deneyimi için önemlidir.",
       "checkbox_label": "Anlıyorum ve devam etmek istiyorum",
       "buttons": {
         "cancel": "İptal",

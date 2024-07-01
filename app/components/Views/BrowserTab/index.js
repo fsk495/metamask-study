@@ -402,8 +402,8 @@ export const BrowserTab = (props) => {
    * Go back to previous website in history
    */
   const goBack = useCallback(() => {
-    if (!backEnabled) return;
-
+    // if (!backEnabled) return;
+    console.log("goBack  ",webviewRef);
     toggleOptionsIfNeeded();
     const { current } = webviewRef;
     current && current.goBack();
@@ -852,7 +852,6 @@ export const BrowserTab = (props) => {
    */
   const onShouldStartLoadWithRequest = ({ url }) => {
     const { hostname } = new URL(url);
-
     // Stops normal loading when it's ens, instead call go to be properly set up
     if (isENSUrl(url)) {
       go(url.replace(regex.urlHttpToHttps, 'https://'));
@@ -1126,6 +1125,8 @@ export const BrowserTab = (props) => {
             });
           },
           connectedAccounts: accounts,
+          goBack:goBack,
+          go:go
         });
       }
     };
@@ -1405,6 +1406,7 @@ export const BrowserTab = (props) => {
 
   /**
    * Render the bottom (navigation/options) bar
+   * 下方显示选项（后退，前进，搜索，页面，首页，更多）
    */
   const renderBottomBar = () => (
     <BrowserBottomBar
@@ -1493,6 +1495,18 @@ export const BrowserTab = (props) => {
 
   /**
    * Main render
+   * 网页的主体，打开dapp
+   * WebView组件的属性包括：
+   * originWhitelist：允许加载的URL协议白名单。
+   * decelerationRate：WebView的减速率。
+   * ref：引用WebView实例。renderError：渲染错误页面。
+   * source：WebView的源URL。
+   * injectedJavaScriptBeforeContentLoaded：在内容加载前注入的JavaScript代码。
+   * onLoadStart、onLoad、onLoadEnd、onLoadProgress、onMessage、onError、onShouldStartLoadWithRequest：处理WebView的各种事件。
+   * sendCookies、javascriptEnabled、allowsInlineMediaPlayback、useWebkit：配置WebView的行为。
+   * testID：用于测试的ID。
+   * applicationNameForUserAgent：设置WebView的用户代理字符串。
+   * onFileDownload：处理文件下载事件。
    */
   return (
     <ErrorBoundary navigation={props.navigation} view="BrowserTab">
@@ -1544,8 +1558,8 @@ export const BrowserTab = (props) => {
         {renderProgressBar()}
         {isTabActive && renderPhishingModal()}
         {isTabActive && renderOptions()}
-
-        {isTabActive && renderBottomBar()}
+        
+        {/* {isTabActive && renderBottomBar()} */}
         {isTabActive && renderOnboardingWizard()}
       </View>
     </ErrorBoundary>

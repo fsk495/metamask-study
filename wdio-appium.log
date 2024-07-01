@@ -1,0 +1,546 @@
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863723692 (14:08:43 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: d09fa0a8-9346-48be-94d2-465e9fa2ea17
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863723857 (14:08:43 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m186 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863723884 (14:08:43 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: e05f69a9-ddd6-4699-9948-064d5bee9fbe
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863723890 (14:08:43 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m8 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863723895 (14:08:43 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: b13b256f-c823-43dc-b81b-07e5d847d00a
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863723898 (14:08:43 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m3 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863723902 (14:08:43 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 2ad652aa-b71d-4f0a-a4a7-f5d95bb4dbf9
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863723907 (14:08:43 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m8 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863725516 (14:08:45 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 236fefde-a9b8-437c-944d-e0a28fd009eb
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863725519 (14:08:45 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m4 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863725528 (14:08:45 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 340f2cdb-08a3-46c7-937c-fdb283b25fa9
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863725532 (14:08:45 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m5 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863725536 (14:08:45 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 0e0e201e-f193-4314-a8ba-bfb221aa33e4
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863725539 (14:08:45 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m4 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863725545 (14:08:45 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 4ae5c45c-6570-45bb-9ee2-d7dd0bbe2e21
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863725548 (14:08:45 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m3 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863727187 (14:08:47 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 4f25ab9d-3bb2-48a5-9eb1-dccd968e3543
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863727196 (14:08:47 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m12 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863727207 (14:08:47 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 57cd164b-284e-4678-9bce-019bcb316f56
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863727220 (14:08:47 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m14 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863727224 (14:08:47 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: f2e1c5bc-3b7c-4ddd-8ecc-8f1d49d2bf5a
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863727228 (14:08:47 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m5 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863727232 (14:08:47 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 9cf7c57b-3bf2-4315-b3b7-d36950fe30fd
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863727235 (14:08:47 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m4 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863728823 (14:08:48 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 15b45a63-750e-45c1-8390-e8d4b6cf382c
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863728827 (14:08:48 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m5 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863728834 (14:08:48 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: 8c2212ce-3132-45e7-b754-31e3d4640d20
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863728837 (14:08:48 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m3 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863728841 (14:08:48 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: a289983b-7f09-4ea0-8260-d9fa0f3085b1
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863728845 (14:08:48 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m4 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/session[39m
+[35m[HTTP][39m [90m{"capabilities":{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]},"desiredCapabilities":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"}}[39m
+[debug] [35m[W3C][39m Calling AppiumDriver.createSession() with args: [{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},null,{"alwaysMatch":{"platformName":"Android","noReset":false,"fullReset":false,"deviceName":"Pixel 5 API 32","platformVersion":"13","app":"./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk","automationName":"uiautomator2"},"firstMatch":[{}]}]
+[debug] [35m[BaseDriver][39m Event 'newSessionRequested' logged at 1718863728848 (14:08:48 GMT+0800 (中国标准时间))
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   noReset
+[35m[BaseDriver][39m   fullReset
+[35m[BaseDriver][39m   deviceName
+[35m[BaseDriver][39m   platformVersion
+[35m[BaseDriver][39m   app
+[35m[BaseDriver][39m   automationName
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.75.0) session
+[debug] [35m[BaseDriver][39m W3C capabilities and MJSONWP desired capabilities were provided
+[debug] [35m[BaseDriver][39m Creating session with W3C capabilities: {
+[debug] [35m[BaseDriver][39m   "alwaysMatch": {
+[debug] [35m[BaseDriver][39m     "platformName": "Android",
+[debug] [35m[BaseDriver][39m     "appium:noReset": false,
+[debug] [35m[BaseDriver][39m     "appium:fullReset": false,
+[debug] [35m[BaseDriver][39m     "appium:deviceName": "Pixel 5 API 32",
+[debug] [35m[BaseDriver][39m     "appium:platformVersion": "13",
+[debug] [35m[BaseDriver][39m     "appium:app": "./android/app/build/outputs/apk/qa/debug/app-qa-debug.apk",
+[debug] [35m[BaseDriver][39m     "appium:automationName": "uiautomator2"
+[debug] [35m[BaseDriver][39m   },
+[debug] [35m[BaseDriver][39m   "firstMatch": [
+[debug] [35m[BaseDriver][39m     {}
+[debug] [35m[BaseDriver][39m   ]
+[debug] [35m[BaseDriver][39m }
+[35m[BaseDriver][39m Session created with session id: fbade0df-5a7a-4d82-8f46-bdd5e9bfa6c1
+[debug] [35m[UiAutomator2][39m Deleting UiAutomator2 session
+[debug] [35m[BaseDriver][39m Event 'newSessionStarted' logged at 1718863728851 (14:08:48 GMT+0800 (中国标准时间))
+[debug] [35m[W3C][39m Encountered internal error running command: Error: The application at './android/app/build/outputs/apk/qa/debug/app-qa-debug.apk' does not exist or is not accessible
+[debug] [35m[W3C][39m     at /Users/fan/Downloads/metamask-mobile/node_modules/appium-base-driver/lib/basedriver/helpers.js:270:13
+[35m[HTTP][39m [37m<-- POST /session [39m[31m500[39m [90m4 ms - 729[39m
+[35m[HTTP][39m [90m[39m
+[35m[Appium][39m Received SIGTERM - shutting down
+[debug] [35m[Appium][39m There are no active sessions for cleanup

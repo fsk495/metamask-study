@@ -96,7 +96,7 @@ const TabBar = ({ state, descriptors, navigation }: TabBarProps) => {
       const handleIconColor = () => {
         if (isWalletAction) return colors.primary.inverse;
 
-        if (isSelected) return colors.primary.default;
+        if (isSelected) return '#01888A';//colors.primary.default;
 
         return colors.icon.muted;
       };

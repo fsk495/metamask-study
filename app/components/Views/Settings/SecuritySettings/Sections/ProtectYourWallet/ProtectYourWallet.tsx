@@ -61,9 +61,9 @@ const ProtectYourWallet = ({
       <Text variant={TextVariant.BodyLGMedium}>
         {strings('app_settings.protect_title')}
       </Text>
-      <View style={styles.video}>
+      {/* <View style={styles.video}>
         <SeedPhraseVideo onClose={onBack} />
-      </View>
+      </View> */}
 
       <Text
         variant={TextVariant.BodyMD}

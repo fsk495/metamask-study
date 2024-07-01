@@ -295,7 +295,9 @@ class Onboarding extends PureComponent {
     };
     this.handleExistingUser(action);
   };
-
+  /**
+   * 使用私钥助记词导入钱包
+   */
   onPressImport = () => {
     const action = async () => {
       const { metrics } = this.props;

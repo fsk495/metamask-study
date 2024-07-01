@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Pengaturan dompet",
-    "sync_desc": "Jika Anda sudah memiliki ekstensi MetaMask atau dompet lain, sinkronkan atau impor untuk mengelola aset yang ada.",
+    "sync_desc": "Jika Anda sudah memiliki ekstensi Novai atau dompet lain, sinkronkan atau impor untuk mengelola aset yang ada.",
     "create_desc": "Atur dompet pertama Anda dan mulailah menjelajahi aplikasi terdesentralisasi.",
     "import": "Impor dompet yang ada atau buat yang baru",
     "import_wallet_button": "Sinkronkan atau impor dompet",
     "new_to_crypto": "Baru mengenal kripto?",
     "start_exploring_now": "Buat dompet baru",
     "unlock": "Buka kunci",
-    "new_to_metamask": "Baru mengenal MetaMask?",
+    "new_to_metamask": "Baru mengenal Novai?",
     "already_have_wallet": "Sudah memiliki dompet?",
     "optin_back_title": "Perhatian!",
     "optin_back_desc": "Harap setujui atau tidak setuju dengan penggunaan analitis data. Anda juga dapat memperbarui opsi ini di pengaturan.",
@@ -76,15 +76,15 @@
     "warning_text_1": "Dompet dan akun Anda saat ini akan",
     "warning_text_2": "dihapus",
     "warning_text_3": "jika tetap melanjutkannya.",
-    "warning_text_4": "Anda HANYA dapat memulihkannya dengan Frasa Pemulihan Rahasia dompet. MetaMask tidak dapat membantu Anda memulihkannya.",
+    "warning_text_4": "Anda HANYA dapat memulihkannya dengan Frasa Pemulihan Rahasia dompet. Novai tidak dapat membantu Anda memulihkannya.",
     "warning_proceed": "Hapus dompet dan lanjutkan",
     "warning_cancel": "Batal",
     "step1": "Pengaturan dompet",
     "step2": "Buat kata sandi",
     "step3": "Amankan dompet",
     "already_have": "Sudah memiliki dompet?",
-    "sync_existing": "Sinkronkan dompet MetaMask yang ada dari ekstensi browser atau impor secara manual.",
-    "scan_title": "Langkah-langkah untuk menyinkronkan dengan ekstensi MetaMask",
+    "sync_existing": "Sinkronkan dompet Novai yang ada dari ekstensi browser atau impor secara manual.",
+    "scan_title": "Langkah-langkah untuk menyinkronkan dengan ekstensi Novai",
     "scan": "Pindai",
     "scan_step_1": "Buka ekstensi di desktop",
     "scan_step_2": "Buka Pengaturan > Lanjutan",
@@ -113,12 +113,12 @@
     "done": "Selesai"
   },
   "onboarding_carousel": {
-    "title1": "Selamat datang di MetaMask",
+    "title1": "Selamat datang di Novai",
     "title2": "Kelola aset digital Anda",
     "title3": "Gerbang menuju web3",
-    "subtitle1": "MetaMask merupakan dompet aman yang dipercaya oleh jutaan orang yang membuat dunia web3 dapat diakses oleh semua orang.",
+    "subtitle1": "Novai merupakan dompet aman yang dipercaya oleh jutaan orang yang membuat dunia web3 dapat diakses oleh semua orang.",
     "subtitle2": "Simpan, gunakan, dan kirim aset digital seperti token, ethereum, koleksi unik.",
-    "subtitle3": "Masuk melalui MetaMask dan lakukan transaksi untuk berinvestasi, menghasilkan, bermain game, menjual, dan banyak lagi!",
+    "subtitle3": "Masuk melalui Novai dan lakukan transaksi untuk berinvestasi, menghasilkan, bermain game, menjual, dan banyak lagi!",
     "get_started": "Mulai"
   },
   "onboarding_wizard": {
@@ -148,7 +148,7 @@
     "step4": {
       "title": "Menu Utama",
       "content1": "Anda dapat mengakses riwayat Transaksi, Pengaturan, dan Dukungan dari menu ini.",
-      "content2": "Anda dapat melakukan lebih banyak tindakan dengan akun Anda dan mengakses pengaturan MetaMask."
+      "content2": "Anda dapat melakukan lebih banyak tindakan dengan akun Anda dan mengakses pengaturan Novai."
     },
     "step5": {
       "title": "Jelajahi Browser",
@@ -167,7 +167,7 @@
     },
     "step1": {
       "title": "Selamat datang di dompet Anda!",
-      "content1": "Di blockchain, Anda memerlukan dompet (dan mungkin beberapa ETH). Jadi, mari kita lihat cara menggunakan dompet MetaMask."
+      "content1": "Di blockchain, Anda memerlukan dompet (dan mungkin beberapa ETH). Jadi, mari kita lihat cara menggunakan dompet Novai."
     },
     "step2": {
       "title": "Akun Anda",
@@ -199,14 +199,14 @@
     "subtitle": "Tidak perlu menunggu lama"
   },
   "import_wallet": {
-    "title": "Sudah menjadi pengguna MetaMask?",
+    "title": "Sudah menjadi pengguna Novai?",
     "sub_title": "Sinkronkan dengan ekstensi",
     "sync_help": "Sinkronkan dompet Anda dengan ekstensi",
     "sync_help_step_one": "1. Buka ekstensi",
     "sync_help_step_two": "2. Buka Pengaturan > Lanjutan",
     "sync_help_step_three": "3. Klik \"Sinkronkan dengan Ponsel\"",
     "sync_help_step_four": "4. Pindai Kode QR untuk mulai menyinkronkan",
-    "sync_from_browser_extension_button": "Sinkronkan dengan ekstensi MetaMask",
+    "sync_from_browser_extension_button": "Sinkronkan dengan ekstensi Novai",
     "or": "ATAU",
     "import_from_seed_button": "Impor menggunakan Frasa Pemulihan Rahasia"
   },
@@ -226,13 +226,13 @@
     "this_action": "Tindakan ini tidak dapat dibatalkan.",
     "you_can_only": "Anda HANYA dapat memulihkan dompet ini dengan",
     "recovery_phrase": "Frasa Pemulihan Rahasia",
-    "metamask_does_not": "MetaMask tidak menyimpan Frasa Pemulihan Rahasia Anda.",
+    "metamask_does_not": "Novai tidak menyimpan Frasa Pemulihan Rahasia Anda.",
     "i_understand": "Saya mengerti, lanjutkan",
     "passcode_not_set_error": "Kesalahan: Kode sandi belum diatur.",
     "wrong_password_error": "Kesalahan: Dekripsi gagal",
     "wrong_password_error_android": "Kesalahan: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Kesalahan: Tidak dapat dibuka tanpa vault sebelumnya.",
-    "clean_vault_error": "MetaMask mengalami kesalahan karena batas penyimpanan telah tercapai. Data lokal telah rusak. Instal ulang MetaMask dan pulihkan dengan Frasa Pemulihan Rahasia.",
+    "clean_vault_error": "Novai mengalami kesalahan karena batas penyimpanan telah tercapai. Data lokal telah rusak. Instal ulang Novai dan pulihkan dengan Frasa Pemulihan Rahasia.",
     "security_alert_title": "Peringatan Keamanan",
     "security_alert_desc": "Untuk melanjutkan, Anda harus mengaktifkan Kode Sandi atau metode autentikasi biometrik yang didukung perangkat Anda (FaceID, TouchID, atau Sidik Jari)"
   },
@@ -249,7 +249,7 @@
   },
   "choose_password": {
     "title": "Buat kata sandi",
-    "subtitle": "Kata sandi ini akan membuka dompet MetaMask Anda hanya pada perangkat ini.",
+    "subtitle": "Kata sandi ini akan membuka dompet Novai Anda hanya pada perangkat ini.",
     "password": "Kata Sandi Baru",
     "confirm_password": "Konfirmasikan kata sandi",
     "create_button": "Buat kata sandi",
@@ -267,7 +267,7 @@
     "remember_me": "Ingat saya",
     "security_alert_title": "Peringatan Keamanan",
     "security_alert_message": "Untuk melanjutkan, Anda harus mengaktifkan Kode Sandi atau metode autentikasi biometrik yang didukung di perangkat Anda (ID Wajah, ID Sentuh, atau Sidik Jari)",
-    "i_understand": "Saya memahami bahwa MetaMask tidak dapat memulihkan kata sandi ini untuk saya.",
+    "i_understand": "Saya memahami bahwa Novai tidak dapat memulihkan kata sandi ini untuk saya.",
     "learn_more": "Pelajari selengkapnya.",
     "secure": "Amankan dompet",
     "confirm": "Konfirmasikan Frasa Pemulihan Rahasia",
@@ -275,7 +275,7 @@
   },
   "reset_password": {
     "title": "Ubah kata sandi",
-    "subtitle": "Kata sandi ini akan membuka dompet MetaMask Anda hanya pada perangkat ini.",
+    "subtitle": "Kata sandi ini akan membuka dompet Novai Anda hanya pada perangkat ini.",
     "password": "Kata Sandi Baru",
     "confirm_password": "Konfirmasikan kata sandi",
     "reset_button": "Reset kata sandi",
@@ -293,7 +293,7 @@
     "remember_me": "Ingatkan saya",
     "security_alert_title": "Peringatan Keamanan",
     "security_alert_message": "Untuk melanjutkan, Anda harus mengaktifkan Kode Sandi atau metode autentikasi biometrik yang didukung di perangkat Anda (ID Wajah, ID Sentuh, atau Sidik Jari)",
-    "i_understand": "Saya memahami bahwa MetaMask tidak dapat memulihkan kata sandi ini untuk saya.",
+    "i_understand": "Saya memahami bahwa Novai tidak dapat memulihkan kata sandi ini untuk saya.",
     "learn_more": "Pelajari selengkapnya.",
     "secure": "Amankan dompet",
     "confirm": "Konfirmasikan Frasa Pemulihan Rahasia",
@@ -334,7 +334,7 @@
     "view_in_etherscan": "Lihat di Etherscan",
     "view_in": "Lihat di",
     "browser": "Browser",
-    "settings": "Pengaturan",
+    "settings": "Saya",
     "settings_warning": "Dompet tidak terlindungi",
     "settings_warning_short": "Tidak terlindung",
     "help": "Dukungan",
@@ -343,7 +343,7 @@
     "lock_ok": "YA",
     "lock_cancel": "TIDAK",
     "feedback": "Umpan balik",
-    "metamask_support": "Dukungan MetaMask",
+    "metamask_support": "Dukungan Novai",
     "public_address": "Alamat Publik"
   },
   "send": {
@@ -413,7 +413,7 @@
     "no_tokens": "Anda tidak memiliki token!",
     "no_nfts_yet": "Belum ada NFT",
     "nfts_autodetection_title": "Deteksi NFT",
-    "nfts_autodetection_desc": "Izinkan MetaMask untuk mendeteksi NFT dari OpenSea secara otomatis dan ditampilkan di dompet MetaMask Anda.",
+    "nfts_autodetection_desc": "Izinkan Novai untuk mendeteksi NFT dari OpenSea secara otomatis dan ditampilkan di dompet Novai Anda.",
     "network_details_check": "Pemeriksaan detail jaringan",
     "network_with_chain_id": "Jaringan dengan ID chain",
     "chain_list_returned_different_ticker_symbol": "Simbol token ini tidak cocok dengan nama jaringan atau ID chain yang dimasukkan. Banyak token populer menggunakan simbol serupa, yang dapat digunakan penipu untuk mengelabui Anda agar mengirimkan token yang lebih berharga sebagai gantinya. Pastikan untuk memverifikasi semuanya sebelum melanjutkan.",
@@ -480,7 +480,8 @@
     "title": "Aktivitas"
   },
   "transactions_view": {
-    "title": "Transaksi"
+    "title": "Transaksi",
+    "title_description":"Catatan transaksi"
   },
   "add_asset": {
     "title": "Impor token",
@@ -517,8 +518,8 @@
     "privacy_policy_button": "Kebijakan Privasi",
     "agree": "Saya Setuju",
     "decline": "Tidak, terima kasih",
-    "description_title": "Bantu kami meningkatkan MetaMask",
-    "description_content_1": "Kami ingin mengumpulkan data penggunaan dasar untuk meningkatkan MetaMask. Pahami bahwa kami tidak pernah menjual data yang Anda berikan di sini.",
+    "description_title": "Bantu kami meningkatkan Novai",
+    "description_content_1": "Kami ingin mengumpulkan data penggunaan dasar untuk meningkatkan Novai. Pahami bahwa kami tidak pernah menjual data yang Anda berikan di sini.",
     "description_content_2": "Saat kami mengumpulkan metrik, maka akan selalu...",
     "checkbox": "We'll use this data to learn how you interact with our marketing communications. We may share relavent news (like product features).",
     "action_description_1_prefix": "Pribadi:",
@@ -530,12 +531,12 @@
     "cta_no_thanks": "Tidak, terima kasih",
     "cta_i_agree": "Saya setuju",
     "fine_print_1_legacy": "Data ini dikumpulkan sehingga bersifat anonim untuk tujuan Peraturan Perlindungan Data Umum (UE) 2016/679.",
-    "fine_print_2a_legacy": "*Saat Anda menggunakan Infura sebagai penyedia RPC default di MetaMask, Infura akan mengumpulkan alamat IP dan alamat dompet Ethereum Anda saat mengirim transaksi. Kami tidak menyimpan informasi ini dengan cara yang memungkinkan sistem menghubungkan kedua bagian data tersebut. Anda dapat mengonfigurasi penyedia RPC",
-    "fine_print_2b_legacy": "sebelum melanjutkan.\nUntuk informasi selengkapnya seputar cara MetaMask dan Infura berinteraksi dari perspektif pengumpulan data, lihat pembaruan kami",
+    "fine_print_2a_legacy": "*Saat Anda menggunakan Infura sebagai penyedia RPC default di Novai, Infura akan mengumpulkan alamat IP dan alamat dompet Ethereum Anda saat mengirim transaksi. Kami tidak menyimpan informasi ini dengan cara yang memungkinkan sistem menghubungkan kedua bagian data tersebut. Anda dapat mengonfigurasi penyedia RPC",
+    "fine_print_2b_legacy": "sebelum melanjutkan.\nUntuk informasi selengkapnya seputar cara Novai dan Infura berinteraksi dari perspektif pengumpulan data, lihat pembaruan kami",
     "fine_print_2c_legacy": ". Untuk informasi selengkapnya terkait praktik privasi kami secara umum, lihat Kebijakan Privasi kami",
     "here_legacy": "di sini",
-    "description_content_1_legacy": "MetaMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna kami berinteraksi dengan MetaMask. Data ini akan digunakan untuk menyediakan layanan, termasuk meningkatkan layanan berdasarkan penggunaan Anda.",
-    "description_content_2_legacy": "MetaMask akan...",
+    "description_content_1_legacy": "Novai ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna kami berinteraksi dengan Novai. Data ini akan digunakan untuk menyediakan layanan, termasuk meningkatkan layanan berdasarkan penggunaan Anda.",
+    "description_content_2_legacy": "Novai akan...",
     "action_description_1_legacy": "Selalu mengizinkan Anda untuk memilih keluar melalui Pengaturan",
     "action_description_2_legacy": "Mengirimkan klik anonim & acara tampilan laman",
     "action_description_3_legacy": "mengumpulkan informasi yang tidak kami perlukan untuk menyediakan layanan (seperti kunci, alamat, hash transaksi, atau saldo)",
@@ -639,7 +640,7 @@
     "learn_more": "Selengkapnya",
     "advisory_by": "Penasihat disediakan oleh Ethereum Phishing Detector dan PhishFort",
     "potential_threat": "Potensi ancaman meliputi",
-    "fake_metamask": "Versi palsu MetaMask",
+    "fake_metamask": "Versi palsu Novai",
     "srp_theft": "Pencurian frasa pemulihan rahasia atau kata sandi",
     "malicious_transactions": "Transaksi berbahaya yang mengakibatkan aset dicuri"
   },
@@ -672,7 +673,7 @@
   },
   "data_collection_modal": {
     "accept": "Okay",
-    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use MetaMask on other devices, make sure to opt out there as well."
+    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use Novai on other devices, make sure to opt out there as well."
   },
   "account_selector": {
     "prev": "SEBELUMNYA",
@@ -685,7 +686,7 @@
     "current_conversion": "Mata Uang Dasar",
     "current_language": "Bahasa Saat ini",
     "ipfs_gateway": "Gateway IPFS",
-    "ipfs_gateway_content": "MetaMask menggunakan layanan pihak ketiga untuk menampilkan gambar NFT Anda yang disimpan di IPFS, menampilkan informasi terkait alamat ENS yang dimasukkan di bilah alamat browser Anda, serta mengambil ikon untuk token yang berbeda. Alamat IP Anda mungkin tidak memberikan perlindungan terhadap layanan ini saat Anda menggunakannya.",
+    "ipfs_gateway_content": "Novai menggunakan layanan pihak ketiga untuk menampilkan gambar NFT Anda yang disimpan di IPFS, menampilkan informasi terkait alamat ENS yang dimasukkan di bilah alamat browser Anda, serta mengambil ikon untuk token yang berbeda. Alamat IP Anda mungkin tidak memberikan perlindungan terhadap layanan ini saat Anda menggunakannya.",
     "ipfs_gateway_down": "Gateway IPFS Anda saat ini mati",
     "ipfs_gateway_desc": "Pilih gateway IPFS pilihan Anda.",
     "search_engine": "Mesin Pencari",
@@ -694,7 +695,7 @@
     "add_network_title": "Tambahkan jaringan",
     "auto_lock": "Kunci otomatis",
     "auto_lock_desc": "Pilih jumlah waktu sebelum aplikasi terkunci secara otomatis.",
-    "state_logs_desc": "Ini akan membantu MetaMask memperbaiki masalah apa pun yang mungkin Anda temui. Kirimkan kepada dukungan MetaMask melalui ikon hamburger > Kirim Umpan Balik, atau balas tiket yang ada, jika ada.",
+    "state_logs_desc": "Ini akan membantu Novai memperbaiki masalah apa pun yang mungkin Anda temui. Kirimkan kepada dukungan Novai melalui ikon hamburger > Kirim Umpan Balik, atau balas tiket yang ada, jika ada.",
     "autolock_immediately": "Langsung",
     "autolock_never": "Tidak pernah",
     "autolock_after": "Setelah {{time}} detik",
@@ -728,7 +729,7 @@
     "protect_title": "Lindungi dompet Anda",
     "video_failed": "Gagal Memuat Video.",
     "protect_desc": "Lindungi dompet Anda dengan menyimpan Frasa Pemulihan Rahasia di berbagai tempat seperti pada selembar kertas, pengelola kata sandi, dan/atau cloud.",
-    "protect_desc_no_backup": "Ini merupakan frasa 12 kata dompet Anda. Frasa ini dapat digunakan untuk mengontrol semua akun saat ini dan di masa mendatang, termasuk kemampuan untuk mengirim dana di dompet Anda. Simpan frasa ini dengan aman, JANGAN bagikan kepada siapa pun. MetaMask tidak dapat membantu Anda memulihkan kunci ini.",
+    "protect_desc_no_backup": "Ini merupakan frasa 12 kata dompet Anda. Frasa ini dapat digunakan untuk mengontrol semua akun saat ini dan di masa mendatang, termasuk kemampuan untuk mengirim dana di dompet Anda. Simpan frasa ini dengan aman, JANGAN bagikan kepada siapa pun. Novai tidak dapat membantu Anda memulihkan kunci ini.",
     "learn_more": "Pelajari selengkapnya.",
     "seedphrase_not_backed_up": "Penting! Frasa Pemulihan Rahasia belum dicadangkan",
     "seedphrase_backed_up": "Frase Pemulihan Rahasia dicadangkan",
@@ -824,8 +825,8 @@
     "remove_network_title": "Apakah Anda ingin menghapus jaringan ini?",
     "remove_network": "Hapus",
     "cancel_remove_network": "Batal",
-    "info_title": "Seputar MetaMask",
-    "info_title_flask": "Tentang MetaMask Flask",
+    "info_title": "Seputar Novai",
+    "info_title_flask": "Tentang Novai Flask",
     "experimental_title": "Eksperimental",
     "experimental_desc": "WalletConnect dan lainnya...",
     "legal_title": "Hukum",
@@ -893,18 +894,18 @@
     "delete_metrics_confirm_modal_title": "Hapus data MetaMetrics?",
     "delete_metrics_confirm_modal_description": "Kami akan menghapus semua data MetaMetrics Anda. Lanjutkan?",
     "delete_wallet_data_title": "Hapus dompet",
-    "delete_wallet_data_description": "Tindakan ini akan menghapus semua data terkait dompet dari perangkat Anda. Akun Anda terdapat di blockchain dan tidak terkait dengan MetaMask. Akun Anda dapat dipulihkan kapan saja menggunakan Frasa Pemulihan Rahasia.",
+    "delete_wallet_data_description": "Tindakan ini akan menghapus semua data terkait dompet dari perangkat Anda. Akun Anda terdapat di blockchain dan tidak terkait dengan Novai. Akun Anda dapat dipulihkan kapan saja menggunakan Frasa Pemulihan Rahasia.",
     "delete_wallet_data_button": "Hapus dompet",
     "delete_data_status_title": "Penghapusan Status Tugas",
     "delete_data_status_description": "Status saat ini adalah",
     "delete_metrics_error_title": "Kami tidak dapat menghapus data ini sekarang.",
     "delete_metrics_error_description": "Permintaan ini tidak dapat diselesaikan sekarang karena masalah server sistem analitis, coba lagi nanti.",
     "ok": "Oke",
-    "clear_sdk_connections_title": "Hapus semua Koneksi SDK MetaMask",
+    "clear_sdk_connections_title": "Hapus semua Koneksi SDK Novai",
     "clear_sdk_connections_text": "Semua koneksi akan dihapus dan aplikasi terdesentralisasi (dapps) perlu meminta koneksi lagi",
-    "sdk_connections": "Koneksi SDK MetaMask",
+    "sdk_connections": "Koneksi SDK Novai",
     "manage_sdk_connections_title": "Kelola koneksi",
-    "manage_sdk_connections_text": "Hapus koneksi ke situs dan/atau MetaMask SDK.",
+    "manage_sdk_connections_text": "Hapus koneksi ke situs dan/atau Novai SDK.",
     "fiat_on_ramp": {
       "title": "Beli & Jual Kripto",
       "description": "Wilayah dan lainnya...",
@@ -927,11 +928,11 @@
     "contact_support": "Hubungi dukungan",
     "display_nft_media": "Tampilkan Media NFT",
     "display_nft_media_desc": "Menampilkan media dan data NFT mengekspos alamat IP ke OpenSea atau pihak ketiga lainnya. Autodeteksi NFT mengandalkan fitur ini, dan tidak akan tersedia jika fitur ini dinonaktifkan.",
-    "autodetect_nft_desc": "Izinkan MetaMask menambahkan NFT yang Anda miliki menggunakan layanan pihak ketiga (seperti OpenSea). Autodeteksi NFT mengekspos alamat IP dan akun Anda ke layanan ini. Mengaktifkan fitur ini dapat mengaitkan alamat IP dengan alamat Ethereum Anda dan menampilkan NFT palsu yang di-airdrop oleh penipu. Anda dapat menambahkan token secara manual untuk menghindari risiko ini.",
+    "autodetect_nft_desc": "Izinkan Novai menambahkan NFT yang Anda miliki menggunakan layanan pihak ketiga (seperti OpenSea). Autodeteksi NFT mengekspos alamat IP dan akun Anda ke layanan ini. Mengaktifkan fitur ini dapat mengaitkan alamat IP dengan alamat Ethereum Anda dan menampilkan NFT palsu yang di-airdrop oleh penipu. Anda dapat menambahkan token secara manual untuk menghindari risiko ini.",
     "incoming_transactions_title": "Tampilkan transaksi masuk",
     "incoming_transactions_content": "Ini bergantung pada jaringan yang Anda pilih yang akan mengekspos alamat Ethereum dan alamat IP Anda.",
     "display_nft_media_desc_new": "Alamat IP dapat diketahui oleh OpenSea atau pihak ketiga lainnya saat Anda menampilkan media dan data NFT. Autodeteksi NFT mengandalkan fitur ini, dan tidak akan tersedia saat dinonaktifkan. Jika media NFT sepenuhnya disimpan di IPFS, maka masih dapat ditampilkan bahkan pada saat fitur ini dinonaktifkan.",
-    "use_safe_chains_list_validation_desc_1": "MetaMask menggunakan layanan pihak ketiga yang disebut ",
+    "use_safe_chains_list_validation_desc_1": "Novai menggunakan layanan pihak ketiga yang disebut ",
     "use_safe_chains_list_validation_desc_2": "untuk menampilkan detail jaringan yang akurat dan terstandardisasi. Hal ini dapat mengurangi kemungkinan Anda untuk terhubung ke jaringan berbahaya atau salah. Saat menggunakan fitur ini, alamat IP akan diketahui oleh  ",
     "snaps": {
       "title": "Snap",
@@ -1002,7 +1003,7 @@
     "manage_connections": "Kelola Koneksi",
     "manage": "Kelola",
     "cancel": "Batal",
-    "loading": "Menghubungkan ke MetaMask...",
+    "loading": "Menghubungkan ke Novai...",
     "unkown_dapp": "Nama Aplikasi Terdesentralisasi (DAPP) tidak tersedia",
     "no_connections": "Tidak ada koneksi",
     "no_connections_desc": "Jika Anda menghubungkan akun ke situs atau aplikasi, Anda akan melihatnya di sini."
@@ -1027,7 +1028,7 @@
   "sdk_feedback_modal": {
     "ok": "Oke",
     "title": "Akun tidak dapat terhubung",
-    "info": "Pindai kode QR di aplikasi terdesentralisasi (dAPP) untuk terhubung kembali ke MetaMask"
+    "info": "Pindai kode QR di aplikasi terdesentralisasi (dAPP) untuk terhubung kembali ke Novai"
   },
   "app_information": {
     "title": "Informasi",
@@ -1052,7 +1053,7 @@
       "Pemulihan Rahasia (FPR)",
       "memberi",
       "akses penuh ke dompet, dana, dan akun Anda.\n\n",
-      "MetaMask merupakan",
+      "Novai merupakan",
       "dompet dengan kendali penuh.",
       "Artinya,",
       "Anda merupakan satu-satunya pemilik SRP."
@@ -1061,14 +1062,14 @@
     "private_key_warning": "Ini merupakan kunci pribadi untuk akun yang dipilih saat ini: {{accountName}}. Jangan pernah mengungkapkan kunci ini. Siapa pun yang memiliki kunci pribadi Anda dapat mengontrol akun Anda sepenuhnya, termasuk mentransfer semua dana Anda.",
     "seed_phrase_warning_explanation": [
       "Pastikan tidak ada yang melihat layar Anda.",
-      "Dukungan MetaMask tidak akan pernah memintanya."
+      "Dukungan Novai tidak akan pernah memintanya."
     ],
     "private_key_warning_explanation": "Jangan pernah mengungkapkan kunci ini. Siapa pun yang memiliki kunci pribadi Anda dapat mengontrol akun Anda sepenuhnya, termasuk mentransfer semua dana Anda.",
     "reveal_credential_modal": [
       "{{credentialName}} memberikan ",
       "akses penuh ke akun dan dana Anda.\n\nJangan membagikannya kepada siapa pun.\n",
       "akses penuh ke akun dan dana Anda.\n\nJangan membagikannya kepada siapa pun.\n",
-      "Dukungan MetaMask tidak akan memintanya, ",
+      "Dukungan Novai tidak akan memintanya, ",
       "tetapi penipu akan berusaha mendapatkannya."
     ],
     "seed_phrase": "Frasa Pemulihan Rahasia Anda",
@@ -1104,7 +1105,7 @@
   },
   "password_reset": {
     "password_title": "Kata sandi",
-    "password_desc": "Pilih kata sandi yang kuat untuk membuka aplikasi MetaMask di perangkat Anda. Jika kata sandi hilang, Anda memerlukan Frasa Pemulihan Rahasia untuk mengimpor kembali dompet Anda.",
+    "password_desc": "Pilih kata sandi yang kuat untuk membuka aplikasi Novai di perangkat Anda. Jika kata sandi hilang, Anda memerlukan Frasa Pemulihan Rahasia untuk mengimpor kembali dompet Anda.",
     "password_learn_more": "Pelajari selengkapnya.",
     "change_password": "Ubah kata sandi"
   },
@@ -1162,7 +1163,7 @@
       "show_less": "Ciutkan"
     },
     "activity": "Aktivitas {{symbol}}",
-    "disclaimer": "Data pasar disediakan oleh satu atau beberapa sumber data pihak ketiga, termasuk CoinGecko. Konten pihak ketiga tersebut disediakan semata-mata untuk tujuan informasi dan tidak boleh dianggap sebagai saran untuk membeli, menjual, atau menggunakan aset tertentu. MetaMask tidak menyarankan penggunaan konten ini untuk tujuan tertentu dan tidak bertanggung jawab atas keakuratannya."
+    "disclaimer": "Data pasar disediakan oleh satu atau beberapa sumber data pihak ketiga, termasuk CoinGecko. Konten pihak ketiga tersebut disediakan semata-mata untuk tujuan informasi dan tidak boleh dianggap sebagai saran untuk membeli, menjual, atau menggunakan aset tertentu. Novai tidak menyarankan penggunaan konten ini untuk tujuan tertentu dan tidak bertanggung jawab atas keakuratannya."
   },
   "account_details": {
     "title": "Detail Akun",
@@ -1205,7 +1206,7 @@
     "cancel": "Batal",
     "error": "Kesalahan",
     "attempting_to_scan_with_wallet_locked": "Tampaknya Anda mencoba memindai kode QR, Anda harus membuka dompet untuk dapat menggunakannya.",
-    "attempting_sync_from_wallet_error": "Tampaknya Anda mencoba menyinkronkan dengan ekstensi. Untuk melakukannya, Anda harus menghapus dompet saat ini. \n\nSetelah Anda menghapus atau menginstal ulang versi baru aplikasi, pilih opsi untuk \"Menyinkronkan dengan Ekstensi MetaMask\". Penting! Sebelum menghapus dompet Anda, pastikan Anda telah mencadangkan Frasa Pemulihan Rahasia.",
+    "attempting_sync_from_wallet_error": "Tampaknya Anda mencoba menyinkronkan dengan ekstensi. Untuk melakukannya, Anda harus menghapus dompet saat ini. \n\nSetelah Anda menghapus atau menginstal ulang versi baru aplikasi, pilih opsi untuk \"Menyinkronkan dengan Ekstensi Novai\". Penting! Sebelum menghapus dompet Anda, pastikan Anda telah mencadangkan Frasa Pemulihan Rahasia.",
     "not_allowed_error_title": "Aktifkan akses kamera",
     "not_allowed_error_desc": "Akses kamera diperlukan untuk memindai kode QR yang terkait dengan alamat akun atau alamat kontrak",
     "unrecognized_address_qr_code_title": "Kode QR tak dikenal",
@@ -1320,7 +1321,7 @@
     "gas_education_1": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di",
     "gas_education_2_ethereum": "jaringan Ethereum.",
     "gas_education_2": "jaringan.",
-    "gas_education_3": "MetaMask tidak mengambil keuntungan dari biaya gas.",
+    "gas_education_3": "Novai tidak mengambil keuntungan dari biaya gas.",
     "gas_education_4": "Biaya gas berfluktuasi berdasarkan lalu lintas jaringan dan kompleksitas transaksi.",
     "gas_education_learn_more": "Pelajari selengkapnya seputar biaya gas",
     "confusable_title": "Periksa alamat penerima",
@@ -1335,7 +1336,7 @@
     "invalid_qr_code_sync": "Kode QR tidak valid. Harap pindai kode QR sinkronisasi dari dompet perangkat keras.",
     "no_camera_permission": "Kamera tidak diizinkan. Harap berikan izin dan coba lagi",
     "invalid_qr_code_sign": "Kode QR tidak valid. Harap periksa perangkat keras Anda dan coba lagi.",
-    "no_camera_permission_android": "Izinkan MetaMask mengakses kamera Anda untuk melanjutkan. Anda juga perlu mengubah pengaturan sistem.",
+    "no_camera_permission_android": "Izinkan Novai mengakses kamera Anda untuk melanjutkan. Anda juga perlu mengubah pengaturan sistem.",
     "mismatched_qr_request_id": "Data transaksi tidak sesuai. Gunakan Keystone Anda untuk menandatangani kode QR di bawah ini dan ketuk 'Dapatkan Tanda Tangan'.",
     "fiat_conversion_not_available": "Konversi fiat tidak tersedia untuk saat ini",
     "hex_data_copied": "Data hex disalin ke papan klip",
@@ -1353,7 +1354,7 @@
     "save": "Simpan",
     "warning_gas_limit": "Batas gas harus lebih besar dari 20999",
     "warning_gas_limit_estimated": "Estimasi batas gas adalah {{gas}}, gunakan sebagai nilai minimum",
-    "cost_explanation": "Biaya gas mencakup biaya pemrosesan transaksi Anda di jaringan Ethereum. MetaMask tidak mengambil keuntungan dari biaya ini. Semakin tinggi biayanya, semakin besar peluang transaksi Anda diproses."
+    "cost_explanation": "Biaya gas mencakup biaya pemrosesan transaksi Anda di jaringan Ethereum. Novai tidak mengambil keuntungan dari biaya ini. Semakin tinggi biayanya, semakin besar peluang transaksi Anda diproses."
   },
   "spend_limit_edition": {
     "save": "Simpan",
@@ -1405,7 +1406,7 @@
     "approve_asset": "Aset yang disetujui:"
   },
   "browser": {
-    "title": "Browser",
+    "title": "Temukan",
     "reload": "Muat ulang",
     "share": "Bagikan",
     "bookmark": "Bookmark",
@@ -1420,7 +1421,7 @@
     "change_url": "Ubah url",
     "switch_network": "Alihkan jaringan",
     "dapp_browser": "BROWSER DAPP",
-    "dapp_browser_message": "MetaMask merupakan dompet dan browser untuk web terdesentralisasi. Ayo lihat!",
+    "dapp_browser_message": "Novai merupakan dompet dan browser untuk web terdesentralisasi. Ayo lihat!",
     "featured_dapps": "DAPPS UNGGULAN",
     "my_favorites": "FAVORIT SAYA",
     "search": "Cari atau ketik URL",
@@ -1542,7 +1543,7 @@
     "status_cancelled_header": "Transaksi Anda dibatalkan",
     "status_cancelled_description": "Transaksi Anda tidak dapat diselesaikan, sehingga dibatalkan agar Anda tidak perlu membayar biaya gas yang tidak seharusnya.",
     "status_failed_header": "Transaksi Anda gagal",
-    "status_failed_description": "Perubahan pasar yang mendadak dapat menyebabkan kegagalan. Jika masalah berlanjut, hubungi dukungan pelanggan MetaMask.",
+    "status_failed_description": "Perubahan pasar yang mendadak dapat menyebabkan kegagalan. Jika masalah berlanjut, hubungi dukungan pelanggan Novai.",
     "view_transaction": "Lihat transaksi",
     "view_activity": "Lihat aktivitas",
     "return_to_dapp": "Kembali ke {{dappName}}",
@@ -1594,8 +1595,8 @@
     "status_not_ok": "Jaringan mengalami masalah",
     "want_to_add_network": "Ingin menambahkan jaringan ini?",
     "add_custom_network": "Tambahkan jaringan khusus",
-    "network_infomation": "Hal ini memungkinkan jaringan ini untuk digunakan dalam MetaMask",
-    "network_endorsement": "MetaMask tidak mendukung jaringan khusus atau keamanannya.",
+    "network_infomation": "Hal ini memungkinkan jaringan ini untuk digunakan dalam Novai",
+    "network_endorsement": "Novai tidak mendukung jaringan khusus atau keamanannya.",
     "learn_about": "Pelajari tentang",
     "network_risk": "penipuan dan risiko keamanan jaringan",
     "network_display_name": "Nama tampilan",
@@ -1633,7 +1634,7 @@
     "show_test_networks": "Tampilkan jaringan pengujian",
     "deprecated_goerli": "Sehubungan dengan perubahan protokol Ethereum: Jaringan uji Goerli mungkin tidak dapat beroperasi dengan baik dan akan segera dihentikan.",
     "network_deprecated_title": "Jaringan ini tidak digunakan lagi",
-    "network_deprecated_description": "Jaringan yang Anda coba hubungkan tidak lagi didukung di Metamask."
+    "network_deprecated_description": "Jaringan yang Anda coba hubungkan tidak lagi didukung di Novai."
   },
   "select": {
     "cancel": "Batal",
@@ -1687,9 +1688,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Autentikasi diperlukan",
-    "auth_prompt_desc": "Harap autentikasikan untuk menggunakan MetaMask",
+    "auth_prompt_desc": "Harap autentikasikan untuk menggunakan Novai",
     "fingerprint_prompt_title": "Autentikasi diperlukan",
-    "fingerprint_prompt_desc": "Gunakan sidik jari untuk membuka MetaMask",
+    "fingerprint_prompt_desc": "Gunakan sidik jari untuk membuka Novai",
     "fingerprint_prompt_cancel": "Batal"
   },
   "accountApproval": {
@@ -1711,7 +1712,7 @@
   },
   "import_private_key": {
     "title": "Impor Akun",
-    "description_one": "Akun yang diimpor dapat dilihat di dompet Anda tetapi tidak dapat dipulihkan dengan Frasa Pemulihan Rahasia MetaMask.",
+    "description_one": "Akun yang diimpor dapat dilihat di dompet Anda tetapi tidak dapat dipulihkan dengan Frasa Pemulihan Rahasia Novai.",
     "learn_more_here": "Pelajari selengkapnya seputar akun yang diimpor di sini.",
     "subtitle": "Tempel string kunci pribadi Anda",
     "cta_text": "IMPOR",
@@ -1723,7 +1724,7 @@
   },
   "import_private_key_success": {
     "title": "Akun berhasil diimpor!",
-    "description_one": "Kini Anda dapat melihat akun Anda di MetaMask."
+    "description_one": "Kini Anda dapat melihat akun Anda di Novai."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} telah didepositkan di akun Anda",
@@ -1738,7 +1739,7 @@
     "step_1_description": "Buat kata sandi",
     "step_2": "Langkah ke-2:",
     "step_2_description": "Simpan Frasa Pemulihan Rahasia dompet",
-    "info_text_1": "Luangkan waktu beberapa saat untuk menyelesaikan pengaturan dompet MetaMask.",
+    "info_text_1": "Luangkan waktu beberapa saat untuk menyelesaikan pengaturan dompet Novai.",
     "info_text_2": "Ini akan memastikan Andalah satu-satunya yang dapat mengakses dana dan memungkinkan Anda memulihkan dompet jika perangkat hilang",
     "cta_text": "Buat kata sandi",
     "creating_password": "Membuat kata sandi..."
@@ -1760,7 +1761,7 @@
     "what_is_seedphrase_title": "Apa itu ‘Frasa Pemulihan Rahasia’",
     "what_is_seedphrase_text_1": "Frasa Pemulihan Rahasia merupakan kumpulan dari 12 kata yang memuat semua informasi tentang dompet Anda, termasuk dana Anda. Ini seperti kode rahasia yang digunakan untuk mengakses seluruh dompet Anda.",
     "what_is_seedphrase_text_2": "Anda harus merahasiakan dan mengamankan Frasa Pemulihan Rahasia. Jika seseorang mendapatkan Frasa Pemulihan Rahasia, mereka akan mendapatkan kendali atas akun Anda.",
-    "what_is_seedphrase_text_3": "Simpan di tempat yang aman dan hanya bisa diakses oleh Anda. Jika hilang, MetaMask sekali pun tidak dapat membantu Anda memulihkannya."
+    "what_is_seedphrase_text_3": "Simpan di tempat yang aman dan hanya bisa diakses oleh Anda. Jika hilang, Novai sekali pun tidak dapat membantu Anda memulihkannya."
   },
   "account_backup_step_1B": {
     "title": "Amankan dompet Anda",
@@ -1833,7 +1834,7 @@
   },
   "account_backup_step_6": {
     "title": "Kiat Keamanan",
-    "info_text": "MetaMask tidak dapat memulihkan Frasa Pemulihan Rahasia yang hilang",
+    "info_text": "Novai tidak dapat memulihkan Frasa Pemulihan Rahasia yang hilang",
     "tip_1": "Simpan beberapa cadangan Frasa Pemulihan Rahasia",
     "tip_2": "Simpan frasa pada pengelola kata sandi tepercaya dan cadangan kertas di tempat yang aman",
     "tip_3": "Jangan pernah membagikan frasa ini kepada siapa pun",
@@ -1873,7 +1874,7 @@
     "congratulations": "Selamat",
     "success": "Dompet Anda telah terlindungi. Ingatlah untuk menjaga Frasa Pemulihan Rahasia agar tetap aman, ini merupakan tanggung jawab Anda!",
     "hint": "Tinggalkan petunjuk?",
-    "recover": "MetaMask tidak dapat memulihkan dompet Anda jika hilang. Anda dapat menemukan Frasa Pemulihan Rahasia di Pengaturan > Keamanan dan Privasi.",
+    "recover": "Novai tidak dapat memulihkan dompet Anda jika hilang. Anda dapat menemukan Frasa Pemulihan Rahasia di Pengaturan > Keamanan dan Privasi.",
     "learn": "Pelajari selengkapnya",
     "done": "Selesai",
     "recovery_hint": "Petunjuk pemulihan",
@@ -1886,7 +1887,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Deteksi Phishing Ethereum",
     "ethereum_phishing_detector": "Detektor Phishing Ethereum",
-    "intro": "saat ini ada dalam daftar peringatan domain MetaMask. Ini berarti bahwa berdasarkan informasi yang tersedia bagi kami, MetaMask yakin bahwa domain ini dapat membahayakan keamanan Anda saat ini dan, sebagai fitur keamanan tambahan, MetaMask telah membatasi akses ke situs ini. Untuk mengubahnya, harap baca sisa peringatan ini untuk mendapatkan petunjuk tentang cara melanjutkannya dengan risiko Anda sendiri.",
+    "intro": "saat ini ada dalam daftar peringatan domain Novai. Ini berarti bahwa berdasarkan informasi yang tersedia bagi kami, Novai yakin bahwa domain ini dapat membahayakan keamanan Anda saat ini dan, sebagai fitur keamanan tambahan, Novai telah membatasi akses ke situs ini. Untuk mengubahnya, harap baca sisa peringatan ini untuk mendapatkan petunjuk tentang cara melanjutkannya dengan risiko Anda sendiri.",
     "reasons": "Ada berbagai alasan mengapa situs dapat muncul di daftar peringatan kami, dan daftar peringatan kami dikompilasi dari daftar industri lain yang banyak digunakan. Alasan tersebut dapat mencakup penipuan atau risiko keamanan yang diketahui, seperti domain yang dites positif pada",
     "list_content": "Domain pada daftar peringatan ini dapat meliputi situs web berbahaya dan situs web sah yang telah disusupi oleh pelaku kejahatan.",
     "to_read_more": "Untuk membaca selengkapnya seputar situs ini",
@@ -1938,7 +1939,7 @@
     "received_message": "Ketuk untuk melihat transaksi ini",
     "received_payment_message": "Anda menerima {{amount}} DAI",
     "prompt_title": "Aktifkan Pemberitahuan Push",
-    "prompt_desc": "Aktifkan pemberitahuan agar MetaMask dapat memberitahukan saat Anda menerima ETH atau saat transaksi Anda telah dikonfirmasi.",
+    "prompt_desc": "Aktifkan pemberitahuan agar Novai dapat memberitahukan saat Anda menerima ETH atau saat transaksi Anda telah dikonfirmasi.",
     "prompt_ok": "Ya",
     "prompt_cancel": "Tidak, terima kasih",
     "wc_connected_title": "Terhubung dengan {{title}}",
@@ -1966,7 +1967,7 @@
     "activation_card": {
       "title": "Aktifkan notifikasi",
       "description_1": "Pantau terus segala perkembangan yang terjadi di dompet Anda dengan notifikasi. ",
-      "description_2": "Untuk menggunakan fitur ini, kami akan membuat ID anonim untuk akun Anda. Ini hanya digunakan untuk menyinkronkan data di MetaMask dan tidak terhubung dengan aktivitas atau pengidentifikasi lainnya, sehingga privasi tetap terjaga.",
+      "description_2": "Untuk menggunakan fitur ini, kami akan membuat ID anonim untuk akun Anda. Ini hanya digunakan untuk menyinkronkan data di Novai dan tidak terhubung dengan aktivitas atau pengidentifikasi lainnya, sehingga privasi tetap terjaga.",
       "learn_more": "Pelajari cara kami melindungi privasi Anda saat menggunakan fitur ini. ",
       "manage_preferences_1": "Notifikasi dapat dinonaktifkan setiap saat ",
       "manage_preferences_2": "Pengaturan > Notifikasi.",
@@ -2124,7 +2125,7 @@
     "wyre_minimum_deposit": "Deposit minimum adalah {{amount}}",
     "wyre_maximum_deposit": "Deposit maksimum adalah {{amount}}",
     "apple_pay_purchase": "Pembelian {{currency}}",
-    "apple_pay_provider_total_label": "{{provider}} (melalui MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (melalui Novai)",
     "buy_with": "Beli dengan",
     "plus_fee": "Ditambah biaya {{fee}}",
     "date": "Tanggal",
@@ -2143,12 +2144,12 @@
         "average_gas_fee": "Biaya gas rata-rata saat ini:",
         "subtitle_1": "Jika Anda berencana untuk menukar atau mentransfer {{ticker}}, beli lebih banyak untuk menutupi biaya gas.",
         "subtitle_2": "Biaya gas untuk transaksi tidak terkait dengan biaya pembelian {{ticker}}.",
-        "subtitle_3": "MetaMask tidak mengambil keuntungan dari biaya gas."
+        "subtitle_3": "Novai tidak mengambil keuntungan dari biaya gas."
       },
       "step_2": {
         "title": "Apa itu biaya gas?",
         "subtitle_1": "Gas mengatur transaksi di jaringan Ethereum. Ini merupakan biaya yang dibayarkan dalam {{ticker}} kepada penambang kripto yang memproses transaksi Anda.",
-        "subtitle_2": "MetaMask tidak mengambil keuntungan dari biaya gas.",
+        "subtitle_2": "Novai tidak mengambil keuntungan dari biaya gas.",
         "learn_more": "Pelajari selengkapnya seputar biaya gas"
       },
       "step_3": {
@@ -2188,7 +2189,7 @@
     "onboarding": {
       "what_to_expect": "Yang Diharapkan",
       "quotes": "Fitur beli kripto kami mengumpulkan kuotasi dari vendor terintegrasi, menawarkan kuotasi dari sumber tersebut agar bisa mendapatkan kripto langsung ke dompet Anda tanpa masa tunggu.",
-      "quotes_sell": "Kini Anda dapat langsung mencairkan uang tunai di MetaMask! Dapatkan penawaran terkini dari penyedia tepercaya selagi kami memberikan panduan langkah demi langkah.",
+      "quotes_sell": "Kini Anda dapat langsung mencairkan uang tunai di Novai! Dapatkan penawaran terkini dari penyedia tepercaya selagi kami memberikan panduan langkah demi langkah.",
       "benefits": "Biaya gas yang harus dibayar semakin sedikit, dan ada banyak jaringan, token, serta metode pembayaran yang didukung",
       "benefits_sell": "Pertukaran dari kripto ke mata uang lokal kini semakin mudah.",
       "get_started": "Mulai"
@@ -2372,13 +2373,13 @@
       "best_swap": "pertukaran terbaik",
       "across": "di seluruh...",
       "want_to_learn_more": "Ingin mempelajari selengkapnya?",
-      "learn_more": "Pelajari selengkapnya seputar MetaMask Swaps",
+      "learn_more": "Pelajari selengkapnya seputar Novai Swaps",
       "what_are": "Apa itu pertukaran token?",
       "review_audits": "Tinjau audit kontrak resmi kami",
       "start_swapping": "Mulai menukar"
     },
     "feature_off_title": "Sementara tidak tersedia",
-    "feature_off_body": "MetaMask Swaps sedang menjalani pemeliharaan. Silakan kembali lagi nanti.",
+    "feature_off_body": "Novai Swaps sedang menjalani pemeliharaan. Silakan kembali lagi nanti.",
     "wrong_network_title": "Pertukaran tidak tersedia",
     "wrong_network_body": "Anda hanya dapat menukar token di Jaringan Utama Ethereum.",
     "unallowed_asset_title": "Tidak dapat menukar token ini",
@@ -2456,16 +2457,16 @@
     "estimated_gas_fee": "Estimasi biaya gas",
     "max_gas_fee": "Biaya gas maks",
     "edit": "Edit",
-    "quotes_include_fee": "Kuotasi mencakup {{fee}}% biaya MetaMask",
+    "quotes_include_fee": "Kuotasi mencakup {{fee}}% biaya Novai",
     "tap_to_swap": "Ketuk untuk Menukar",
     "swipe_to_swap": "Usap untuk menukar",
     "swipe_to": "Usap untuk",
     "swap": "tukar",
     "completed_swap": "Tukar!",
-    "metamask_swap_fee": "Biaya MetaMask Swap",
+    "metamask_swap_fee": "Biaya Novai Swap",
     "fee_text": {
-      "fee_is_applied": "Biaya sebesar {{fee}} otomatis diperhitungkan ke dalam kuotasi ini. Anda membayarnya sebagai ganti lisensi untuk menggunakan perangkat lunak pengumpul informasi penyedia likuiditas MetaMask.",
-      "fee_is_not_applied": "MetaMask tidak menyertakan biaya tambahan dalam kuotasi ini."
+      "fee_is_applied": "Biaya sebesar {{fee}} otomatis diperhitungkan ke dalam kuotasi ini. Anda membayarnya sebagai ganti lisensi untuk menggunakan perangkat lunak pengumpul informasi penyedia likuiditas Novai.",
+      "fee_is_not_applied": "Novai tidak menyertakan biaya tambahan dalam kuotasi ini."
     },
     "enable": {
       "this_will": "Ini akan",
@@ -2530,7 +2531,7 @@
     "gas_education_1": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di",
     "gas_education_2_ethereum": "jaringan Ethereum.",
     "gas_education_2": "jaringan.",
-    "gas_education_3": "MetaMask tidak mengambil keuntungan dari biaya gas.",
+    "gas_education_3": "Novai tidak mengambil keuntungan dari biaya gas.",
     "gas_education_4": "“Perkiraan",
     "gas_education_5": "biaya gas”",
     "gas_education_6": "merupakan biaya aktual yang kami perkirakan. Jumlah pastinya tergantung pada kondisi jaringan.",
@@ -2571,14 +2572,14 @@
     "title": "Yang baru",
     "blockaid": {
       "title": "Tetap aman bersama peringatan keamanan",
-      "description_1": "Hindari penipuan yang diketahui sambil tetap melindungi privasi Anda bersama peringatan keamanan yang didukung oleh Blockaid. Saat ini fitur ini diaktifkan secara default untuk semua pengguna MetaMask.",
+      "description_1": "Hindari penipuan yang diketahui sambil tetap melindungi privasi Anda bersama peringatan keamanan yang didukung oleh Blockaid. Saat ini fitur ini diaktifkan secara default untuk semua pengguna Novai.",
       "description_2": "Selalu lakukan uji tuntas sendiri sebelum menyetujui permintaan.",
       "description_3": "Tersedia di Arbitrum, Avalanche, BNB chain, Mainnet Ethereum, Linea, Optimism, Polygon, Sepolia, dan Base.",
       "got_it": "Mengerti"
     },
     "sell": {
       "title": "Pencairan uang tunai semakin mudah",
-      "description": "Jual kripto langsung di MetaMask! Kami akan membantu menemukan penawaran harga dari penyedia tepercaya, sehingga Anda dapat menjual kripto dengan cara yang mudah diakses, cepat, dan aman, setiap saat.",
+      "description": "Jual kripto langsung di Novai! Kami akan membantu menemukan penawaran harga dari penyedia tepercaya, sehingga Anda dapat menjual kripto dengan cara yang mudah diakses, cepat, dan aman, setiap saat.",
       "action_text": "Cobalah"
     },
     "stx": {
@@ -2606,15 +2607,15 @@
   "switch_custom_network": {
     "title_existing_network": "Situs ini ingin beralih jaringan",
     "title_new_network": "Jaringan baru ditambahkan",
-    "switch_warning": "Ini akan mengalihkan jaringan yang dipilih dalam MetaMask ke jaringan yang ditambahkan sebelumnya:",
+    "switch_warning": "Ini akan mengalihkan jaringan yang dipilih dalam Novai ke jaringan yang ditambahkan sebelumnya:",
     "available": "kini tersedia di pemilih jaringan.",
     "cancel": "Batal",
     "switch": "Alihkan jaringan"
   },
   "add_custom_network": {
     "title": "Izinkan situs ini untuk menambahkan jaringan?",
-    "warning": "Ini memungkinkan jaringan untuk digunakan dalam MetaMask.",
-    "warning_subtext_1": "MetaMask tidak memverifikasi jaringan khusus atau keamanannya.",
+    "warning": "Ini memungkinkan jaringan untuk digunakan dalam Novai.",
+    "warning_subtext_1": "Novai tidak memverifikasi jaringan khusus atau keamanannya.",
     "warning_subtext_2": "Pelajari seputar",
     "warning_subtext_3": "penipuan dan risiko keamanan jaringan",
     "display_name": "Nama tampilan",
@@ -2630,7 +2631,7 @@
     "alert_recommend": "Kami merekomendasikan agar Anda",
     "alert_verify": "memverifikasikan ID rantai",
     "warning_subtext_new": {
-      "1": "MetaMask tidak memverifikasi jaringan khusus, jadi hanya setujui jaringan yang Anda percayai.",
+      "1": "Novai tidak memverifikasi jaringan khusus, jadi hanya setujui jaringan yang Anda percayai.",
       "2": "Selengkapnya tentang risiko keamanan jaringan dan penipuan."
     },
     "invalid_rpc_url": "URL jaringan ini tidak cocok dengan penyedia yang dikenal untuk ID chain ini.",
@@ -2705,7 +2706,7 @@
     "estimated_gas_fee_tooltip_text_1": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di",
     "estimated_gas_fee_tooltip_text_2": "jaringan",
     "estimated_gas_fee_tooltip_text_3": "Ethereum.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask tidak mengambil keuntungan dari biaya gas.",
+    "estimated_gas_fee_tooltip_text_4": "Novai tidak mengambil keuntungan dari biaya gas.",
     "estimated_gas_fee_tooltip_text_5": "Biaya gas diatur oleh jaringan dan berfluktuasi berdasarkan lalu lintas jaringan dan kompleksitas transaksi.",
     "learn_more": "Pelajari selengkapnya seputar biaya gas",
     "legacy_gas_suggestion_tooltip": "Usulan biaya gas ini menggunakan estimasi gas lama yang mungkin kurang akurat."
@@ -2729,7 +2730,7 @@
     "high_fees": "Mengapa biayanya begitu tinggi?",
     "missing_tokens": "Saya kehilangan token...",
     "swap_issues": "Saya tidak bisa menukar...",
-    "mobile_sentiment": "Bagaimana pendapat Anda tentang MetaMask seluler?",
+    "mobile_sentiment": "Bagaimana pendapat Anda tentang Novai seluler?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Suka sekali!",
@@ -2777,12 +2778,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Aktifkan Ingatkan saya",
-    "enable_remember_me_description": "Saat Ingatkan saya aktif, siapa pun yang memiliki akses ke ponsel Anda dapat mengakses akun MetaMask Anda."
+    "enable_remember_me_description": "Saat Ingatkan saya aktif, siapa pun yang memiliki akses ke ponsel Anda dapat mengakses akun Novai Anda."
   },
   "turn_off_remember_me": {
     "title": "Masukkan kata sandi Anda untuk menonaktifkan Ingatkan saya",
     "placeholder": "Kata sandi",
-    "description": "Jika Anda menonaktifkan opsi ini, Anda memerlukan kata sandi untuk membuka MetaMask mulai sekarang.",
+    "description": "Jika Anda menonaktifkan opsi ini, Anda memerlukan kata sandi untuk membuka Novai mulai sekarang.",
     "action": "Nonaktifkan Ingatkan saya"
   },
   "dapp_connect": {
@@ -2794,11 +2795,11 @@
   },
   "automatic_security_checks": {
     "title": "Pemeriksaan keamanan otomatis",
-    "description": "Memeriksa pembaruan secara otomatis dapat menampilkan alamat IP Anda ke server GitHub. Ini hanya menunjukkan bahwa alamat IP Anda sedang menggunakan MetaMask. Tidak ada alamat akun atau informasi lainnya yang ditampilkan."
+    "description": "Memeriksa pembaruan secara otomatis dapat menampilkan alamat IP Anda ke server GitHub. Ini hanya menunjukkan bahwa alamat IP Anda sedang menggunakan Novai. Tidak ada alamat akun atau informasi lainnya yang ditampilkan."
   },
   "terms_of_use_modal": {
     "title": "Tinjau Persyaratan Penggunaan terbaru kami",
-    "terms_of_use_check_description": "Saya menyetujui Ketentuan Penggunaan, yang berlaku untuk penggunaan saya atas MetaMask dan semua fiturnya",
+    "terms_of_use_check_description": "Saya menyetujui Ketentuan Penggunaan, yang berlaku untuk penggunaan saya atas Novai dan semua fiturnya",
     "accept_cta": "Terima",
     "accept_helper_description": "Gulirkan layar untuk membaca semua bagian"
   },
@@ -2810,7 +2811,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Periksa pembaruan keamanan secara otomatis?",
-    "description": "Memeriksa pembaruan secara otomatis dapat menampilkan alamat IP Anda ke server GitHub. Ini hanya menunjukkan bahwa alamat IP Anda sedang menggunakan MetaMask. Tidak ada alamat akun atau informasi lainnya yang ditampilkan.",
+    "description": "Memeriksa pembaruan secara otomatis dapat menampilkan alamat IP Anda ke server GitHub. Ini hanya menunjukkan bahwa alamat IP Anda sedang menggunakan Novai. Tidak ada alamat akun atau informasi lainnya yang ditampilkan.",
     "primary_action": "Aktifkan pemeriksaan keamanan otomatis",
     "secondary_action": "Tidak, terima kasih"
   },
@@ -2863,7 +2864,7 @@
     "new_wallet_needed_create_try_again_action": "Coba pulihkan dompet",
     "new_wallet_needed_description_part_one": "Terjadi kesalahan dengan dompet Anda. Buat yang baru. Karena akun Anda berada di blockchain, maka keamanannya masih terjaga. Hanya preferensi, jaringan tersimpan, nama akun, dan data terkait yang tersimpan di perangkat yang hilang.",
     "new_wallet_needed_description_part_two": "Untuk mengimpor akun ke dompet baru, Anda memerlukan Frasa Pemulihan Rahasia. Jika tidak memiliki Frasa Pemulihan Rahasia, akun Anda tidak akan bisa diimpor.",
-    "new_wallet_needed_description_part_three": "Agar hal ini tidak terjadi lagi, pastikan untuk selalu memperbarui aplikasi dan OS MetaMask ke versi terbaru."
+    "new_wallet_needed_description_part_three": "Agar hal ini tidak terjadi lagi, pastikan untuk selalu memperbarui aplikasi dan OS Novai ke versi terbaru."
   },
   "srp_security_quiz": {
     "title": "Kuis keamanan",
@@ -2874,7 +2875,7 @@
     "continue": "Lanjutkan",
     "of": "dari",
     "question_one": {
-      "question": "Jika Anda kehilangan Frasa Pemulihan Rahasia, MetaMask...",
+      "question": "Jika Anda kehilangan Frasa Pemulihan Rahasia, Novai...",
       "right_answer": "Tidak dapat membantu Anda",
       "wrong_answer": "Dapat mengembalikannya untuk Anda",
       "right_answer_title": "Benar! Tidak ada yang dapat membantu mengembalikan Frasa Pemulihan Rahasia Anda",
@@ -2899,9 +2900,9 @@
     "bluetooth_off_message": "Aktifkan Bluetooth untuk perangkat",
     "bluetooth_access_blocked": "Ledger memerlukan akses Bluetooth untuk dipasangkan dengan perangkat seluler.",
     "bluetooth_access_blocked_message": "Jika ingin memasangkan perangkat Ledger menggunakan Bluetooth, aktifkan di Pengaturan dan coba lagi.",
-    "location_access_blocked": "MetaMask memerlukan izin akses lokasi untuk dipasangkan dengan Ledger.",
+    "location_access_blocked": "Novai memerlukan izin akses lokasi untuk dipasangkan dengan Ledger.",
     "location_access_blocked_message": "Jika ingin memasangkan perangkat Ledger menggunakan Bluetooth, aktifkan akses lokasi di Pengaturan & coba lagi.",
-    "nearbyDevices_access_blocked": "MetaMask memerlukan izin perangkat terdekat untuk dipasangkan dengan Ledger.",
+    "nearbyDevices_access_blocked": "Novai memerlukan izin perangkat terdekat untuk dipasangkan dengan Ledger.",
     "nearbyDevices_access_blocked_message": "Jika ingin memasangkan perangkat Ledger menggunakan Bluetooth, Anda harus mengaktifkan akses perangkat terdekat di Pengaturan & coba lagi.",
     "bluetooth_scanning_error": "Terjadi kesalahan saat memindai perangkat",
     "bluetooth_scanning_error_message": "Pastikan perangkat tidak terkunci dan aplikasi Ethereum berjalan",
@@ -2941,7 +2942,7 @@
     "unknown_error_message": "Terjadi kesalahan tidak terduga. Silakan coba lagi.",
     "error_occured": "Terjadi kesalahan",
     "how_to_install_eth_app": "Cara menginstal aplikasi Ethereum di perangkat Ledger",
-    "ledger_account_count": "Anda menggunakan 1 akun dari Ledger dengan MetaMask Mobile.",
+    "ledger_account_count": "Anda menggunakan 1 akun dari Ledger dengan Novai Mobile.",
     "open_eth_app": "Buka aplikasi Ethereum",
     "open_eth_app_message_one": "Kami telah mendeteksi Anda telah menginstal aplikasi Ethereum tetapi tidak terbuka,",
     "open_eth_app_message_two": "tekan dua tombol pada perangkat untuk menerima perintah membuka aplikasi Ethereum untuk melanjutkan.",
@@ -2955,7 +2956,7 @@
     "not_supported": "Operasi tidak didukung",
     "not_supported_error": "Hanya penandatanganan data yang diketik versi 4 yang didukung.",
     "error_during_connection": "Terjadi kesalahan tidak dikenal",
-    "error_during_connection_message": "Ada sedikit masalah saat menghubungkan Ledger Nano X, ketuk 'Coba lagi' di bawah ini untuk mencobanya kembali. Terkadang hal ini terjadi karena aplikasi ETH di Ledger Nano X terbuka pada awal proses pemasangan dengan MetaMask Mobile.",
+    "error_during_connection_message": "Ada sedikit masalah saat menghubungkan Ledger Nano X, ketuk 'Coba lagi' di bawah ini untuk mencobanya kembali. Terkadang hal ini terjadi karena aplikasi ETH di Ledger Nano X terbuka pada awal proses pemasangan dengan Novai Mobile.",
     "how_to_install_eth_webview_title": "Cara menginstal Aplikasi Ethereum",
     "nonce_too_low": "Nonce terlalu rendah",
     "nonce_too_low_error": "Nonce yang ditetapkan terlalu rendah"
@@ -3016,7 +3017,7 @@
   },
   "default_settings": {
     "title": "Dompet Anda sudah siap",
-    "description": "MetaMask menggunakan pengaturan default untuk menyeimbangkan keamanan dan kemudahan penggunaan. Ubah pengaturan ini untuk lebih meningkatkan privasi Anda.",
+    "description": "Novai menggunakan pengaturan default untuk menyeimbangkan keamanan dan kemudahan penggunaan. Ubah pengaturan ini untuk lebih meningkatkan privasi Anda.",
     "learn_more_about_privacy": "Selengkapnya seputar praktik terbaik privasi.",
     "privacy_policy": "Kebijakan privasi",
     "default_settings": "Pengaturan Default",
@@ -3025,12 +3026,12 @@
     "manage_networks": "Kelola jaringan",
     "manage_networks_body": "Kami menggunakan Infura sebagai penyedia panggilan prosedur jarak jauh (RPC) untuk menawarkan akses paling andal dan pribadi ke data Ethereum sebisa mungkin. Anda dapat memilih RPC sendiri, akan tetapi ingatlah bahwa RPC apa pun akan menerima alamat IP dan dompet Ethereum Anda untuk melakukan transaksi. Baca ",
     "manage_networks_body2": " untuk selengkapnya seputar cara Infura menangani data.",
-    "functionality_body": "Meliputi nilai dan data token, pengaturan gas optimal, pembaruan keamanan, dan lainnya. MetaMask akan mengetahui alamat IP Anda saat menggunakan layanan ini, seperti halnya saat mengunjungi situs web.",
+    "functionality_body": "Meliputi nilai dan data token, pengaturan gas optimal, pembaruan keamanan, dan lainnya. Novai akan mengetahui alamat IP Anda saat menggunakan layanan ini, seperti halnya saat mengunjungi situs web.",
     "sheet": {
       "title_off": "Nonaktifkan fungsionalitas dasar",
-      "description_off": "Artinya, Anda tidak akan benar-benar mengoptimalkan waktu di MetaMask. Fitur dasar (seperti detail token, pengaturan gas optimal, dan lainnya) tidak akan tersedia untuk Anda.",
+      "description_off": "Artinya, Anda tidak akan benar-benar mengoptimalkan waktu di Novai. Fitur dasar (seperti detail token, pengaturan gas optimal, dan lainnya) tidak akan tersedia untuk Anda.",
       "title_on": "Aktifkan fungsionalitas dasar",
-      "description_on": "Untuk mengoptimalkan waktu di MetaMask, Anda perlu mengaktifkan fitur ini. Fungsi dasar (seperti detail token, pengaturan gas optimal, dan lainnya) penting untuk pengalaman web3.",
+      "description_on": "Untuk mengoptimalkan waktu di Novai, Anda perlu mengaktifkan fitur ini. Fungsi dasar (seperti detail token, pengaturan gas optimal, dan lainnya) penting untuk pengalaman web3.",
       "checkbox_label": "Saya memahami dan ingin melanjutkan",
       "buttons": {
         "cancel": "Batal",

@@ -1,5 +1,6 @@
 import Gestures from '../../helpers/Gestures';
 import Selectors from '../../helpers/Selectors';
+import Logger from '../../../app/util/Logger';
 
 import {
  
@@ -61,6 +62,7 @@ class AddressBarScreen {
   }
 
   async editUrlInput(text) {
+    Logger.log("Logger  ,",text);
     await Gestures.typeText(this.urlModalInput, text);
   }
 

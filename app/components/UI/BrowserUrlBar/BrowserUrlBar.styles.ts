@@ -8,6 +8,7 @@ const styleSheet = (params: { theme: Theme }) =>
       flexDirection: 'row',
       alignItems: 'center',
     },
+    
     text: {
       marginLeft: 8,
       color: params.theme.colors.text.alternative,

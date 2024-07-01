@@ -175,7 +175,7 @@ describe('shouldShowBlockExplorer', () => {
     networkId1: {
       chainId: '1',
       nickname: 'Main Ethereum Network',
-      rpcUrl: 'https://mainnet.infura.io/v3/123',
+      rpcUrl: 'https://mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
       rpcPrefs: {},
     },
   };

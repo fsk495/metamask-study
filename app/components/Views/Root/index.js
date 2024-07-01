@@ -11,6 +11,7 @@ import Logger from '../../../util/Logger';
 import ErrorBoundary from '../ErrorBoundary';
 import { useAppTheme, ThemeContext } from '../../../util/theme';
 import { ToastContextWrapper } from '../../../component-library/components/Toast';
+// 安全区域适配
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { isTest } from '../../../util/test/utils';
 
@@ -54,7 +55,7 @@ export default class Root extends PureComponent {
       isTest,
     };
   }
-
+  // 生命周期方法
   async componentDidMount() {
     const { isTest } = this.state;
     if (isTest) {
@@ -71,6 +72,7 @@ export default class Root extends PureComponent {
     SplashScreen.hide();
 
     return (
+      // 将Redux store 赘余到整个应用程序内
       <Provider store={store}>
         <PersistGate persistor={persistor}>
           <ConnectedRoot />

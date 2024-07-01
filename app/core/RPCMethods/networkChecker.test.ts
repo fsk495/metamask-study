@@ -81,7 +81,7 @@ describe('checkSafeNetwork', () => {
 
     const alerts = await checkSafeNetwork(
       '137',
-      'https://polygon-mainnet.infura.io/v3/test',
+      'https://polygon-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
       'Test',
       'MATIC',
     );
@@ -219,7 +219,7 @@ describe('checkSafeNetwork', () => {
         data: [
           {
             chainId: '10',
-            rpc: ['https://optimism-mainnet.infura.io/v3/1234'],
+            rpc: ['https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3'],
             name: 'Optimism',
             nativeCurrency: {
               symbol: 'ETH',
@@ -232,7 +232,7 @@ describe('checkSafeNetwork', () => {
 
     const alerts = await checkSafeNetwork(
       '10',
-      'https://optimism-mainnet.infura.io/v3/1234',
+      'https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
       'Optimism',
       'ETH',
     );
@@ -244,7 +244,7 @@ describe('checkSafeNetwork', () => {
         data: [
           {
             chainId: '10',
-            rpc: ['https://optimism-mainnet.infura.io/v3/1234'],
+            rpc: ['https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3'],
             name: 'Optimism',
             nativeCurrency: {
               symbol: 'ETH',
@@ -257,7 +257,7 @@ describe('checkSafeNetwork', () => {
 
     const alerts = await checkSafeNetwork(
       '10',
-      'https://optimism-mainnet.infura.io/v3/1234',
+      'https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
       'Optimism test',
       'OP',
     );
@@ -283,7 +283,7 @@ describe('checkSafeNetwork', () => {
         data: [
           {
             chainId: '10',
-            rpc: ['https://optimism-mainnet.infura.io/v3/1234'],
+            rpc: ['https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3'],
             name: 'Optimism',
             nativeCurrency: {
               symbol: 'ETH',
@@ -296,7 +296,7 @@ describe('checkSafeNetwork', () => {
 
     const result = await checkSafeNetwork(
       '10',
-      'https://optimism-mainnet.infura.io/v3/1234',
+      'https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
       undefined as any,
       'ETH',
     );

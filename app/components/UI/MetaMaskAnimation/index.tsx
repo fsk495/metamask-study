@@ -13,6 +13,9 @@ const LOGO_PADDING = 25;
 const wordmarkLight = require('../../../animations/wordmark-light.json');
 const wordmarkDark = require('../../../animations/wordmark-dark.json');
 
+// 使用新的加载动画
+const loadingAnimation = require('../../../animations/loading.json');
+
 const createStyles = (colors: any) =>
   StyleSheet.create({
     main: {
@@ -77,7 +80,7 @@ const MetaMaskAnimation = ({
             style={styles.foxAndName}
             {...generateTestId(Platform, SPLASH_SCREEN_METAMASK_ANIMATION_ID)}
           >
-            <LottieView
+            {/* <LottieView
               autoPlay={false}
               ref={animationRef}
               style={styles.animation}
@@ -93,7 +96,15 @@ const MetaMaskAnimation = ({
               loop={false}
               // eslint-disable-next-line
               source={wordmark}
-            />
+              onAnimationFinish={onAnimationFinish}
+            /> */}
+            <LottieView 
+              autoPlay = {false}
+              ref={animationRef} 
+              style={styles.animation} 
+              loop={false} 
+              source={loadingAnimation} 
+              onAnimationFinish={onAnimationFinish} />
           </View>
         </View>
       </Animated.View>

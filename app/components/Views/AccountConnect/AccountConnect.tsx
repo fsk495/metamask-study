@@ -335,6 +335,7 @@ const AccountConnect = (props: AccountConnectProps) => {
         labelOptions,
         accountAddress: activeAddress,
         accountAvatarType,
+        hasNoTimeout: false
       });
     } catch (e: any) {
       Logger.error(e, 'Error while trying to connect to a dApp.');

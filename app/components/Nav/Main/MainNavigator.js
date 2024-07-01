@@ -83,6 +83,9 @@ import ConfirmAddAsset from '../../UI/ConfirmAddAsset';
 import { AesCryptoTestForm } from '../../Views/AesCryptoTestForm';
 import { isTest } from '../../../util/test/utils';
 
+import FloatingButton from './FloatingMenu';
+import {strings} from '../../../../locales/i18n';
+
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
 
@@ -185,16 +188,16 @@ const WalletTabModalFlow = () => (
   </Stack.Navigator>
 );
 
-const TransactionsHome = () => (
-  <Stack.Navigator>
-    <Stack.Screen name={Routes.TRANSACTIONS_VIEW} component={ActivityView} />
-    <Stack.Screen name={Routes.RAMP.ORDER_DETAILS} component={OrderDetails} />
-    <Stack.Screen
-      name={Routes.RAMP.SEND_TRANSACTION}
-      component={SendTransaction}
-    />
-  </Stack.Navigator>
-);
+// const TransactionsHome = () => (
+//   <Stack.Navigator>
+//     <Stack.Screen name={Routes.TRANSACTIONS_VIEW} component={ActivityView} />
+//     <Stack.Screen name={Routes.RAMP.ORDER_DETAILS} component={OrderDetails} />
+//     <Stack.Screen
+//       name={Routes.RAMP.SEND_TRANSACTION}
+//       component={SendTransaction}
+//     />
+//   </Stack.Navigator>
+// );
 
 const BrowserFlow = () => (
   <Stack.Navigator
@@ -326,6 +329,16 @@ const SettingsFlow = () => (
       options={WalletConnectSessions.navigationOptions}
     />
     <Stack.Screen
+      name={Routes.TRANSACTIONS_VIEW}
+      component={ActivityView}
+      options={ActivityView.navigationOptions}
+    />
+    <Stack.Screen name={Routes.RAMP.ORDER_DETAILS} component={OrderDetails} />
+    <Stack.Screen
+      name={Routes.RAMP.SEND_TRANSACTION}
+      component={SendTransaction}
+    />
+    <Stack.Screen
       name="ResetPassword"
       component={ResetPassword}
       options={ResetPassword.navigationOptions}
@@ -373,11 +386,15 @@ const SettingsFlow = () => (
     }
   </Stack.Navigator>
 );
-
+/**
+ * 底部导航栏
+ * @returns 
+ */ 
 const HomeTabs = () => {
   const { trackEvent } = useMetrics();
   const drawerRef = useRef(null);
   const [isKeyboardHidden, setIsKeyboardHidden] = useState(true);
+  const [isNavbarVisible, setIsNavbarVisible] = useState(false);
 
   const accountsLength = useSelector(selectAccountsLength);
 
@@ -414,11 +431,13 @@ const HomeTabs = () => {
   const options = {
     home: {
       tabBarIconKey: TabBarIconKey.Wallet,
+      tabBarLabel: strings('transaction.asset'),
       callback: () => {
         trackEvent(MetaMetricsEvents.WALLET_OPENED, {
           number_of_accounts: accountsLength,
           chain_id: getDecimalChainId(chainId),
         });
+        setIsNavbarVisible(false);
       },
       rootScreenName: Routes.WALLET_VIEW,
     },
@@ -428,6 +447,7 @@ const HomeTabs = () => {
     },
     browser: {
       tabBarIconKey: TabBarIconKey.Browser,
+      tabBarLabel: strings('browser.title'),
       callback: () => {
         trackEvent(MetaMetricsEvents.BROWSER_OPENED, {
           number_of_accounts: accountsLength,
@@ -436,20 +456,25 @@ const HomeTabs = () => {
           active_connected_dapp: activeConnectedDapp,
           number_of_open_tabs: amountOfBrowserOpenTabs,
         });
+        setIsNavbarVisible(false);
       },
       rootScreenName: Routes.BROWSER_VIEW,
     },
     activity: {
       tabBarIconKey: TabBarIconKey.Activity,
+      tabBarLabel: 'Wallet',
       callback: () => {
         trackEvent(MetaMetricsEvents.NAVIGATION_TAPS_TRANSACTION_HISTORY);
+        setIsNavbarVisible(false);
       },
       rootScreenName: Routes.TRANSACTIONS_VIEW,
     },
     settings: {
       tabBarIconKey: TabBarIconKey.Setting,
+      tabBarLabel: strings('drawer.settings'),
       callback: () => {
         trackEvent(MetaMetricsEvents.NAVIGATION_TAPS_SETTINGS);
+        setIsNavbarVisible(false);
       },
       rootScreenName: Routes.SETTINGS_VIEW,
       unmountOnBlur: true,
@@ -479,8 +504,9 @@ const HomeTabs = () => {
       <Drawer ref={drawerRef}>
         <Tab.Navigator
           initialRouteName={Routes.WALLET.HOME}
+          tabBarOptions={{ showLabel: true }}
           tabBar={({ state, descriptors, navigation }) =>
-            isKeyboardHidden ? (
+            isKeyboardHidden && isNavbarVisible ? (
               <TabBar
                 state={state}
                 descriptors={descriptors}
@@ -494,7 +520,7 @@ const HomeTabs = () => {
             options={options.home}
             component={WalletTabModalFlow}
           />
-          <Tab.Screen
+          {/* <Tab.Screen
             name={Routes.TRANSACTIONS_VIEW}
             options={options.activity}
             component={TransactionsHome}
@@ -503,7 +529,7 @@ const HomeTabs = () => {
             name={Routes.MODAL.WALLET_ACTIONS}
             options={options.actions}
             component={WalletTabModalFlow}
-          />
+          /> */}
           <Tab.Screen
             name={Routes.BROWSER.HOME}
             options={options.browser}
@@ -516,6 +542,7 @@ const HomeTabs = () => {
             component={SettingsFlow}
           />
         </Tab.Navigator>
+        <FloatingButton onPress={() => setIsNavbarVisible(!isNavbarVisible)} />
       </Drawer>
     </DrawerContext.Provider>
   );

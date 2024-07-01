@@ -399,7 +399,7 @@ class FixtureBuilder {
           whitelist: [],
           tabs: [
             {
-              url: 'https://home.metamask.io/',
+              url: 'https://home.novai.finance/',
               id: 1692550481062,
             },
           ],

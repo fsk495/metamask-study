@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Configuration du portefeuille",
-    "sync_desc": "Si vous possédez déjà l’extension MetaMask ou un autre portefeuille, synchronisez-le ou importez-le pour gérer vos actifs existants.",
+    "sync_desc": "Si vous possédez déjà l’extension Novai ou un autre portefeuille, synchronisez-le ou importez-le pour gérer vos actifs existants.",
     "create_desc": "Créez votre premier portefeuille et familiarisez-vous avec les applications décentralisées.",
     "import": "Importez un portefeuille existant ou créez-en un nouveau.",
     "import_wallet_button": "Synchroniser ou importer un portefeuille",
     "new_to_crypto": "Vous êtes novice en matière de cryptomonnaies ?",
     "start_exploring_now": "Créer un nouveau portefeuille",
     "unlock": "Déverrouiller",
-    "new_to_metamask": "Nouveau/Nouvelle sur MetaMask ?",
+    "new_to_metamask": "Nouveau/Nouvelle sur Novai ?",
     "already_have_wallet": "Vous avez déjà un portefeuille ?",
     "optin_back_title": "Attention !",
     "optin_back_desc": "Veuillez accepter ou refuser le recours à l’analyse des données. Vous pouvez également mettre à jour cette option dans les paramètres.",
@@ -76,15 +76,15 @@
     "warning_text_1": "Votre portefeuille actuel et vos comptes seront",
     "warning_text_2": "supprimés",
     "warning_text_3": "si vous poursuivez.",
-    "warning_text_4": "Vous pouvez UNIQUEMENT les récupérer à l’aide de la phrase secrète de récupération de votre portefeuille. MetaMask ne peut pas vous aider à la récupérer.",
+    "warning_text_4": "Vous pouvez UNIQUEMENT les récupérer à l’aide de la phrase secrète de récupération de votre portefeuille. Novai ne peut pas vous aider à la récupérer.",
     "warning_proceed": "Supprimer le portefeuille et continuer",
     "warning_cancel": "Annuler",
     "step1": "Configuration du portefeuille",
     "step2": "Créer un mot de passe",
     "step3": "Portefeuille sécurisé",
     "already_have": "Vous avez déjà un portefeuille ?",
-    "sync_existing": "Synchronisez votre portefeuille MetaMask existant depuis l’extension de navigateur ou importez-le manuellement.",
-    "scan_title": "Étapes à suivre pour synchroniser avec l’extension MetaMask",
+    "sync_existing": "Synchronisez votre portefeuille Novai existant depuis l’extension de navigateur ou importez-le manuellement.",
+    "scan_title": "Étapes à suivre pour synchroniser avec l’extension Novai",
     "scan": "Scanner",
     "scan_step_1": "Ouvrez l’extension sur le bureau",
     "scan_step_2": "Allez dans Paramètres-> Paramètres avancés",
@@ -113,12 +113,12 @@
     "done": "Terminé"
   },
   "onboarding_carousel": {
-    "title1": "Bienvenue sur MetaMask",
+    "title1": "Bienvenue sur Novai",
     "title2": "Gérez vos actifs numériques",
     "title3": "Votre passerelle vers le Web3",
-    "subtitle1": "MetaMask est un portefeuille sécurisé utilisé par des millions de personnes qui rend l’univers du Web3 accessible à toutes et à tous.",
+    "subtitle1": "Novai est un portefeuille sécurisé utilisé par des millions de personnes qui rend l’univers du Web3 accessible à toutes et à tous.",
     "subtitle2": "Stockez, dépensez et envoyez des actifs numériques comme des jetons, de l’Ethereum ou encore des objets de collection uniques.",
-    "subtitle3": "Connectez-vous avec MetaMask et effectuez vos transactions pour investir, générer des revenus, jouer à des jeux, vendre et plus encore !",
+    "subtitle3": "Connectez-vous avec Novai et effectuez vos transactions pour investir, générer des revenus, jouer à des jeux, vendre et plus encore !",
     "get_started": "Premiers pas"
   },
   "onboarding_wizard": {
@@ -148,7 +148,7 @@
     "step4": {
       "title": "Menu principal",
       "content1": "Ce menu vous permet d’accéder à l’historique des transactions, aux paramètres et au service d’assistance.",
-      "content2": "Vous pouvez effectuer d’autres actions sur vos comptes et accéder aux paramètres de MetaMask."
+      "content2": "Vous pouvez effectuer d’autres actions sur vos comptes et accéder aux paramètres de Novai."
     },
     "step5": {
       "title": "Explorer à l’aide du navigateur",
@@ -167,7 +167,7 @@
     },
     "step1": {
       "title": "Bienvenue dans votre nouveau portefeuille !",
-      "content1": "Sur la blockchain, vous avez besoin d’un portefeuille (et peut-être de quelques ETH). Voyons donc comment utiliser votre portefeuille MetaMask."
+      "content1": "Sur la blockchain, vous avez besoin d’un portefeuille (et peut-être de quelques ETH). Voyons donc comment utiliser votre portefeuille Novai."
     },
     "step2": {
       "title": "Vos comptes",
@@ -199,14 +199,14 @@
     "subtitle": "Cela ne devrait prendre que quelques instants."
   },
   "import_wallet": {
-    "title": "Vous utilisez déjà MetaMask ?",
+    "title": "Vous utilisez déjà Novai ?",
     "sub_title": "Synchronisation avec l’extension",
     "sync_help": "Synchroniser votre portefeuille à l’aide de l’extension",
     "sync_help_step_one": "1. Ouvrez l’extension",
     "sync_help_step_two": "2. Allez dans Paramètres > Paramètres avancés",
     "sync_help_step_three": "3. Cliquez sur « Synchroniser avec un appareil mobile »",
     "sync_help_step_four": "4. Scannez le code QR pour lancer la synchronisation",
-    "sync_from_browser_extension_button": "Synchroniser avec l’extension MetaMask",
+    "sync_from_browser_extension_button": "Synchroniser avec l’extension Novai",
     "or": "OU",
     "import_from_seed_button": "Importer avec la phrase secrète de récupération"
   },
@@ -226,13 +226,13 @@
     "this_action": "Cette action est irréversible.",
     "you_can_only": "Vous pouvez UNIQUEMENT récupérer ce portefeuille à l’aide de votre",
     "recovery_phrase": "phrase secrète de récupération",
-    "metamask_does_not": "MetaMask ne possède pas votre phrase secrète de récupération.",
+    "metamask_does_not": "Novai ne possède pas votre phrase secrète de récupération.",
     "i_understand": "Je comprends et je souhaite continuer",
     "passcode_not_set_error": "Erreur : code secret non défini.",
     "wrong_password_error": "Erreur : échec du décryptage",
     "wrong_password_error_android": "Erreur : error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Erreur : impossible de déverrouiller sans coffre-fort préalable.",
-    "clean_vault_error": "MetaMask a rencontré une erreur, car la limite de stockage a été atteinte. Les données locales ont été corrompues. Veuillez réinstaller MetaMask et procéder à une restauration en utilisant votre phrase secrète de récupération.",
+    "clean_vault_error": "Novai a rencontré une erreur, car la limite de stockage a été atteinte. Les données locales ont été corrompues. Veuillez réinstaller Novai et procéder à une restauration en utilisant votre phrase secrète de récupération.",
     "security_alert_title": "Alerte de sécurité",
     "security_alert_desc": "Pour continuer, vous devez activer le code d'accès ou toute méthode d'authentification biométrique prise en charge par votre appareil (FaceID, TouchID ou empreinte digitale)"
   },
@@ -249,7 +249,7 @@
   },
   "choose_password": {
     "title": "Créer un mot de passe",
-    "subtitle": "Ce mot de passe permettra de déverrouiller votre portefeuille MetaMask uniquement sur cet appareil.",
+    "subtitle": "Ce mot de passe permettra de déverrouiller votre portefeuille Novai uniquement sur cet appareil.",
     "password": "Nouveau mot de passe",
     "confirm_password": "Confirmer le mot de passe",
     "create_button": "Créer un mot de passe",
@@ -267,7 +267,7 @@
     "remember_me": "Se souvenir de moi",
     "security_alert_title": "Alerte de sécurité",
     "security_alert_message": "Pour continuer, vous devez activer le code secret ou toute méthode d’authentification biométrique prise en charge par votre appareil (FaceID, TouchID ou empreinte digitale).",
-    "i_understand": "Je comprends que MetaMask ne peut pas récupérer ce mot de passe pour moi.",
+    "i_understand": "Je comprends que Novai ne peut pas récupérer ce mot de passe pour moi.",
     "learn_more": "En savoir plus.",
     "secure": "Portefeuille sécurisé",
     "confirm": "Confirmez la phrase secrète de récupération",
@@ -275,7 +275,7 @@
   },
   "reset_password": {
     "title": "Modifier le mot de passe",
-    "subtitle": "Ce mot de passe permettra de déverrouiller votre portefeuille MetaMask uniquement sur cet appareil.",
+    "subtitle": "Ce mot de passe permettra de déverrouiller votre portefeuille Novai uniquement sur cet appareil.",
     "password": "Nouveau mot de passe",
     "confirm_password": "Confirmer le mot de passe",
     "reset_button": "Réinitialiser le mot de passe",
@@ -293,7 +293,7 @@
     "remember_me": "Se souvenir de moi",
     "security_alert_title": "Alerte de sécurité",
     "security_alert_message": "Pour continuer, vous devez activer le code secret ou toute méthode d’authentification biométrique prise en charge par votre appareil (FaceID, TouchID ou empreinte digitale).",
-    "i_understand": "Je comprends que MetaMask ne peut pas récupérer ce mot de passe pour moi.",
+    "i_understand": "Je comprends que Novai ne peut pas récupérer ce mot de passe pour moi.",
     "learn_more": "En savoir plus.",
     "secure": "Portefeuille sécurisé",
     "confirm": "Confirmez la phrase secrète de récupération",
@@ -334,7 +334,7 @@
     "view_in_etherscan": "Afficher sur Etherscan",
     "view_in": "Afficher sur",
     "browser": "Navigateur",
-    "settings": "Paramètres",
+    "settings": "Le mien",
     "settings_warning": "Portefeuille non protégé",
     "settings_warning_short": "Non protégé",
     "help": "Service d’assistance",
@@ -343,7 +343,7 @@
     "lock_ok": "OUI",
     "lock_cancel": "NON",
     "feedback": "Commentaires",
-    "metamask_support": "Service d’assistance MetaMask",
+    "metamask_support": "Service d’assistance Novai",
     "public_address": "Adresse publique"
   },
   "send": {
@@ -413,7 +413,7 @@
     "no_tokens": "Vous n’avez aucun jeton !",
     "no_nfts_yet": "Aucun NFT pour le moment",
     "nfts_autodetection_title": "Détection de NFT",
-    "nfts_autodetection_desc": "Cela permet à MetaMask de détecter automatiquement les NFT d’OpenSea et de les afficher dans votre portefeuille MetaMask.",
+    "nfts_autodetection_desc": "Cela permet à Novai de détecter automatiquement les NFT d’OpenSea et de les afficher dans votre portefeuille Novai.",
     "network_details_check": "Vérification des détails du réseau",
     "network_with_chain_id": "Le réseau qui a un ID de chaîne",
     "chain_list_returned_different_ticker_symbol": "Le symbole de ce jeton ne correspond pas au nom du réseau ou à l’ID de chaîne saisi. De nombreux jetons populaires utilisent des symboles similaires dont les escrocs peuvent se servir pour vous amener à leur envoyer un jeton de plus grande valeur en retour. Vérifiez toutes les informations avant de continuer.",
@@ -480,7 +480,8 @@
     "title": "Activité"
   },
   "transactions_view": {
-    "title": "Transactions"
+    "title": "Transactions",
+    "title_description":"Enregistrement des transactions"
   },
   "add_asset": {
     "title": "Importer des jetons",
@@ -517,8 +518,8 @@
     "privacy_policy_button": "Politique de confidentialité",
     "agree": "J’accepte",
     "decline": "Non, merci.",
-    "description_title": "Aidez-nous à améliorer MetaMask",
-    "description_content_1": "Nous aimerions recueillir des données d’utilisation de base pour améliorer MetaMask. Sachez que nous ne vendrons jamais les informations que vous nous fournissez ici.",
+    "description_title": "Aidez-nous à améliorer Novai",
+    "description_content_1": "Nous aimerions recueillir des données d’utilisation de base pour améliorer Novai. Sachez que nous ne vendrons jamais les informations que vous nous fournissez ici.",
     "description_content_2": "Lorsque nous recueillons des données, elles sont toujours…",
     "checkbox": "We'll use this data to learn how you interact with our marketing communications. We may share relavent news (like product features).",
     "action_description_1_prefix": "Privé :",
@@ -530,12 +531,12 @@
     "cta_no_thanks": "Non, merci.",
     "cta_i_agree": "J’accepte",
     "fine_print_1_legacy": "Conformément au règlement général sur la protection des données (UE) 2016/679, ces données sont agrégées pour préserver l’anonymat des utilisateurs.",
-    "fine_print_2a_legacy": "* Sachez que lorsque vous définissez Infura comme fournisseur de RPC par défaut dans MetaMask, votre adresse IP et l’adresse de votre portefeuille Ethereum seront communiquées à Infura pour valider les transactions. Ces données sont stockées séparément sur nos systèmes pour préserver l’anonymat des utilisateurs. Vous pouvez configurer votre fournisseur de RPC",
-    "fine_print_2b_legacy": "avant de continuer.\nPour plus d’informations sur la façon dont MetaMask et Infura collectent et utilisent les données, veuillez consulter notre dernière mise à jour",
+    "fine_print_2a_legacy": "* Sachez que lorsque vous définissez Infura comme fournisseur de RPC par défaut dans Novai, votre adresse IP et l’adresse de votre portefeuille Ethereum seront communiquées à Infura pour valider les transactions. Ces données sont stockées séparément sur nos systèmes pour préserver l’anonymat des utilisateurs. Vous pouvez configurer votre fournisseur de RPC",
+    "fine_print_2b_legacy": "avant de continuer.\nPour plus d’informations sur la façon dont Novai et Infura collectent et utilisent les données, veuillez consulter notre dernière mise à jour",
     "fine_print_2c_legacy": ". Pour plus d’informations sur la façon dont nous assurons la confidentialité des données, veuillez consulter notre politique de confidentialité",
     "here_legacy": "ici",
-    "description_content_1_legacy": "MetaMask souhaite recueillir des données d’utilisation de base afin de mieux comprendre comment nos utilisateurs interagissent avec MetaMask. Ces données seront utilisées pour améliorer les services que nous proposons et l’expérience utilisateur.",
-    "description_content_2_legacy": "MetaMask…",
+    "description_content_1_legacy": "Novai souhaite recueillir des données d’utilisation de base afin de mieux comprendre comment nos utilisateurs interagissent avec Novai. Ces données seront utilisées pour améliorer les services que nous proposons et l’expérience utilisateur.",
+    "description_content_2_legacy": "Novai…",
     "action_description_1_legacy": "vous permettra toujours de vous désinscrire depuis les Paramètres",
     "action_description_2_legacy": "enverra des événements de clics et de pages vues anonymisés",
     "action_description_3_legacy": "collectera des informations non indispensables à la fourniture du service (telles que les clés, les adresses, les hachages des transactions ou les soldes)",
@@ -639,7 +640,7 @@
     "learn_more": "En savoir plus",
     "advisory_by": "Avis fourni par le détecteur d’hameçonnage Ethereum et PhishFort",
     "potential_threat": "Parmi les menaces potentielles, il y a",
-    "fake_metamask": "Les fausses versions de MetaMask",
+    "fake_metamask": "Les fausses versions de Novai",
     "srp_theft": "Le vol de phrase secrète de récupération ou de mot de passe",
     "malicious_transactions": "Les transactions malveillantes pour voler vos actifs"
   },
@@ -672,7 +673,7 @@
   },
   "data_collection_modal": {
     "accept": "Okay",
-    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use MetaMask on other devices, make sure to opt out there as well."
+    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use Novai on other devices, make sure to opt out there as well."
   },
   "account_selector": {
     "prev": "PRÉCÉDENT",
@@ -685,7 +686,7 @@
     "current_conversion": "Devise de base",
     "current_language": "Langue actuelle",
     "ipfs_gateway": "Passerelle IPFS",
-    "ipfs_gateway_content": "MetaMask utilise des services tiers pour afficher des images de vos NFT stockés sur IPFS, des informations relatives aux adresses ENS saisies dans la barre d’adresse de votre navigateur et l’icône des différents jetons. Votre adresse IP peut être exposée si vous avez recours à ces services.",
+    "ipfs_gateway_content": "Novai utilise des services tiers pour afficher des images de vos NFT stockés sur IPFS, des informations relatives aux adresses ENS saisies dans la barre d’adresse de votre navigateur et l’icône des différents jetons. Votre adresse IP peut être exposée si vous avez recours à ces services.",
     "ipfs_gateway_down": "Votre passerelle IPFS actuelle est hors service",
     "ipfs_gateway_desc": "Choisissez votre passerelle IPFS préférée.",
     "search_engine": "Moteur de recherche",
@@ -694,7 +695,7 @@
     "add_network_title": "Ajouter un réseau",
     "auto_lock": "Verrouillage automatique",
     "auto_lock_desc": "Définissez le délai avant le verrouillage automatique de l’application.",
-    "state_logs_desc": "Cela aidera MetaMask à déboguer tout problème éventuel rencontré. Veuillez l’envoyer au service d’assistance MetaMask via l’icône de hamburger > Envoyer un commentaire, ou répondez à votre ticket existant si vous en avez un.",
+    "state_logs_desc": "Cela aidera Novai à déboguer tout problème éventuel rencontré. Veuillez l’envoyer au service d’assistance Novai via l’icône de hamburger > Envoyer un commentaire, ou répondez à votre ticket existant si vous en avez un.",
     "autolock_immediately": "Immédiatement",
     "autolock_never": "Jamais",
     "autolock_after": "Après {{time}} secondes",
@@ -728,7 +729,7 @@
     "protect_title": "Protéger votre portefeuille",
     "video_failed": "Échec du chargement de la vidéo.",
     "protect_desc": "Protégez votre portefeuille en conservant votre phrase secrète de récupération à différents endroits, par exemple sur un bout de papier, dans un gestionnaire de mots de passe et/ou dans le cloud.",
-    "protect_desc_no_backup": "Voici la phrase de 12 mots de votre portefeuille. Celle-ci peut être utilisée pour prendre le contrôle de tous vos comptes actuels et futurs, y compris la possibilité d’envoyer des fonds dans votre portefeuille. Conservez-la en sécurité et ne la partagez avec PERSONNE. MetaMask ne peut en aucun cas vous aider à récupérer cette clé.",
+    "protect_desc_no_backup": "Voici la phrase de 12 mots de votre portefeuille. Celle-ci peut être utilisée pour prendre le contrôle de tous vos comptes actuels et futurs, y compris la possibilité d’envoyer des fonds dans votre portefeuille. Conservez-la en sécurité et ne la partagez avec PERSONNE. Novai ne peut en aucun cas vous aider à récupérer cette clé.",
     "learn_more": "En savoir plus.",
     "seedphrase_not_backed_up": "Attention ! Phrase secrète de récupération non sauvegardée",
     "seedphrase_backed_up": "Phrase secrète de récupération sauvegardée",
@@ -824,8 +825,8 @@
     "remove_network_title": "Voulez-vous supprimer ce réseau ?",
     "remove_network": "Supprimer",
     "cancel_remove_network": "Annuler",
-    "info_title": "À propos de MetaMask",
-    "info_title_flask": "À propos de MetaMask Flask",
+    "info_title": "À propos de Novai",
+    "info_title_flask": "À propos de Novai Flask",
     "experimental_title": "Expérimental",
     "experimental_desc": "WalletConnect et bien plus encore...",
     "legal_title": "Mentions légales",
@@ -893,18 +894,18 @@
     "delete_metrics_confirm_modal_title": "Voulez-vous supprimer les données MetaMetrics ?",
     "delete_metrics_confirm_modal_description": "Nous sommes sur le point de supprimer toutes vos données MetaMetrics. Êtes-vous sûr(e) de vouloir continuer ?",
     "delete_wallet_data_title": "Supprimer le portefeuille",
-    "delete_wallet_data_description": "Cela supprimera toutes les données liées au portefeuille de votre appareil. Vos comptes existent sur la blockchain et ne sont pas liés à MetaMask. Vous pouvez toujours récupérer vos comptes en utilisant votre phrase secrète de récupération.",
+    "delete_wallet_data_description": "Cela supprimera toutes les données liées au portefeuille de votre appareil. Vos comptes existent sur la blockchain et ne sont pas liés à Novai. Vous pouvez toujours récupérer vos comptes en utilisant votre phrase secrète de récupération.",
     "delete_wallet_data_button": "Supprimer le portefeuille",
     "delete_data_status_title": "État d’avancement de la suppression",
     "delete_data_status_description": "L’état actuel de la demande est",
     "delete_metrics_error_title": "Il nous est impossible de supprimer ces données pour le moment.",
     "delete_metrics_error_description": "Impossible de répondre à cette demande pour le moment en raison d’un problème avec le serveur du système d’analyse. Veuillez réessayer plus tard.",
     "ok": "OK",
-    "clear_sdk_connections_title": "Effacer toutes les connexions MetaMask SDK",
+    "clear_sdk_connections_title": "Effacer toutes les connexions Novai SDK",
     "clear_sdk_connections_text": "Toutes les connexions seront supprimées et les dapps devront soumettre une nouvelle demande de connexion",
-    "sdk_connections": "Connexions MetaMask SDK",
+    "sdk_connections": "Connexions Novai SDK",
     "manage_sdk_connections_title": "Gérer les connexions",
-    "manage_sdk_connections_text": "Supprimer les connexions aux sites et/ou au SDK MetaMask.",
+    "manage_sdk_connections_text": "Supprimer les connexions aux sites et/ou au SDK Novai.",
     "fiat_on_ramp": {
       "title": "Acheter et vendre des cryptomonnaies",
       "description": "Région et plus encore...",
@@ -927,11 +928,11 @@
     "contact_support": "Contacter l’assistance",
     "display_nft_media": "Afficher les supports NFT",
     "display_nft_media_desc": "L’affichage des médias et des données NFT expose votre adresse IP à OpenSea ou à d’autres fournisseurs de services tiers. La détection automatique des NFT dépend de cette fonctionnalité et ne sera pas disponible si cette option est désactivée.",
-    "autodetect_nft_desc": "Laissez MetaMask ajouter les NFT que vous possédez en utilisant des services tiers (comme OpenSea). La détection automatique des NFT révèle votre adresse IP et l’adresse de votre compte à ces services. Si vous activez cette fonctionnalité, un lien pourrait être établi entre votre adresse IP et votre adresse Ethereum, et entrainer l’affichage de faux NFT déposés par des escrocs. Vous pouvez ajouter des jetons manuellement pour éviter ce risque.",
+    "autodetect_nft_desc": "Laissez Novai ajouter les NFT que vous possédez en utilisant des services tiers (comme OpenSea). La détection automatique des NFT révèle votre adresse IP et l’adresse de votre compte à ces services. Si vous activez cette fonctionnalité, un lien pourrait être établi entre votre adresse IP et votre adresse Ethereum, et entrainer l’affichage de faux NFT déposés par des escrocs. Vous pouvez ajouter des jetons manuellement pour éviter ce risque.",
     "incoming_transactions_title": "Afficher les transactions entrantes",
     "incoming_transactions_content": "Cela dépend du réseau que vous sélectionnez et qui exposera votre adresse Ethereum et votre adresse IP.",
     "display_nft_media_desc_new": "L’affichage des médias et des données NFT expose votre adresse IP à OpenSea ou à de tierces parties. La détection automatique des NFT dépend de cette fonctionnalité et ne sera pas disponible si elle est désactivée. Si les médias NFT sont entièrement hébergés sur IPFS, ils peuvent toujours être affichés même si cette fonctionnalité est désactivée.",
-    "use_safe_chains_list_validation_desc_1": "MetaMask utilise un service tiers appelé ",
+    "use_safe_chains_list_validation_desc_1": "Novai utilise un service tiers appelé ",
     "use_safe_chains_list_validation_desc_2": "pour afficher des détails précis et standardisés concernant les réseaux. Cela réduit les risques de connexion au mauvais réseau ou à un réseau malveillant. En utilisant cette fonctionnalité, vous exposez votre adresse IP à  ",
     "snaps": {
       "title": "Snaps",
@@ -1002,7 +1003,7 @@
     "manage_connections": "Gérer les connexions",
     "manage": "Gérer",
     "cancel": "Annuler",
-    "loading": "Connexion à MetaMask...",
+    "loading": "Connexion à Novai...",
     "unkown_dapp": "Nom de DAPP non disponible",
     "no_connections": "Aucune connexion",
     "no_connections_desc": "Les comptes que vous connectez à un site ou à une application seront affichés ici."
@@ -1027,7 +1028,7 @@
   "sdk_feedback_modal": {
     "ok": "OK",
     "title": "Impossible de connecter le compte",
-    "info": "Veuillez scanner le code QR sur la dApp pour vous reconnecter à MetaMask"
+    "info": "Veuillez scanner le code QR sur la dApp pour vous reconnecter à Novai"
   },
   "app_information": {
     "title": "Informations",
@@ -1052,7 +1053,7 @@
       "phrase secrète de récupération (PSR)",
       "donne",
       "un accès complet à votre portefeuille, vos fonds et vos comptes.\n\n",
-      "MetaMask est un",
+      "Novai est un",
       "portefeuille non dépositaire.",
       "Cela signifie que",
       "vous êtes le responsable exclusif de votre PSR."
@@ -1061,14 +1062,14 @@
     "private_key_warning": "Il s’agit de la clé privée du compte actuellement sélectionné : {{accountName}}. Ne divulguez jamais cette clé. Quiconque est en sa possession peut exercer un contrôle total sur votre compte, y compris le transfert de vos fonds.",
     "seed_phrase_warning_explanation": [
       "Assurez-vous que personne ne regarde votre écran.",
-      "Le service d’assistance MetaMask ne vous la demandera jamais."
+      "Le service d’assistance Novai ne vous la demandera jamais."
     ],
     "private_key_warning_explanation": "Ne divulguez jamais cette clé. Quiconque est en sa possession peut exercer un contrôle total sur votre compte, y compris le transfert de vos fonds.",
     "reveal_credential_modal": [
       "Votre {{credentialName}} donne ",
       "un accès complet à votre compte et vos fonds. \n\nNe la partagez avec personne.",
       "un accès complet à votre portefeuille et vos fonds. \n\nNe la partagez avec personne.",
-      "Le service d’assistance de MetaMask ne vous le demandera pas, ",
+      "Le service d’assistance de Novai ne vous le demandera pas, ",
       "mais les hameçonneurs pourraient le faire."
     ],
     "seed_phrase": "Votre phrase secrète de récupération",
@@ -1104,7 +1105,7 @@
   },
   "password_reset": {
     "password_title": "Mot de passe",
-    "password_desc": "Choisissez un mot de passe fort pour déverrouiller l’application MetaMask sur votre appareil. Si vous oubliez ce mot de passe, vous aurez besoin de votre phrase secrète de récupération pour réimporter votre portefeuille.",
+    "password_desc": "Choisissez un mot de passe fort pour déverrouiller l’application Novai sur votre appareil. Si vous oubliez ce mot de passe, vous aurez besoin de votre phrase secrète de récupération pour réimporter votre portefeuille.",
     "password_learn_more": "En savoir plus.",
     "change_password": "Modifier le mot de passe"
   },
@@ -1162,7 +1163,7 @@
       "show_less": "Afficher moins"
     },
     "activity": "Activité du {{symbol}}",
-    "disclaimer": "Les données de marché sont fournies par un ou plusieurs fournisseurs de données tiers comme CoinGecko. Ce contenu est fourni uniquement à des fins d’information et ne doit pas être considéré comme un conseil d’achat, de vente ou d’utilisation d’un actif particulier. MetaMask ne garantit pas l’exactitude ou la pertinence des informations fournies."
+    "disclaimer": "Les données de marché sont fournies par un ou plusieurs fournisseurs de données tiers comme CoinGecko. Ce contenu est fourni uniquement à des fins d’information et ne doit pas être considéré comme un conseil d’achat, de vente ou d’utilisation d’un actif particulier. Novai ne garantit pas l’exactitude ou la pertinence des informations fournies."
   },
   "account_details": {
     "title": "Détails du compte",
@@ -1205,7 +1206,7 @@
     "cancel": "Annuler",
     "error": "Erreur",
     "attempting_to_scan_with_wallet_locked": "Il semble que vous essayez de scanner un code QR — vous devez déverrouiller votre portefeuille pour pouvoir l’utiliser.",
-    "attempting_sync_from_wallet_error": "Il semble que vous essayez de vous synchroniser avec l’extension. Pour ce faire, vous devrez effacer votre portefeuille actuel. \n\nAprès avoir effacé ou réinstallé une nouvelle version de l’appli, sélectionnez l’option « Synchroniser avec l’extension MetaMask ». Attention ! Avant d’effacer votre portefeuille, effectuez une copie de votre phrase secrète de récupération.",
+    "attempting_sync_from_wallet_error": "Il semble que vous essayez de vous synchroniser avec l’extension. Pour ce faire, vous devrez effacer votre portefeuille actuel. \n\nAprès avoir effacé ou réinstallé une nouvelle version de l’appli, sélectionnez l’option « Synchroniser avec l’extension Novai ». Attention ! Avant d’effacer votre portefeuille, effectuez une copie de votre phrase secrète de récupération.",
     "not_allowed_error_title": "Autoriser l’accès à l’appareil photo",
     "not_allowed_error_desc": "L’autorisation d’accéder à l’appareil photo est requise pour scanner un code QR associé à une adresse de compte ou à une adresse de contrat",
     "unrecognized_address_qr_code_title": "Code QR non reconnu",
@@ -1320,7 +1321,7 @@
     "gas_education_1": "Les frais de gaz sont payés aux mineurs de cryptomonnaies qui traitent les transactions sur le",
     "gas_education_2_ethereum": "réseau Ethereum.",
     "gas_education_2": "Ethereum.",
-    "gas_education_3": "MetaMask ne tire aucun profit des frais de gaz.",
+    "gas_education_3": "Novai ne tire aucun profit des frais de gaz.",
     "gas_education_4": "Les frais de gaz fluctuent selon le trafic réseau et la complexité de la transaction.",
     "gas_education_learn_more": "En savoir plus sur les frais de gaz",
     "confusable_title": "Vérifiez l’adresse du destinataire",
@@ -1335,7 +1336,7 @@
     "invalid_qr_code_sync": "Code QR invalide. Scannez le code QR de synchronisation du portefeuille matériel.",
     "no_camera_permission": "Appareil photo non autorisé. Veuillez donner votre permission et réessayer.",
     "invalid_qr_code_sign": "Code QR non valide. Veuillez vérifier votre matériel et réessayer.",
-    "no_camera_permission_android": "Vous devez autoriser MetaMask à accéder à votre appareil photo pour continuer. Vous devrez peut-être aussi modifier les paramètres de votre système.",
+    "no_camera_permission_android": "Vous devez autoriser Novai à accéder à votre appareil photo pour continuer. Vous devrez peut-être aussi modifier les paramètres de votre système.",
     "mismatched_qr_request_id": "Données de transaction incompatibles. Veuillez utiliser votre Keystone pour signer le code QR ci-dessous et appuyer sur « Obtenir la signature ».",
     "fiat_conversion_not_available": "La conversion des monnaies fiduciaires n’est pas disponible pour le moment",
     "hex_data_copied": "Données hexadécimales copiées dans le presse-papiers",
@@ -1353,7 +1354,7 @@
     "save": "Enregistrer",
     "warning_gas_limit": "Les frais de gaz doivent être supérieurs à 20999",
     "warning_gas_limit_estimated": "La limite de gaz estimée est de {{gas}}, utilisez-la comme valeur minimale",
-    "cost_explanation": "Les frais de gaz couvrent le coût du traitement de votre transaction sur le réseau Ethereum. MetaMask ne tire aucun profit de ces frais. Plus les frais sont élevés, plus vos chances de voir votre transaction traitée sont grandes."
+    "cost_explanation": "Les frais de gaz couvrent le coût du traitement de votre transaction sur le réseau Ethereum. Novai ne tire aucun profit de ces frais. Plus les frais sont élevés, plus vos chances de voir votre transaction traitée sont grandes."
   },
   "spend_limit_edition": {
     "save": "Enregistrer",
@@ -1405,7 +1406,7 @@
     "approve_asset": "Approuver l’actif :"
   },
   "browser": {
-    "title": "Navigateur",
+    "title": "Découvrir",
     "reload": "Recharger",
     "share": "Partager",
     "bookmark": "Favori",
@@ -1420,7 +1421,7 @@
     "change_url": "Modifier l’URL",
     "switch_network": "Changer de réseau",
     "dapp_browser": "NAVIGATEUR ÐAPPS",
-    "dapp_browser_message": "MetaMask vous sert de portefeuille et de navigateur pour le web décentralisé. Jetez-y un œil !",
+    "dapp_browser_message": "Novai vous sert de portefeuille et de navigateur pour le web décentralisé. Jetez-y un œil !",
     "featured_dapps": "ÐAPPS RECOMMANDÉES",
     "my_favorites": "MES FAVORIS",
     "search": "Recherchez ou tapez une URL",
@@ -1542,7 +1543,7 @@
     "status_cancelled_header": "Votre transaction a été annulée",
     "status_cancelled_description": "Votre transaction n’a pas pu être finalisée, elle a donc été annulée pour vous éviter de payer inutilement des frais de gaz.",
     "status_failed_header": "Votre transaction a échoué",
-    "status_failed_description": "Des changements soudains sur le marché peuvent entraîner des échecs de transaction. Si le problème persiste, contactez le service d’assistance à la clientèle de MetaMask.",
+    "status_failed_description": "Des changements soudains sur le marché peuvent entraîner des échecs de transaction. Si le problème persiste, contactez le service d’assistance à la clientèle de Novai.",
     "view_transaction": "Voir la transaction",
     "view_activity": "Voir l’activité",
     "return_to_dapp": "Retour à {{dappName}}",
@@ -1594,8 +1595,8 @@
     "status_not_ok": "Le réseau rencontre quelques problèmes",
     "want_to_add_network": "Vous voulez ajouter ce réseau ?",
     "add_custom_network": "Ajouter un réseau personnalisé",
-    "network_infomation": "Vous pourrez ainsi utiliser ce réseau dans MetaMask",
-    "network_endorsement": "MetaMask ne vérifie pas les réseaux personnalisés ni leur sécurité.",
+    "network_infomation": "Vous pourrez ainsi utiliser ce réseau dans Novai",
+    "network_endorsement": "Novai ne vérifie pas les réseaux personnalisés ni leur sécurité.",
     "learn_about": "En savoir plus sur",
     "network_risk": "fraude et risques de cyberattaques",
     "network_display_name": "Nom du réseau",
@@ -1633,7 +1634,7 @@
     "show_test_networks": "Afficher les réseaux de test",
     "deprecated_goerli": "En raison des changements apportés au protocole d’Ethereum, le réseau de test Goerli pourra ne pas fonctionner d’une manière aussi fiable qu’auparavant et deviendra bientôt obsolète.",
     "network_deprecated_title": "Ce réseau est obsolète",
-    "network_deprecated_description": "Le réseau auquel vous essayez de vous connecter n’est plus pris en charge par Metamask."
+    "network_deprecated_description": "Le réseau auquel vous essayez de vous connecter n’est plus pris en charge par Novai."
   },
   "select": {
     "cancel": "Annuler",
@@ -1687,9 +1688,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Authentification requise",
-    "auth_prompt_desc": "Veuillez vous authentifier afin d’utiliser MetaMask",
+    "auth_prompt_desc": "Veuillez vous authentifier afin d’utiliser Novai",
     "fingerprint_prompt_title": "Authentification requise",
-    "fingerprint_prompt_desc": "Utilisez votre empreinte digitale pour déverrouiller MetaMask",
+    "fingerprint_prompt_desc": "Utilisez votre empreinte digitale pour déverrouiller Novai",
     "fingerprint_prompt_cancel": "Annuler"
   },
   "accountApproval": {
@@ -1711,7 +1712,7 @@
   },
   "import_private_key": {
     "title": "Importer un compte",
-    "description_one": "Les comptes importés sont visibles dans votre portefeuille, mais ne peuvent pas être récupérés avec votre phrase secrète de récupération MetaMask.",
+    "description_one": "Les comptes importés sont visibles dans votre portefeuille, mais ne peuvent pas être récupérés avec votre phrase secrète de récupération Novai.",
     "learn_more_here": "Pour en savoir plus sur les comptes importés, cliquez ici.",
     "subtitle": "Collez la chaîne de caractères de votre clé privée",
     "cta_text": "IMPORTER",
@@ -1723,7 +1724,7 @@
   },
   "import_private_key_success": {
     "title": "Compte importé !",
-    "description_one": "Vous pourrez maintenant voir votre compte dans MetaMask."
+    "description_one": "Vous pourrez maintenant voir votre compte dans Novai."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} a été déposé sur votre compte",
@@ -1738,7 +1739,7 @@
     "step_1_description": "Créer un mot de passe",
     "step_2": "Étape 2 :",
     "step_2_description": "Conserver la phrase secrète de récupération du portefeuille en lieu sûr",
-    "info_text_1": "Prenez le temps nécessaire pour finaliser la configuration de votre portefeuille MetaMask.",
+    "info_text_1": "Prenez le temps nécessaire pour finaliser la configuration de votre portefeuille Novai.",
     "info_text_2": "Vous serez ainsi le seul à pouvoir accéder à vos fonds et à pouvoir récupérer votre portefeuille en cas de perte ou de dysfonctionnement de votre appareil.",
     "cta_text": "Créer un mot de passe",
     "creating_password": "Création du mot de passe…"
@@ -1760,7 +1761,7 @@
     "what_is_seedphrase_title": "Qu’est-ce qu’une « phrase secrète de récupération » ?",
     "what_is_seedphrase_text_1": "Une phrase secrète de récupération est un ensemble de douze mots qui contient toutes les informations sur votre portefeuille, y compris vos fonds. Elle fonctionne comme un code secret permettant d’accéder à l’ensemble de votre portefeuille.",
     "what_is_seedphrase_text_2": "Vous devez garder votre phrase secrète de récupération en lieu sûr. Si quelqu’un en prend connaissance, il/elle prendra le contrôle de vos comptes.",
-    "what_is_seedphrase_text_3": "Conservez-la dans un endroit où vous êtes le/la seul(e) à pouvoir y accéder. Si vous la perdez, même MetaMask ne pourra pas vous aider à la récupérer."
+    "what_is_seedphrase_text_3": "Conservez-la dans un endroit où vous êtes le/la seul(e) à pouvoir y accéder. Si vous la perdez, même Novai ne pourra pas vous aider à la récupérer."
   },
   "account_backup_step_1B": {
     "title": "Sécurisez votre portefeuille",
@@ -1833,7 +1834,7 @@
   },
   "account_backup_step_6": {
     "title": "Conseils de sécurité",
-    "info_text": "MetaMask ne peut pas récupérer votre phrase secrète de récupération en cas de perte",
+    "info_text": "Novai ne peut pas récupérer votre phrase secrète de récupération en cas de perte",
     "tip_1": "Conservez plusieurs copies de votre phrase secrète de récupération",
     "tip_2": "Vous pouvez la sauvegarder dans un gestionnaire de mots de passe fiable et en conserver des copies dans un ou plusieurs endroits sûrs.",
     "tip_3": "Ne partagez jamais cette phrase avec qui que ce soit",
@@ -1873,7 +1874,7 @@
     "congratulations": "Félicitations",
     "success": "Vous avez assuré la protection de votre portefeuille. N’oubliez pas de conserver votre phrase secrète de récupération en lieu sûr. Vous en êtes responsable !",
     "hint": "Laissez-vous un indice ?",
-    "recover": "MetaMask ne peut pas récupérer votre portefeuille si vous la perdez. Vous pouvez consulter votre phrase secrète de récupération dans Paramètres > Sécurité et confidentialité.",
+    "recover": "Novai ne peut pas récupérer votre portefeuille si vous la perdez. Vous pouvez consulter votre phrase secrète de récupération dans Paramètres > Sécurité et confidentialité.",
     "learn": "En savoir plus",
     "done": "Terminé",
     "recovery_hint": "Indication de récupération",
@@ -1886,7 +1887,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Détection d’hameçonnage Ethereum",
     "ethereum_phishing_detector": "Le détecteur d’hameçonnage Ethereum",
-    "intro": "figure actuellement sur la liste des domaines à risque de MetaMask. Cela signifie que selon les informations dont nous disposons, ce domaine pourrait compromettre votre sécurité. Par conséquent, MetaMask a restreint l’accès à ce site à titre de mesure de sécurité supplémentaire. Pour ignorer cette restriction, veuillez lire le reste de cet avertissement afin d’obtenir les instructions nécessaires pour poursuivre à vos risques et périls.",
+    "intro": "figure actuellement sur la liste des domaines à risque de Novai. Cela signifie que selon les informations dont nous disposons, ce domaine pourrait compromettre votre sécurité. Par conséquent, Novai a restreint l’accès à ce site à titre de mesure de sécurité supplémentaire. Pour ignorer cette restriction, veuillez lire le reste de cet avertissement afin d’obtenir les instructions nécessaires pour poursuivre à vos risques et périls.",
     "reasons": "Les raisons pour lesquelles des sites peuvent figurer sur notre liste des domaines à risque sont nombreuses. Cette dernière est établie à partir d’autres listes publiées dans le secteur et largement utilisées. Parmi ces raisons, on peut citer les risques avérés de fraude ou de sécurité, tels que les domaines testés positifs au",
     "list_content": "Les domaines figurant sur ces listes d’avertissement peuvent aussi bien inclure des sites web réellement malveillants que des sites web légitimes dont la sécurité a été compromise par un acteur malveillant.",
     "to_read_more": "Pour en savoir plus sur ce site",
@@ -1938,7 +1939,7 @@
     "received_message": "Appuyez pour voir cette transaction",
     "received_payment_message": "Vous avez reçu {{amount}} DAI",
     "prompt_title": "Activer les notifications Push",
-    "prompt_desc": "Activez les notifications afin que MetaMask puisse vous informer lorsque vous recevez des ETH ou lorsque vos transactions sont confirmées.",
+    "prompt_desc": "Activez les notifications afin que Novai puisse vous informer lorsque vous recevez des ETH ou lorsque vos transactions sont confirmées.",
     "prompt_ok": "Oui",
     "prompt_cancel": "Non, merci.",
     "wc_connected_title": "Connecté à {{title}}",
@@ -1966,7 +1967,7 @@
     "activation_card": {
       "title": "Activer les notifications",
       "description_1": "Restez au courant de ce qui se passe dans votre portefeuille grâce aux notifications. ",
-      "description_2": "Pour utiliser cette fonctionnalité, nous allons générer un ID anonyme pour votre compte. Il servira uniquement à synchroniser vos données dans MetaMask et non pour subtiliser vos données personnelles, car il n’est ni lié à vos activités ni à vos autres identifiants.",
+      "description_2": "Pour utiliser cette fonctionnalité, nous allons générer un ID anonyme pour votre compte. Il servira uniquement à synchroniser vos données dans Novai et non pour subtiliser vos données personnelles, car il n’est ni lié à vos activités ni à vos autres identifiants.",
       "learn_more": "Découvrez comment nous protégeons vos données personnelles lorsque vous utilisez cette fonctionnalité. ",
       "manage_preferences_1": "Vous pouvez désactiver les notifications à tout moment dans ",
       "manage_preferences_2": "Paramètres > Notifications.",
@@ -2124,7 +2125,7 @@
     "wyre_minimum_deposit": "Le dépôt minimal est de {{amount}}",
     "wyre_maximum_deposit": "Le dépôt maximal est de {{amount}}",
     "apple_pay_purchase": "Achat de {{currency}}",
-    "apple_pay_provider_total_label": "{{provider}} (via MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (via Novai)",
     "buy_with": "Acheter avec",
     "plus_fee": "Plus frais de {{fee}}",
     "date": "Date",
@@ -2143,12 +2144,12 @@
         "average_gas_fee": "Frais de gaz moyens en ce moment :",
         "subtitle_1": "Si vous prévoyez d’échanger ou de transférer votre {{ticker}}, achetez un supplément pour couvrir les frais de gaz.",
         "subtitle_2": "Les frais de gaz pour les transactions sont distincts du coût d’achat de {{ticker}}.",
-        "subtitle_3": "MetaMask ne tire aucun profit des frais de gaz."
+        "subtitle_3": "Novai ne tire aucun profit des frais de gaz."
       },
       "step_2": {
         "title": "Que sont les frais de gaz ?",
         "subtitle_1": "Le gaz alimente les transactions sur le réseau Ethereum. Il s’agit de frais payés en {{ticker}} aux mineurs de cryptomonnaies qui traitent vos transactions.",
-        "subtitle_2": "MetaMask ne tire aucun profit des frais de gaz.",
+        "subtitle_2": "Novai ne tire aucun profit des frais de gaz.",
         "learn_more": "En savoir plus sur les frais de gaz"
       },
       "step_3": {
@@ -2188,7 +2189,7 @@
     "onboarding": {
       "what_to_expect": "À quoi s’attendre",
       "quotes": "Notre fonction d’achat de cryptomonnaies regroupe et affiche les prix cotés par les vendeurs intégrés pour vous aider à effectuer sans délai ce type de transaction.",
-      "quotes_sell": "Vous pouvez désormais vendre vos cryptomonnaies directement dans MetaMask ! Vous obtiendrez des cotations en temps réel de la part de fournisseurs de confiance et nous vous guiderons à chaque étape du processus.",
+      "quotes_sell": "Vous pouvez désormais vendre vos cryptomonnaies directement dans Novai ! Vous obtiendrez des cotations en temps réel de la part de fournisseurs de confiance et nous vous guiderons à chaque étape du processus.",
       "benefits": "Moins de frais de gaz à payer et la prise en charge de nombreux réseaux, jetons et modes de paiement",
       "benefits_sell": "Il est désormais plus facile que jamais de convertir vos cryptomonnaies en votre monnaie locale.",
       "get_started": "Commencer"
@@ -2372,13 +2373,13 @@
       "best_swap": "meilleur swap",
       "across": "parmi…",
       "want_to_learn_more": "Vous souhaitez en savoir plus ?",
-      "learn_more": "En savoir plus sur les swaps MetaMask",
+      "learn_more": "En savoir plus sur les swaps Novai",
       "what_are": "En quoi consiste le swap de jetons ?",
       "review_audits": "Examiner l’audit de nos contrats officiels",
       "start_swapping": "Commencez à échanger"
     },
     "feature_off_title": "Temporairement indisponible",
-    "feature_off_body": "MetaMask Swaps est en cours de maintenance. Nous vous invitons à revenir plus tard.",
+    "feature_off_body": "Novai Swaps est en cours de maintenance. Nous vous invitons à revenir plus tard.",
     "wrong_network_title": "Swaps non disponibles",
     "wrong_network_body": "Vous ne pouvez échanger des jetons que sur le réseau principal d’Ethereum.",
     "unallowed_asset_title": "Impossible d’échanger ce jeton",
@@ -2456,16 +2457,16 @@
     "estimated_gas_fee": "Frais de gaz estimés",
     "max_gas_fee": "Frais de gaz maximums",
     "edit": "Modifier",
-    "quotes_include_fee": "Les cotations comprennent une commission de {{fee}} % de MetaMask",
+    "quotes_include_fee": "Les cotations comprennent une commission de {{fee}} % de Novai",
     "tap_to_swap": "Appuyez pour échanger",
     "swipe_to_swap": "Faites glisser pour échanger",
     "swipe_to": "Faites glisser pour",
     "swap": "échanger",
     "completed_swap": "Échanger !",
-    "metamask_swap_fee": "Commission de swap MetaMask",
+    "metamask_swap_fee": "Commission de swap Novai",
     "fee_text": {
-      "fee_is_applied": "Des frais de {{fee}} sont automatiquement ajoutés à ce devis. Ces frais vous sont facturés en échange d'une licence d'utilisation du logiciel d'agrégation d'informations sur les fournisseurs de liquidités de MetaMask.",
-      "fee_is_not_applied": "MetaMask n’inclut pas de frais supplémentaires dans ce devis."
+      "fee_is_applied": "Des frais de {{fee}} sont automatiquement ajoutés à ce devis. Ces frais vous sont facturés en échange d'une licence d'utilisation du logiciel d'agrégation d'informations sur les fournisseurs de liquidités de Novai.",
+      "fee_is_not_applied": "Novai n’inclut pas de frais supplémentaires dans ce devis."
     },
     "enable": {
       "this_will": "Cela permettra",
@@ -2530,7 +2531,7 @@
     "gas_education_1": "Les frais de gaz sont payés aux mineurs de cryptomonnaies qui traitent les transactions sur le",
     "gas_education_2_ethereum": "réseau Ethereum.",
     "gas_education_2": "Ethereum.",
-    "gas_education_3": "MetaMask ne tire aucun profit des frais de gaz.",
+    "gas_education_3": "Novai ne tire aucun profit des frais de gaz.",
     "gas_education_4": "Les",
     "gas_education_5": "« frais de gaz estimés »",
     "gas_education_6": "correspondent à nos prévisions du montant réel des frais. Le montant exact dépend des conditions du réseau.",
@@ -2571,14 +2572,14 @@
     "title": "Nouveautés",
     "blockaid": {
       "title": "Restez en sécurité grâce aux alertes de sécurité",
-      "description_1": "Évitez les arnaques les plus courantes et protégez vos données privées grâce aux alertes de sécurité fournies par Blockaid. Cette fonctionnalité est désormais activée par défaut pour tous les utilisateurs de MetaMask.",
+      "description_1": "Évitez les arnaques les plus courantes et protégez vos données privées grâce aux alertes de sécurité fournies par Blockaid. Cette fonctionnalité est désormais activée par défaut pour tous les utilisateurs de Novai.",
       "description_2": "Vous devez faire preuve de diligence raisonnable avant d’approuver toute demande.",
       "description_3": "Disponible sur Arbitrum, Avalanche, BNB chain, Linea, Optimism, Polygon, Sepolia, Base et le réseau principal Ethereum.",
       "got_it": "D’accord"
     },
     "sell": {
       "title": "L’encaissement simplifié",
-      "description": "Vendez vos cryptomonnaies directement dans MetaMask ! Nous vous aiderons à trouver des cotations auprès de fournisseurs de confiance, afin que vous puissiez vendre rapidement et en toute sécurité vos cryptomonnaies.",
+      "description": "Vendez vos cryptomonnaies directement dans Novai ! Nous vous aiderons à trouver des cotations auprès de fournisseurs de confiance, afin que vous puissiez vendre rapidement et en toute sécurité vos cryptomonnaies.",
       "action_text": "Essayez cette fonctionnalité"
     },
     "stx": {
@@ -2606,15 +2607,15 @@
   "switch_custom_network": {
     "title_existing_network": "Ce site souhaite changer de réseau",
     "title_new_network": "Nouveau réseau ajouté",
-    "switch_warning": "Ceci permet de remplacer le réseau sélectionné dans MetaMask par un réseau précédemment ajouté :",
+    "switch_warning": "Ceci permet de remplacer le réseau sélectionné dans Novai par un réseau précédemment ajouté :",
     "available": "est désormais disponible dans le sélecteur de réseau.",
     "cancel": "Annuler",
     "switch": "Changer de réseau"
   },
   "add_custom_network": {
     "title": "Autoriser ce site à ajouter un réseau ?",
-    "warning": "Cela permet d’utiliser ce réseau dans MetaMask.",
-    "warning_subtext_1": "MetaMask ne vérifie pas les réseaux personnalisés ni leur sécurité.",
+    "warning": "Cela permet d’utiliser ce réseau dans Novai.",
+    "warning_subtext_1": "Novai ne vérifie pas les réseaux personnalisés ni leur sécurité.",
     "warning_subtext_2": "En savoir plus sur",
     "warning_subtext_3": "les risques de fraude et de sécurité des réseaux",
     "display_name": "Afficher le nom",
@@ -2630,7 +2631,7 @@
     "alert_recommend": "Nous vous recommandons de",
     "alert_verify": "vérifier l’ID de chaîne",
     "warning_subtext_new": {
-      "1": "MetaMask ne vérifie pas les réseaux personnalisés. N’approuvez donc que les réseaux dans lesquels vous avez confiance.",
+      "1": "Novai ne vérifie pas les réseaux personnalisés. N’approuvez donc que les réseaux dans lesquels vous avez confiance.",
       "2": "En savoir plus sur la sécurité des réseaux et les risques d’arnaques."
     },
     "invalid_rpc_url": "L’URL de ce réseau ne correspond pas à celle du fournisseur qui utilise cet ID de chaîne.",
@@ -2705,7 +2706,7 @@
     "estimated_gas_fee_tooltip_text_1": "Les frais de gaz sont payés aux mineurs de cryptomonnaies qui traitent les transactions sur le",
     "estimated_gas_fee_tooltip_text_2": "Réseau",
     "estimated_gas_fee_tooltip_text_3": "Ethereum.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask ne tire aucun profit des frais de gaz.",
+    "estimated_gas_fee_tooltip_text_4": "Novai ne tire aucun profit des frais de gaz.",
     "estimated_gas_fee_tooltip_text_5": "Les frais de gaz sont définis par le réseau et fluctuent selon le trafic réseau et la complexité de la transaction.",
     "learn_more": "En savoir plus sur les frais de gaz",
     "legacy_gas_suggestion_tooltip": "Cette suggestion de frais de gaz est basée sur une ancienne estimation, qui peut être inexacte."
@@ -2729,7 +2730,7 @@
     "high_fees": "Pourquoi les frais sont-ils si élevés ?",
     "missing_tokens": "Il me manque des jetons…",
     "swap_issues": "Je ne parviens pas à échanger…",
-    "mobile_sentiment": "Que pensez-vous de l’application mobile MetaMask ?",
+    "mobile_sentiment": "Que pensez-vous de l’application mobile Novai ?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "J’adore !",
@@ -2777,12 +2778,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Activer l'option « Se souvenir de moi »",
-    "enable_remember_me_description": "Lorsque l'option « Se souvenir de moi » est activée, toute personne ayant accès à votre téléphone peut accéder à votre compte MetaMask."
+    "enable_remember_me_description": "Lorsque l'option « Se souvenir de moi » est activée, toute personne ayant accès à votre téléphone peut accéder à votre compte Novai."
   },
   "turn_off_remember_me": {
     "title": "Saisissez votre mot de passe pour désactiver l'option « Se souvenir de moi »",
     "placeholder": "Mot de passe",
-    "description": "Si vous désactivez cette option, la saisie du mot de passe sera requise pour déverrouiller MetaMask.",
+    "description": "Si vous désactivez cette option, la saisie du mot de passe sera requise pour déverrouiller Novai.",
     "action": "Désactiver l'option « Se souvenir de moi »"
   },
   "dapp_connect": {
@@ -2794,11 +2795,11 @@
   },
   "automatic_security_checks": {
     "title": "Identification automatique de failles de sécurité",
-    "description": "Votre adresse IP peut être exposée sur les serveurs de GitHub si vous activez la recherche automatique de mises à jour. On pourra seulement déterminer que votre adresse IP utilise MetaMask. Aucune autre information ou adresse de compte ne sera divulguée."
+    "description": "Votre adresse IP peut être exposée sur les serveurs de GitHub si vous activez la recherche automatique de mises à jour. On pourra seulement déterminer que votre adresse IP utilise Novai. Aucune autre information ou adresse de compte ne sera divulguée."
   },
   "terms_of_use_modal": {
     "title": "Veuillez lire les conditions d’utilisation les plus récentes",
-    "terms_of_use_check_description": "J’accepte les conditions d’utilisation, qui s’appliquent à mon utilisation de MetaMask et à toutes ses fonctions",
+    "terms_of_use_check_description": "J’accepte les conditions d’utilisation, qui s’appliquent à mon utilisation de Novai et à toutes ses fonctions",
     "accept_cta": "Accepter",
     "accept_helper_description": "Veuillez faire défiler pour lire toutes les sections"
   },
@@ -2810,7 +2811,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Vérifier automatiquement si une mise à jour est disponible ?",
-    "description": "Votre adresse IP peut être divulguée sur les serveurs de GitHub si vous activez la recherche automatique de mises à jour. On pourra seulement déterminer que votre adresse IP utilise MetaMask. Aucune autre information ou adresse de compte ne sera divulguée.",
+    "description": "Votre adresse IP peut être divulguée sur les serveurs de GitHub si vous activez la recherche automatique de mises à jour. On pourra seulement déterminer que votre adresse IP utilise Novai. Aucune autre information ou adresse de compte ne sera divulguée.",
     "primary_action": "Activer l’identification automatique de failles de sécurité",
     "secondary_action": "Non merci"
   },
@@ -2863,7 +2864,7 @@
     "new_wallet_needed_create_try_again_action": "Essayez de récupérer le portefeuille",
     "new_wallet_needed_description_part_one": "Vous devez créer un nouveau portefeuille, car un problème est survenu avec votre portefeuille actuel. Comme vos comptes sont sur la blockchain, ils sont toujours bien sécurisés. Seuls les préférences, les réseaux enregistrés, les noms de comptes et les données connexes sauvegardées sur votre appareil ont disparu.",
     "new_wallet_needed_description_part_two": "Pour importer vos comptes dans un nouveau portefeuille, vous aurez besoin de votre phrase secrète de récupération. Si vous ne vous souvenez pas de votre phrase secrète de récupération, vous ne pourrez pas importer vos comptes.",
-    "new_wallet_needed_description_part_three": "Pour éviter que cela ne se reproduise, veillez à ce que votre application MetaMask et votre système d'exploitation soient toujours mis à jour."
+    "new_wallet_needed_description_part_three": "Pour éviter que cela ne se reproduise, veillez à ce que votre application Novai et votre système d'exploitation soient toujours mis à jour."
   },
   "srp_security_quiz": {
     "title": "Quiz sur la sécurité",
@@ -2874,7 +2875,7 @@
     "continue": "Continuer",
     "of": "sur",
     "question_one": {
-      "question": "Si vous perdez votre Phrase secrète de récupération, MetaMask...",
+      "question": "Si vous perdez votre Phrase secrète de récupération, Novai...",
       "right_answer": "Ne pourra pas vous aider",
       "wrong_answer": "Pourra la récupérer pour vous",
       "right_answer_title": "En effet ! Personne ne peut vous aider à récupérer votre Phrase secrète de récupération.",
@@ -2899,9 +2900,9 @@
     "bluetooth_off_message": "Veuillez activer le Bluetooth sur votre appareil",
     "bluetooth_access_blocked": "Ledger requiert l’accès au Bluetooth pour être couplé à votre appareil mobile.",
     "bluetooth_access_blocked_message": "Si vous souhaitez coupler votre appareil Ledger par Bluetooth, activez-le dans « Settings » (Paramètres), puis réessayez.",
-    "location_access_blocked": "MetaMask a besoin d’une autorisation d’accès à vos données de localisation pour se coupler à votre appareil Ledger.",
+    "location_access_blocked": "Novai a besoin d’une autorisation d’accès à vos données de localisation pour se coupler à votre appareil Ledger.",
     "location_access_blocked_message": "Si vous souhaitez coupler votre appareil Ledger par Bluetooth, vous devez activer l’accès à la localisation dans « Settings » (Paramètres), puis réessayer.",
-    "nearbyDevices_access_blocked": "MetaMask a besoin d’une autorisation « Appareils à proximité » pour se coupler à votre appareil Ledger.",
+    "nearbyDevices_access_blocked": "Novai a besoin d’une autorisation « Appareils à proximité » pour se coupler à votre appareil Ledger.",
     "nearbyDevices_access_blocked_message": "Si vous souhaitez coupler votre appareil Ledger par Bluetooth, vous devez activer l’accès aux appareils à proximité dans les « Paramètres », puis réessayer.",
     "bluetooth_scanning_error": "Erreur lors du scan de l’appareil",
     "bluetooth_scanning_error_message": "Veuillez vous assurer que votre appareil est débloqué et que l’application Ethereum est en cours d’exécution.",
@@ -2941,7 +2942,7 @@
     "unknown_error_message": "Une erreur inattendue est survenue, veuillez réessayer.",
     "error_occured": "Une erreur est survenue",
     "how_to_install_eth_app": "Comment installer l’application Ethereum sur un appareil Ledger",
-    "ledger_account_count": "Vous utilisez 1 compte de votre Ledger avec MetaMask Mobile.",
+    "ledger_account_count": "Vous utilisez 1 compte de votre Ledger avec Novai Mobile.",
     "open_eth_app": "Veuillez ouvrir l’application Ethereum",
     "open_eth_app_message_one": "Nous avons bien détecté l’application Ethereum installée, mais elle n’est pas lancée. Veuillez ",
     "open_eth_app_message_two": "appuyer sur les deux boutons de l’appareil pour accepter la demande d’ouverture pour continuer.",
@@ -2955,7 +2956,7 @@
     "not_supported": "Opération non prise en charge",
     "not_supported_error": "Seule la version 4 de la signature de données dactylographiées est prise en charge.",
     "error_during_connection": "Une erreur inconnue est survenue",
-    "error_during_connection_message": "Nous avons rencontré un petit souci lors de la connexion de votre Ledger Nano X. Appuyez sur « Retry » (Réessayer) ci-dessous pour recommencer. Cela se produit parfois lorsque l’application ETH de votre Ledger Nano X est ouverte au début du processus de couplage avec MetaMask Mobile.",
+    "error_during_connection_message": "Nous avons rencontré un petit souci lors de la connexion de votre Ledger Nano X. Appuyez sur « Retry » (Réessayer) ci-dessous pour recommencer. Cela se produit parfois lorsque l’application ETH de votre Ledger Nano X est ouverte au début du processus de couplage avec Novai Mobile.",
     "how_to_install_eth_webview_title": "Comment installer l’application Ethereum",
     "nonce_too_low": "Nonce trop court",
     "nonce_too_low_error": "Le nonce défini est trop court"
@@ -3016,7 +3017,7 @@
   },
   "default_settings": {
     "title": "Votre portefeuille est prêt",
-    "description": "MetaMask utilise des paramètres par défaut pour équilibrer au mieux la sécurité et la facilité d’utilisation. Modifiez ces paramètres pour renforcer les mesures de confidentialité.",
+    "description": "Novai utilise des paramètres par défaut pour équilibrer au mieux la sécurité et la facilité d’utilisation. Modifiez ces paramètres pour renforcer les mesures de confidentialité.",
     "learn_more_about_privacy": "En savoir plus sur les pratiques conseillées en matière de confidentialité.",
     "privacy_policy": "Politique de confidentialité",
     "default_settings": "Paramètres par défaut",
@@ -3025,12 +3026,12 @@
     "manage_networks": "Gérer les réseaux",
     "manage_networks_body": "Nous utilisons Infura comme fournisseur d’appel de procédure à distance (APD) pour offrir l’accès le plus fiable et le plus privé possible aux données Ethereum. Vous pouvez choisir votre propre fournisseur d’APD, mais rappelez-vous qu’il aura besoin d’accéder à votre adresse IP et à l’adresse de votre portefeuille Ethereum pour effectuer des transactions. Lisez notre ",
     "manage_networks_body2": " pour en savoir plus sur la façon dont Infura traite les données.",
-    "functionality_body": "Comprend les données et la valeur des jetons, les réglages optimaux du gaz, les mises à jour de sécurité et plus encore. Si vous utilisez ces services, votre adresse IP sera partagée avec MetaMask, tout comme lorsque vous visitez un site web.",
+    "functionality_body": "Comprend les données et la valeur des jetons, les réglages optimaux du gaz, les mises à jour de sécurité et plus encore. Si vous utilisez ces services, votre adresse IP sera partagée avec Novai, tout comme lorsque vous visitez un site web.",
     "sheet": {
       "title_off": "Désactiver la fonctionnalité de base",
-      "description_off": "Cela signifie que vous n’optimiserez pas complètement votre temps sur MetaMask. Vous n’aurez pas accès aux fonctions de base (comme les détails des jetons, les réglages optimaux du gaz, etc.).",
+      "description_off": "Cela signifie que vous n’optimiserez pas complètement votre temps sur Novai. Vous n’aurez pas accès aux fonctions de base (comme les détails des jetons, les réglages optimaux du gaz, etc.).",
       "title_on": "Activer la fonctionnalité de base",
-      "description_on": "Pour optimiser votre temps sur MetaMask, vous devez activer cette fonction. Les fonctions de base (comme les détails des jetons, les réglages optimaux du gaz, et autres) améliorent votre expérience Web3.",
+      "description_on": "Pour optimiser votre temps sur Novai, vous devez activer cette fonction. Les fonctions de base (comme les détails des jetons, les réglages optimaux du gaz, et autres) améliorent votre expérience Web3.",
       "checkbox_label": "Je comprends et je veux continuer",
       "buttons": {
         "cancel": "Annuler",

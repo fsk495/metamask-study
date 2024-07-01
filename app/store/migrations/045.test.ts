@@ -9,7 +9,7 @@ const oldState = {
       NetworkController: {
         networkConfigurations: {
           '92c0e479-6133-4a18-b1bf-fa38f654e293': {
-            rpcUrl: 'https://polygon-mainnet.infura.io/v3/12345abcd',
+            rpcUrl: 'https://polygon-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
             chainId: '0x89',
             ticker: 'MATIC',
             nickname: 'Polygon Mainnet',
@@ -18,7 +18,7 @@ const oldState = {
             },
           },
           '8229552c-e0ab-4537-b2c7-c572c2dc5f5a': {
-            rpcUrl: 'https://optimism-mainnet.infura.io/v3/12345abcd',
+            rpcUrl: 'https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
             chainId: '0xa',
             ticker: 'ETH',
             nickname: 'Optimism',
@@ -45,7 +45,7 @@ const oldState = {
             },
           },
           '581302a2-f713-40fd-9175-e25392b49a6e': {
-            rpcUrl: 'https://arbitrum-mainnet.infura.io/v3/12345abcd',
+            rpcUrl: 'https://arbitrum-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
             chainId: '0xa4b1',
             ticker: 'ETH',
             nickname: 'Arbitrum One',
@@ -153,7 +153,7 @@ const expectedState = {
         networkConfigurations: {
           '92c0e479-6133-4a18-b1bf-fa38f654e293': {
             id: '92c0e479-6133-4a18-b1bf-fa38f654e293',
-            rpcUrl: 'https://polygon-mainnet.infura.io/v3/12345abcd',
+            rpcUrl: 'https://polygon-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
             chainId: '0x89',
             ticker: 'MATIC',
             nickname: 'Polygon Mainnet',
@@ -163,7 +163,7 @@ const expectedState = {
           },
           '8229552c-e0ab-4537-b2c7-c572c2dc5f5a': {
             id: '8229552c-e0ab-4537-b2c7-c572c2dc5f5a',
-            rpcUrl: 'https://optimism-mainnet.infura.io/v3/12345abcd',
+            rpcUrl: 'https://optimism-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
             chainId: '0xa',
             ticker: 'ETH',
             nickname: 'Optimism',
@@ -193,7 +193,7 @@ const expectedState = {
           },
           '581302a2-f713-40fd-9175-e25392b49a6e': {
             id: '581302a2-f713-40fd-9175-e25392b49a6e',
-            rpcUrl: 'https://arbitrum-mainnet.infura.io/v3/12345abcd',
+            rpcUrl: 'https://arbitrum-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
             chainId: '0xa4b1',
             ticker: 'ETH',
             nickname: 'Arbitrum One',

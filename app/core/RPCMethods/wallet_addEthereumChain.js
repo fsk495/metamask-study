@@ -99,10 +99,9 @@ const wallet_addEthereumChain = async ({
   }
 
   const _chainId = typeof chainId === 'string' && chainId.toLowerCase();
-
   if (!isPrefixedFormattedHexString(_chainId)) {
     throw rpcErrors.invalidParams(
-      `Expected 0x-prefixed, unpadded, non-zero hexadecimal string 'chainId'. Received:\n${chainId}`,
+      `Expected 0x-prefixed, unpadded, non-zero hexadecimal string 'chainId'. wallet_addEthereumChain Received:\n${chainId,_chainId,typeof chainId,chainId.toLowerCase()}`,
     );
   }
 

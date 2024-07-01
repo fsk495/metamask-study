@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Cài đặt ví",
-    "sync_desc": "Nếu bạn đã có tiện ích mở rộng MetaMask hoặc ví khác, hãy đồng bộ hoặc nhập ví để quản lý các tài sản hiện có của bạn.",
+    "sync_desc": "Nếu bạn đã có tiện ích mở rộng Novai hoặc ví khác, hãy đồng bộ hoặc nhập ví để quản lý các tài sản hiện có của bạn.",
     "create_desc": "Cài đặt ví đầu tiên của bạn và bắt đầu khám phá các ứng dụng phi tập trung.",
     "import": "Nhập một ví có sẵn hoặc tạo ví mới",
     "import_wallet_button": "Đồng bộ hoặc nhập ví",
     "new_to_crypto": "Bạn mới tìm hiểu về tiền mã hóa?",
     "start_exploring_now": "Tạo một ví mới",
     "unlock": "Mở khóa",
-    "new_to_metamask": "Bạn mới sử dụng MetaMask?",
+    "new_to_metamask": "Bạn mới sử dụng Novai?",
     "already_have_wallet": "Bạn đã có ví?",
     "optin_back_title": "Chú ý!",
     "optin_back_desc": "Vui lòng đồng ý hoặc không đồng ý cho phép sử dụng tính năng phân tích dữ liệu. Bạn cũng có thể cập nhật tùy chọn này trong phần cài đặt.",
@@ -76,15 +76,15 @@
     "warning_text_1": "Các tài khoản và ví hiện tại của bạn sẽ bị",
     "warning_text_2": "gỡ bỏ",
     "warning_text_3": "nếu bạn tiếp tục.",
-    "warning_text_4": "Bạn CHỈ có thể khôi phục chúng bằng Cụm từ khôi phục bí mật cho ví của bạn. MetaMask không thể giúp bạn khôi phục.",
+    "warning_text_4": "Bạn CHỈ có thể khôi phục chúng bằng Cụm từ khôi phục bí mật cho ví của bạn. Novai không thể giúp bạn khôi phục.",
     "warning_proceed": "Gỡ bỏ ví & tiếp tục",
     "warning_cancel": "Hủy",
     "step1": "Cài đặt ví",
     "step2": "Tạo mật khẩu",
     "step3": "Bảo mật ví",
     "already_have": "Bạn đã có ví?",
-    "sync_existing": "Đồng bộ ví MetaMask hiện có của bạn từ tiện ích mở rộng của trình duyệt hoặc nhập ví theo cách thủ công.",
-    "scan_title": "Các bước đồng bộ với tiện ích mở rộng MetaMask",
+    "sync_existing": "Đồng bộ ví Novai hiện có của bạn từ tiện ích mở rộng của trình duyệt hoặc nhập ví theo cách thủ công.",
+    "scan_title": "Các bước đồng bộ với tiện ích mở rộng Novai",
     "scan": "Quét",
     "scan_step_1": "Mở tiện ích mở rộng trên máy tính",
     "scan_step_2": "Tới phần Cài đặt > Nâng cao",
@@ -113,12 +113,12 @@
     "done": "Hoàn tất"
   },
   "onboarding_carousel": {
-    "title1": "Chào mừng bạn đến với MetaMask",
+    "title1": "Chào mừng bạn đến với Novai",
     "title2": "Quản lý các tài sản kỹ thuật số của bạn",
     "title3": "Cánh cổng đưa bạn tới web3",
-    "subtitle1": "MetaMask là một ví an toàn được hàng triệu người tin dùng, giúp tất cả mọi người tiếp cận dễ dàng với thế giới web3.",
+    "subtitle1": "Novai là một ví an toàn được hàng triệu người tin dùng, giúp tất cả mọi người tiếp cận dễ dàng với thế giới web3.",
     "subtitle2": "Lưu trữ, chi tiêu và gửi các tài sản kỹ thuật số của bạn như token, Ethereum, bộ sưu tập độc đáo.",
-    "subtitle3": "Đăng nhập vào MetaMask và thực hiện giao dịch để đầu tư, kiếm tiền, chơi trò chơi, bán và hơn thế nữa!",
+    "subtitle3": "Đăng nhập vào Novai và thực hiện giao dịch để đầu tư, kiếm tiền, chơi trò chơi, bán và hơn thế nữa!",
     "get_started": "Bắt đầu"
   },
   "onboarding_wizard": {
@@ -148,7 +148,7 @@
     "step4": {
       "title": "Trình đơn chính",
       "content1": "Bạn có thể truy cập lịch sử Giao dịch, Cài đặt và Hỗ trợ từ trình đơn này.",
-      "content2": "Bạn có thể thực hiện nhiều thao tác hơn với tài khoản của mình và truy cập cài đặt MetaMask."
+      "content2": "Bạn có thể thực hiện nhiều thao tác hơn với tài khoản của mình và truy cập cài đặt Novai."
     },
     "step5": {
       "title": "Khám phá Trình duyệt",
@@ -167,7 +167,7 @@
     },
     "step1": {
       "title": "Chào mừng đến với ví của bạn!",
-      "content1": "Trên chuỗi khối, bạn cần có ví (và có thể là một ít ETH). Vì vậy, hãy xem cách sử dụng ví MetaMask của bạn."
+      "content1": "Trên chuỗi khối, bạn cần có ví (và có thể là một ít ETH). Vì vậy, hãy xem cách sử dụng ví Novai của bạn."
     },
     "step2": {
       "title": "Tài khoản của bạn",
@@ -199,14 +199,14 @@
     "subtitle": "Sẽ không tốn nhiều thời gian"
   },
   "import_wallet": {
-    "title": "Bạn đã là người dùng MetaMask?",
+    "title": "Bạn đã là người dùng Novai?",
     "sub_title": "Đồng bộ với tiện ích mở rộng",
     "sync_help": "Đồng bộ ví của bạn với tiện ích mở rộng",
     "sync_help_step_one": "1. Mở tiện ích mở rộng",
     "sync_help_step_two": "2. Tới phần Cài đặt > Nâng cao",
     "sync_help_step_three": "3. Nhấp vào \"Đồng bộ với thiết bị di động\"",
     "sync_help_step_four": "4. Quét Mã QR để bắt đầu đồng bộ",
-    "sync_from_browser_extension_button": "Đồng bộ với tiện ích mở rộng MetaMask",
+    "sync_from_browser_extension_button": "Đồng bộ với tiện ích mở rộng Novai",
     "or": "HOẶC",
     "import_from_seed_button": "Nhập bằng Cụm từ khôi phục bí mật"
   },
@@ -226,13 +226,13 @@
     "this_action": "Thao tác này không thể đảo ngược.",
     "you_can_only": "Bạn CHỈ có thể khôi phục ví này bằng ",
     "recovery_phrase": "Cụm từ khôi phục bí mật của bạn ",
-    "metamask_does_not": "MetaMask không giữ Cụm từ khôi phục bí mật của bạn.",
+    "metamask_does_not": "Novai không giữ Cụm từ khôi phục bí mật của bạn.",
     "i_understand": "Tôi hiểu, tiếp tục",
     "passcode_not_set_error": "Lỗi: Chưa thiết lập mật mã.",
     "wrong_password_error": "Lỗi: Giải mã không thành công",
     "wrong_password_error_android": "Lỗi: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Lỗi: Không thể mở khóa nếu không có dữ liệu vault trước đó.",
-    "clean_vault_error": "MetaMask đã gặp lỗi do đạt đến giới hạn bộ nhớ. Dữ liệu cục bộ đã bị hỏng. Vui lòng cài đặt lại MetaMask và khôi phục bằng Cụm từ khôi phục bí mật của bạn.",
+    "clean_vault_error": "Novai đã gặp lỗi do đạt đến giới hạn bộ nhớ. Dữ liệu cục bộ đã bị hỏng. Vui lòng cài đặt lại Novai và khôi phục bằng Cụm từ khôi phục bí mật của bạn.",
     "security_alert_title": "Cảnh báo bảo mật",
     "security_alert_desc": "Để tiếp tục, bạn cần bật Mật mã hoặc bất kỳ phương thức xác thực sinh trắc học nào được hỗ trợ trong thiết bị của bạn (FaceID, TouchID hoặc Vân tay)"
   },
@@ -249,7 +249,7 @@
   },
   "choose_password": {
     "title": "Tạo mật khẩu",
-    "subtitle": "Mật khẩu này sẽ chỉ mở khóa ví MetaMask của bạn trên thiết bị này.",
+    "subtitle": "Mật khẩu này sẽ chỉ mở khóa ví Novai của bạn trên thiết bị này.",
     "password": "Mật khẩu mới",
     "confirm_password": "Xác nhận mật khẩu",
     "create_button": "Tạo mật khẩu",
@@ -267,7 +267,7 @@
     "remember_me": "Ghi nhớ",
     "security_alert_title": "Cảnh báo bảo mật",
     "security_alert_message": "Để tiếp tục, bạn cần bật Mật mã hoặc bất kỳ phương thức xác thực sinh trắc học nào được hỗ trợ trong thiết bị của bạn (FaceID, TouchID hoặc Vân tay)",
-    "i_understand": "Tôi hiểu rằng MetaMask không thể khôi phục mật khẩu này cho tôi.",
+    "i_understand": "Tôi hiểu rằng Novai không thể khôi phục mật khẩu này cho tôi.",
     "learn_more": "Tìm hiểu thêm.",
     "secure": "Bảo mật ví",
     "confirm": "Xác nhận Cụm từ khôi phục bí mật",
@@ -275,7 +275,7 @@
   },
   "reset_password": {
     "title": "Đổi mật khẩu",
-    "subtitle": "Mật khẩu này sẽ chỉ mở khóa ví MetaMask của bạn trên thiết bị này.",
+    "subtitle": "Mật khẩu này sẽ chỉ mở khóa ví Novai của bạn trên thiết bị này.",
     "password": "Mật khẩu mới",
     "confirm_password": "Xác nhận mật khẩu",
     "reset_button": "Đặt lại mật khẩu",
@@ -293,7 +293,7 @@
     "remember_me": "Ghi nhớ",
     "security_alert_title": "Cảnh báo bảo mật",
     "security_alert_message": "Để tiếp tục, bạn cần bật Mật mã hoặc bất kỳ phương thức xác thực sinh trắc học nào được hỗ trợ trong thiết bị của bạn (FaceID, TouchID hoặc Vân tay)",
-    "i_understand": "Tôi hiểu rằng MetaMask không thể khôi phục mật khẩu này cho tôi.",
+    "i_understand": "Tôi hiểu rằng Novai không thể khôi phục mật khẩu này cho tôi.",
     "learn_more": "Tìm hiểu thêm.",
     "secure": "Bảo mật ví",
     "confirm": "Xác nhận Cụm từ khôi phục bí mật",
@@ -334,7 +334,7 @@
     "view_in_etherscan": "Xem trên Etherscan",
     "view_in": "Xem trên",
     "browser": "Trình duyệt",
-    "settings": "Cài đặt",
+    "settings": "Của tôi",
     "settings_warning": "Ví không được bảo vệ",
     "settings_warning_short": "Không được bảo vệ",
     "help": "Hỗ trợ",
@@ -343,7 +343,7 @@
     "lock_ok": "CÓ",
     "lock_cancel": "KHÔNG",
     "feedback": "Phản hồi",
-    "metamask_support": "Hỗ trợ MetaMask",
+    "metamask_support": "Hỗ trợ Novai",
     "public_address": "Địa chỉ công khai"
   },
   "send": {
@@ -413,7 +413,7 @@
     "no_tokens": "Bạn không có token nào!",
     "no_nfts_yet": "Chưa có NFT",
     "nfts_autodetection_title": "Phát hiện NFT",
-    "nfts_autodetection_desc": "Cho phép MetaMask tự động phát hiện NFT từ OpenSea và hiển thị trên ví MetaMask của bạn.",
+    "nfts_autodetection_desc": "Cho phép Novai tự động phát hiện NFT từ OpenSea và hiển thị trên ví Novai của bạn.",
     "network_details_check": "Kiểm tra thông tin mạng",
     "network_with_chain_id": "Mạng có ID chuỗi",
     "chain_list_returned_different_ticker_symbol": "Biểu tượng token này không trùng khớp với tên mạng hoặc ID chuỗi đã nhập. Nhiều token phổ biến sử dụng các biểu tượng tương tự, do đó những kẻ lừa đảo có thể lợi dụng điều này để lừa bạn gửi cho chúng một token có giá trị hơn. Nhớ xác minh mọi thông tin trước khi tiếp tục.",
@@ -480,7 +480,8 @@
     "title": "Hoạt động"
   },
   "transactions_view": {
-    "title": "Giao dịch"
+    "title": "Giao dịch",
+    "title_description":"Hồ sơ giao dịch"
   },
   "add_asset": {
     "title": "Nhập token",
@@ -517,8 +518,8 @@
     "privacy_policy_button": "Chính sách quyền riêng tư",
     "agree": "Tôi đồng ý",
     "decline": "Không, cảm ơn",
-    "description_title": "Giúp chúng tôi cải thiện MetaMask",
-    "description_content_1": "Chúng tôi muốn thu thập dữ liệu sử dụng cơ bản để cải tiến MetaMask. Xin lưu ý, chúng tôi không bao giờ bán dữ liệu mà bạn cung cấp ở đây.",
+    "description_title": "Giúp chúng tôi cải thiện Novai",
+    "description_content_1": "Chúng tôi muốn thu thập dữ liệu sử dụng cơ bản để cải tiến Novai. Xin lưu ý, chúng tôi không bao giờ bán dữ liệu mà bạn cung cấp ở đây.",
     "description_content_2": "Khi thu thập số liệu, chúng tôi sẽ luôn cam kết điều này...",
     "checkbox": "We'll use this data to learn how you interact with our marketing communications. We may share relavent news (like product features).",
     "action_description_1_prefix": "Riêng tư:",
@@ -530,12 +531,12 @@
     "cta_no_thanks": "Không, cảm ơn",
     "cta_i_agree": "Tôi đồng ý",
     "fine_print_1_legacy": "Do đó, dữ liệu này được tổng hợp và ẩn danh theo các mục đích của Quy định bảo vệ dữ liệu chung (EU) 2016/679.",
-    "fine_print_2a_legacy": "*Khi bạn sử dụng Infura làm nhà cung cấp RPC mặc định trong MetaMask, Infura sẽ thu thập địa chỉ IP và địa chỉ ví Ethereum của bạn khi bạn gửi giao dịch. Chúng tôi không lưu trữ thông tin này để cho phép hệ thống của chúng tôi liên kết hai loại dữ liệu đó. Bạn có thể cấu hình nhà cung cấp RPC",
-    "fine_print_2b_legacy": "trước khi tiếp tục.\nĐể biết thêm thông tin về cách MetaMask và Infura tương tác trong việc thu thập dữ liệu, hãy xem bản cập nhật",
+    "fine_print_2a_legacy": "*Khi bạn sử dụng Infura làm nhà cung cấp RPC mặc định trong Novai, Infura sẽ thu thập địa chỉ IP và địa chỉ ví Ethereum của bạn khi bạn gửi giao dịch. Chúng tôi không lưu trữ thông tin này để cho phép hệ thống của chúng tôi liên kết hai loại dữ liệu đó. Bạn có thể cấu hình nhà cung cấp RPC",
+    "fine_print_2b_legacy": "trước khi tiếp tục.\nĐể biết thêm thông tin về cách Novai và Infura tương tác trong việc thu thập dữ liệu, hãy xem bản cập nhật",
     "fine_print_2c_legacy": ". Để biết thêm thông tin về các phương pháp bảo vệ quyền riêng tư của chúng tôi nói chung, hãy xem Chính sách quyền riêng tư",
     "here_legacy": "tại đây",
-    "description_content_1_legacy": "MetaMask muốn thu thập dữ liệu sử dụng để hiểu rõ hơn cách người dùng tương tác với MetaMask. Dữ liệu này sẽ được sử dụng để cung cấp dịch vụ, bao gồm cả cải thiện dịch vụ dựa trên quá trình sử dụng của bạn.",
-    "description_content_2_legacy": "MetaMask sẽ...",
+    "description_content_1_legacy": "Novai muốn thu thập dữ liệu sử dụng để hiểu rõ hơn cách người dùng tương tác với Novai. Dữ liệu này sẽ được sử dụng để cung cấp dịch vụ, bao gồm cả cải thiện dịch vụ dựa trên quá trình sử dụng của bạn.",
+    "description_content_2_legacy": "Novai sẽ...",
     "action_description_1_legacy": "Luôn cho phép bạn chọn không tham gia thông qua phần Cài đặt",
     "action_description_2_legacy": "Gửi các thông tin về lượt nhấn và xem trang đã được ẩn danh",
     "action_description_3_legacy": "thu thập các thông tin mà chúng tôi không cần để cung cấp dịch vụ (chẳng hạn như khóa, địa chỉ, mã băm giao dịch hoặc số dư)",
@@ -639,7 +640,7 @@
     "learn_more": "Tìm hiểu thêm",
     "advisory_by": "Cảnh báo được cung cấp bởi Trình phát hiện lừa đảo qua mạng Ethereum và PhishFort",
     "potential_threat": "Các mối đe dọa tiềm ẩn bao gồm",
-    "fake_metamask": "Các phiên bản giả mạo của MetaMask",
+    "fake_metamask": "Các phiên bản giả mạo của Novai",
     "srp_theft": "Đánh cắp mật khẩu hoặc cụm từ khôi phục bí mật",
     "malicious_transactions": "Các giao dịch độc hại dẫn đến tài sản bị đánh cắp"
   },
@@ -672,7 +673,7 @@
   },
   "data_collection_modal": {
     "accept": "Okay",
-    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use MetaMask on other devices, make sure to opt out there as well."
+    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use Novai on other devices, make sure to opt out there as well."
   },
   "account_selector": {
     "prev": "TRƯỚC",
@@ -685,7 +686,7 @@
     "current_conversion": "Tiền tệ cơ bản",
     "current_language": "Ngôn ngữ hiện tại",
     "ipfs_gateway": "Giao thức IPFS",
-    "ipfs_gateway_content": "MetaMask sử dụng các dịch vụ của bên thứ ba để hiển thị hình ảnh các NFT của bạn được lưu trữ trên IPFS, hiển thị thông tin liên quan đến địa chỉ ENS được nhập trong thanh địa chỉ của trình duyệt và tìm nạp biểu tượng cho các token khác nhau. Địa chỉ IP của bạn có thể được hiển thị với các dịch vụ này khi bạn đang sử dụng chúng.",
+    "ipfs_gateway_content": "Novai sử dụng các dịch vụ của bên thứ ba để hiển thị hình ảnh các NFT của bạn được lưu trữ trên IPFS, hiển thị thông tin liên quan đến địa chỉ ENS được nhập trong thanh địa chỉ của trình duyệt và tìm nạp biểu tượng cho các token khác nhau. Địa chỉ IP của bạn có thể được hiển thị với các dịch vụ này khi bạn đang sử dụng chúng.",
     "ipfs_gateway_down": "Giao thức IPFS hiện tại của bạn đã bị hỏng",
     "ipfs_gateway_desc": "Vui lòng chọn giao thức IPFS ưa thích của bạn.",
     "search_engine": "Tìm công cụ",
@@ -694,7 +695,7 @@
     "add_network_title": "Thêm mạng",
     "auto_lock": "Tự động khóa",
     "auto_lock_desc": "Chọn khoảng thời gian trước khi ứng dụng tự động khóa.",
-    "state_logs_desc": "Điều này sẽ giúp MetaMask gỡ lỗi bất kỳ sự cố nào bạn có thể gặp phải. Vui lòng gửi đến bộ phận hỗ trợ MetaMask thông qua biểu tượng bánh hamburger > Gửi phản hồi hoặc trả lời phiếu hỏi đáp hiện tại của bạn nếu có.",
+    "state_logs_desc": "Điều này sẽ giúp Novai gỡ lỗi bất kỳ sự cố nào bạn có thể gặp phải. Vui lòng gửi đến bộ phận hỗ trợ Novai thông qua biểu tượng bánh hamburger > Gửi phản hồi hoặc trả lời phiếu hỏi đáp hiện tại của bạn nếu có.",
     "autolock_immediately": "Ngay lập tức",
     "autolock_never": "Không bao giờ",
     "autolock_after": "Sau {{time}} giây",
@@ -728,7 +729,7 @@
     "protect_title": "Bảo vệ ví của bạn",
     "video_failed": "Không thể tải video lên.",
     "protect_desc": "Bảo vệ ví của bạn bằng cách lưu Cụm từ khôi phục bí mật ở những nơi khác nhau, như trên giấy, trình quản lý mật khẩu và/hoặc đám mây.",
-    "protect_desc_no_backup": "Đây là cụm từ gồm 12 từ cho ví của bạn. Cụm từ này có thể được sử dụng để kiểm soát tất cả tài khoản hiện tại và tương lai của bạn, bao gồm cả khả năng gửi tiền trong ví của bạn đi. Hãy cất giữ cụm từ này an toàn, KHÔNG chia sẻ nó với bất kỳ ai. MetaMask không thể giúp bạn khôi phục khóa này.",
+    "protect_desc_no_backup": "Đây là cụm từ gồm 12 từ cho ví của bạn. Cụm từ này có thể được sử dụng để kiểm soát tất cả tài khoản hiện tại và tương lai của bạn, bao gồm cả khả năng gửi tiền trong ví của bạn đi. Hãy cất giữ cụm từ này an toàn, KHÔNG chia sẻ nó với bất kỳ ai. Novai không thể giúp bạn khôi phục khóa này.",
     "learn_more": "Tìm hiểu thêm.",
     "seedphrase_not_backed_up": "Quan trọng! Cụm từ khôi phục bí mật chưa được sao lưu",
     "seedphrase_backed_up": "Đã sao lưu Cụm từ khôi phục bí mật",
@@ -824,8 +825,8 @@
     "remove_network_title": "Bạn có muốn gỡ bỏ mạng này?",
     "remove_network": "Gỡ bỏ",
     "cancel_remove_network": "Hủy",
-    "info_title": "Giới thiệu về MetaMask",
-    "info_title_flask": "Giới thiệu về MetaMask Flask",
+    "info_title": "Giới thiệu về Novai",
+    "info_title_flask": "Giới thiệu về Novai Flask",
     "experimental_title": "Thử nghiệm",
     "experimental_desc": "WalletConnect và hơn thế nữa...",
     "legal_title": "Pháp lý",
@@ -893,18 +894,18 @@
     "delete_metrics_confirm_modal_title": "Xóa dữ liệu MetaMetrics?",
     "delete_metrics_confirm_modal_description": "Chúng tôi sắp xóa tất cả dữ liệu MetaMetrics của bạn. Bạn có chắc không?",
     "delete_wallet_data_title": "Xóa ví",
-    "delete_wallet_data_description": "Thao tác này sẽ xóa tất cả dữ liệu liên quan đến ví khỏi thiết bị của bạn. Các tài khoản của bạn tồn tại trên chuỗi khối và không liên quan đến MetaMask. Bạn luôn có thể khôi phục tài khoản của mình bằng Cụm từ khôi phục bí mật.",
+    "delete_wallet_data_description": "Thao tác này sẽ xóa tất cả dữ liệu liên quan đến ví khỏi thiết bị của bạn. Các tài khoản của bạn tồn tại trên chuỗi khối và không liên quan đến Novai. Bạn luôn có thể khôi phục tài khoản của mình bằng Cụm từ khôi phục bí mật.",
     "delete_wallet_data_button": "Xóa ví",
     "delete_data_status_title": "Trạng thái tác vụ xóa",
     "delete_data_status_description": "Trạng thái hiện tại là",
     "delete_metrics_error_title": "Chúng tôi không thể xóa dữ liệu này bây giờ.",
     "delete_metrics_error_description": "Không thể hoàn tất yêu cầu này ngay bây giờ do sự cố máy chủ hệ thống phân tích, vui lòng thử lại sau.",
     "ok": "OK",
-    "clear_sdk_connections_title": "Xóa tất cả các Kết nối MetaMask SDK",
+    "clear_sdk_connections_title": "Xóa tất cả các Kết nối Novai SDK",
     "clear_sdk_connections_text": "Tất cả các kết nối sẽ bị xóa và các dapp sẽ cần yêu cầu kết nối lại",
-    "sdk_connections": "Kết nối MetaMask SDK",
+    "sdk_connections": "Kết nối Novai SDK",
     "manage_sdk_connections_title": "Quản lý kết nối",
-    "manage_sdk_connections_text": "Xóa kết nối với các trang web và/hoặc MetaMask SDK.",
+    "manage_sdk_connections_text": "Xóa kết nối với các trang web và/hoặc Novai SDK.",
     "fiat_on_ramp": {
       "title": "Mua và Bán Tiền mã hóa",
       "description": "Khu vực & khác...",
@@ -927,11 +928,11 @@
     "contact_support": "Liên hệ bộ phận hỗ trợ",
     "display_nft_media": "Hiển thị Phương tiện NFT",
     "display_nft_media_desc": "Việc hiển thị dữ liệu và phương tiện NFT sẽ làm lộ địa chỉ IP của bạn với OpenSea hoặc các bên thứ ba khác. Tính năng Tự động phát hiện NFT hoạt động dựa trên tính năng này và sẽ không khả dụng khi tính năng này bị tắt.",
-    "autodetect_nft_desc": "Cho phép MetaMask thêm các NFT mà bạn sở hữu bằng cách sử dụng dịch vụ của bên thứ ba (như OpenSea). Tính năng Tự động phát hiện NFT sẽ làm lộ địa chỉ IP và tài khoản của bạn với các dịch vụ này. Việc bật tính năng này có thể liên kết địa chỉ IP của bạn với địa chỉ Ethereum của bạn và hiển thị các NFT giả do những kẻ lừa đảo phát tán. Bạn có thể thêm token theo cách thủ công để tránh rủi ro này.",
+    "autodetect_nft_desc": "Cho phép Novai thêm các NFT mà bạn sở hữu bằng cách sử dụng dịch vụ của bên thứ ba (như OpenSea). Tính năng Tự động phát hiện NFT sẽ làm lộ địa chỉ IP và tài khoản của bạn với các dịch vụ này. Việc bật tính năng này có thể liên kết địa chỉ IP của bạn với địa chỉ Ethereum của bạn và hiển thị các NFT giả do những kẻ lừa đảo phát tán. Bạn có thể thêm token theo cách thủ công để tránh rủi ro này.",
     "incoming_transactions_title": "Hiển thị các giao dịch đến",
     "incoming_transactions_content": "Điều này phụ thuộc vào mạng bạn chọn, mạng đó sẽ có quyền tiết lộ địa chỉ Ethereum và địa chỉ IP của bạn.",
     "display_nft_media_desc_new": "Việc hiển thị dữ liệu và phương tiện NFT sẽ làm lộ địa chỉ IP của bạn với OpenSea hoặc các bên thứ ba khác. Tính năng Tự động phát hiện NFT hoạt động dựa trên tính năng này và sẽ không khả dụng khi bị tắt. Nếu phương tiện NFT được đặt hoàn toàn trên IPFS, nó vẫn có thể được hiển thị ngay cả khi tính năng này bị tắt.",
-    "use_safe_chains_list_validation_desc_1": "MetaMask sử dụng dịch vụ của bên thứ ba có tên ",
+    "use_safe_chains_list_validation_desc_1": "Novai sử dụng dịch vụ của bên thứ ba có tên ",
     "use_safe_chains_list_validation_desc_2": "để hiển thị thông tin mạng chính xác và được tiêu chuẩn hóa. Điều này giúp giảm khả năng bạn kết nối với mạng độc hại hoặc mạng không chính xác. Khi sử dụng tính năng này, bạn sẽ làm lộ địa chỉ IP của mình với  ",
     "snaps": {
       "title": "Snap",
@@ -1002,7 +1003,7 @@
     "manage_connections": "Quản lý Kết nối",
     "manage": "Quản lý",
     "cancel": "Hủy",
-    "loading": "Đang kết nối với MetaMask...",
+    "loading": "Đang kết nối với Novai...",
     "unkown_dapp": "Tên DAPP không khả dụng",
     "no_connections": "Không có kết nối",
     "no_connections_desc": "Nếu bạn kết nối tài khoản với một trang web hoặc một ứng dụng, bạn sẽ thấy tài khoản đó ở đây."
@@ -1027,7 +1028,7 @@
   "sdk_feedback_modal": {
     "ok": "OK",
     "title": "Tài khoản không thể kết nối",
-    "info": "Vui lòng quét mã QR trên dApp để kết nối lại với MetaMask"
+    "info": "Vui lòng quét mã QR trên dApp để kết nối lại với Novai"
   },
   "app_information": {
     "title": "Thông tin",
@@ -1052,7 +1053,7 @@
       "khôi phục bí mật (SRP)",
       " cấp ",
       "toàn quyền truy cập vào ví, tiền và tài khoản của bạn.\n\n",
-      "MetaMask là một",
+      "Novai là một",
       "ví không lưu ký.",
       "Nghĩa là,",
       "bạn là chủ sở hữu SRP của bạn."
@@ -1061,14 +1062,14 @@
     "private_key_warning": "Đây là khoá riêng tư cho tài khoản đang được chọn: {{accountName}}. Đừng bao giờ tiết lộ khóa này. Bất kỳ ai có khoá riêng tư của bạn đều có toàn quyền kiểm soát tài khoản của bạn, bao gồm cả quyền chuyển bất kỳ khoản tiền nào của bạn đi.",
     "seed_phrase_warning_explanation": [
       "Đảm bảo không có ai đang nhìn vào màn hình của bạn. ",
-      "Bộ phận Hỗ trợ MetaMask sẽ không bao giờ yêu cầu điều này."
+      "Bộ phận Hỗ trợ Novai sẽ không bao giờ yêu cầu điều này."
     ],
     "private_key_warning_explanation": "Đừng bao giờ tiết lộ khóa này. Bất kỳ ai có khoá riêng tư của bạn đều có toàn quyền kiểm soát tài khoản của bạn, bao gồm cả quyền chuyển bất kỳ khoản tiền nào của bạn đi.",
     "reveal_credential_modal": [
       "{{credentialName}} của bạn cung cấp ",
       "toàn quyền truy cập vào tài khoản và tiền của bạn.\n\nĐừng chia sẻ điều này với bất kỳ ai.\n",
       "toàn quyền truy cập vào ví và tiền của bạn.\n\nĐừng chia sẻ điều này với bất kỳ ai.\n",
-      "Bộ phận Hỗ trợ của MetaMask sẽ không yêu cầu điều này, ",
+      "Bộ phận Hỗ trợ của Novai sẽ không yêu cầu điều này, ",
       "nhưng những kẻ lừa đảo qua mạng thì có."
     ],
     "seed_phrase": "Cụm từ khôi phục bí mật của bạn",
@@ -1104,7 +1105,7 @@
   },
   "password_reset": {
     "password_title": "Mật khẩu",
-    "password_desc": "Chọn một mật khẩu mạnh để mở khóa ứng dụng MetaMask trên thiết bị của bạn. Nếu làm mất mật khẩu này, bạn sẽ cần dùng Cụm từ khôi phục bí mật để nhập lại ví.",
+    "password_desc": "Chọn một mật khẩu mạnh để mở khóa ứng dụng Novai trên thiết bị của bạn. Nếu làm mất mật khẩu này, bạn sẽ cần dùng Cụm từ khôi phục bí mật để nhập lại ví.",
     "password_learn_more": "Tìm hiểu thêm.",
     "change_password": "Đổi mật khẩu"
   },
@@ -1162,7 +1163,7 @@
       "show_less": "Thu gọn"
     },
     "activity": "Hoạt động {{symbol}}",
-    "disclaimer": "Dữ liệu thị trường được cung cấp bởi một hoặc nhiều nguồn dữ liệu của bên thứ ba, bao gồm cả CoinGecko. Các nội dung như vậy của bên thứ ba chỉ được cung cấp cho mục đích thông tin và không được coi là lời khuyên để mua, bán hoặc sử dụng bất kỳ tài sản cụ thể nào. MetaMask không đề xuất việc sử dụng nội dung này cho bất kỳ mục đích cụ thể nào và không chịu trách nhiệm về tính chính xác của nó."
+    "disclaimer": "Dữ liệu thị trường được cung cấp bởi một hoặc nhiều nguồn dữ liệu của bên thứ ba, bao gồm cả CoinGecko. Các nội dung như vậy của bên thứ ba chỉ được cung cấp cho mục đích thông tin và không được coi là lời khuyên để mua, bán hoặc sử dụng bất kỳ tài sản cụ thể nào. Novai không đề xuất việc sử dụng nội dung này cho bất kỳ mục đích cụ thể nào và không chịu trách nhiệm về tính chính xác của nó."
   },
   "account_details": {
     "title": "Chi tiết tài khoản",
@@ -1205,7 +1206,7 @@
     "cancel": "Hủy",
     "error": "Lỗi",
     "attempting_to_scan_with_wallet_locked": "Có vẻ như bạn đang cố quét mã QR, bạn cần mở khóa ví của mình để làm được điều đó.",
-    "attempting_sync_from_wallet_error": "Có vẻ như bạn đang cố đồng bộ với tiện ích mở rộng. Để làm như vậy, bạn sẽ cần xóa ví hiện tại của mình. \n\nSau khi bạn đã xóa hoặc cài đặt lại phiên bản ứng dụng mới, hãy chọn tùy chọn \"Đồng bộ với Tiện ích mở rộng MetaMask\". Lưu ý quan trọng! Trước khi xóa ví, hãy đảm bảo rằng bạn đã sao lưu Cụm từ khôi phục bí mật.",
+    "attempting_sync_from_wallet_error": "Có vẻ như bạn đang cố đồng bộ với tiện ích mở rộng. Để làm như vậy, bạn sẽ cần xóa ví hiện tại của mình. \n\nSau khi bạn đã xóa hoặc cài đặt lại phiên bản ứng dụng mới, hãy chọn tùy chọn \"Đồng bộ với Tiện ích mở rộng Novai\". Lưu ý quan trọng! Trước khi xóa ví, hãy đảm bảo rằng bạn đã sao lưu Cụm từ khôi phục bí mật.",
     "not_allowed_error_title": "Bật quyền truy cập camera",
     "not_allowed_error_desc": "Cần cấp quyền truy cập camera để quét mã QR được liên kết với địa chỉ tài khoản hoặc địa chỉ hợp đồng",
     "unrecognized_address_qr_code_title": "Không nhận diện được mã QR",
@@ -1320,7 +1321,7 @@
     "gas_education_1": "Phí gas được trả cho những người khai thác tiền mã hóa để xử lý các giao dịch trên ",
     "gas_education_2_ethereum": "mạng Ethereum.",
     "gas_education_2": "mạng.",
-    "gas_education_3": "MetaMask không thu lợi nhuận từ phí gas.",
+    "gas_education_3": "Novai không thu lợi nhuận từ phí gas.",
     "gas_education_4": "Phí gas biến động dựa trên lưu lượng mạng và mức độ phức tạp của giao dịch.",
     "gas_education_learn_more": "Tìm hiểu thêm về phí gas",
     "confusable_title": "Kiểm tra địa chỉ người nhận",
@@ -1335,7 +1336,7 @@
     "invalid_qr_code_sync": "Mã QR không hợp lệ. Vui lòng quét mã QR đồng bộ của ví cứng.",
     "no_camera_permission": "Camera chưa được cấp phép. Vui lòng cho phép và thử lại",
     "invalid_qr_code_sign": "Mã QR không hợp lệ. Vui lòng kiểm tra ví cứng và thử lại.",
-    "no_camera_permission_android": "Bạn cần cho phép MetaMask truy cập vào camera để tiếp tục. Bạn cũng có thể cần thay đổi cài đặt của hệ thống.",
+    "no_camera_permission_android": "Bạn cần cho phép Novai truy cập vào camera để tiếp tục. Bạn cũng có thể cần thay đổi cài đặt của hệ thống.",
     "mismatched_qr_request_id": "Dữ liệu giao dịch không đồng nhất. Vui lòng sử dụng Keystone của bạn để ký mã QR bên dưới và nhấn vào 'Lấy Chữ Ký'.",
     "fiat_conversion_not_available": "Quy đổi pháp định hiện không khả dụng",
     "hex_data_copied": "Đã sao chép dữ liệu thập lục phân vào bộ nhớ đệm",
@@ -1353,7 +1354,7 @@
     "save": "Lưu",
     "warning_gas_limit": "Giới hạn gas phải lớn hơn 20999",
     "warning_gas_limit_estimated": "Giới hạn gas ước tính là {{gas}}, hãy sử dụng nó làm giá trị tối thiểu",
-    "cost_explanation": "Phí gas chi trả cho chi phí xử lý giao dịch của bạn trên mạng Ethereum. MetaMask không thu lợi nhuận từ khoản phí này. Phí càng cao thì giao dịch của bạn càng có nhiều cơ hội được xử lý."
+    "cost_explanation": "Phí gas chi trả cho chi phí xử lý giao dịch của bạn trên mạng Ethereum. Novai không thu lợi nhuận từ khoản phí này. Phí càng cao thì giao dịch của bạn càng có nhiều cơ hội được xử lý."
   },
   "spend_limit_edition": {
     "save": "Lưu",
@@ -1405,7 +1406,7 @@
     "approve_asset": "Chấp thuận tài sản:"
   },
   "browser": {
-    "title": "Trình duyệt",
+    "title": "Khám phá",
     "reload": "Tải lại",
     "share": "Chia sẻ",
     "bookmark": "Dấu trang",
@@ -1420,7 +1421,7 @@
     "change_url": "Thay đổi URL",
     "switch_network": "Chuyển mạng",
     "dapp_browser": "TRÌNH DUYỆT DAPP",
-    "dapp_browser_message": "MetaMask là ví và trình duyệt của bạn cho trang web phi tập trung. Hãy xem thử!",
+    "dapp_browser_message": "Novai là ví và trình duyệt của bạn cho trang web phi tập trung. Hãy xem thử!",
     "featured_dapps": "DAPP NỔI BẬT",
     "my_favorites": "ƯA THÍCH",
     "search": "Tìm hoặc gõ URL",
@@ -1542,7 +1543,7 @@
     "status_cancelled_header": "Giao dịch của bạn đã bị hủy",
     "status_cancelled_description": "Giao dịch của bạn không thể hoàn tất nên nó đã bị hủy để giúp bạn không phải trả phí gas không cần thiết.",
     "status_failed_header": "Giao dịch của bạn đã thất bại",
-    "status_failed_description": "Biến động đột ngột của thị trường có thể gây ra lỗi. Nếu sự cố tiếp diễn, hãy liên hệ với bộ phận hỗ trợ khách hàng của MetaMask.",
+    "status_failed_description": "Biến động đột ngột của thị trường có thể gây ra lỗi. Nếu sự cố tiếp diễn, hãy liên hệ với bộ phận hỗ trợ khách hàng của Novai.",
     "view_transaction": "Xem giao dịch",
     "view_activity": "Xem hoạt động",
     "return_to_dapp": "Quay lại {{dappName}}",
@@ -1594,8 +1595,8 @@
     "status_not_ok": "Mạng đang gặp một số sự cố",
     "want_to_add_network": "Bạn muốn thêm mạng này?",
     "add_custom_network": "Thêm mạng tùy chỉnh",
-    "network_infomation": "Thao tác này cho phép sử dụng mạng này trong MetaMask",
-    "network_endorsement": "MetaMask không xác nhận các mạng tùy chỉnh hoặc tính bảo mật của chúng.",
+    "network_infomation": "Thao tác này cho phép sử dụng mạng này trong Novai",
+    "network_endorsement": "Novai không xác nhận các mạng tùy chỉnh hoặc tính bảo mật của chúng.",
     "learn_about": "Tìm hiểu về",
     "network_risk": "lừa đảo và các nguy cơ về an ninh mạng",
     "network_display_name": "Tên hiển thị",
@@ -1633,7 +1634,7 @@
     "show_test_networks": "Hiển thị các mạng thử nghiệm",
     "deprecated_goerli": "Do những thay đổi trong giao thức của Ethereum: Mạng thử nghiệm Goerli có thể không hoạt động đáng tin cậy và sẽ sớm bị ngừng sử dụng.",
     "network_deprecated_title": "Mạng này đã ngừng sử dụng",
-    "network_deprecated_description": "Mạng bạn đang cố gắng kết nối không còn được hỗ trợ trên MetaMask."
+    "network_deprecated_description": "Mạng bạn đang cố gắng kết nối không còn được hỗ trợ trên Novai."
   },
   "select": {
     "cancel": "Hủy",
@@ -1687,9 +1688,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Yêu cầu xác thực",
-    "auth_prompt_desc": "Vui lòng xác thực để sử dụng MetaMask",
+    "auth_prompt_desc": "Vui lòng xác thực để sử dụng Novai",
     "fingerprint_prompt_title": "Yêu cầu xác thực",
-    "fingerprint_prompt_desc": "Sử dụng vân tay của bạn để mở khóa MetaMask",
+    "fingerprint_prompt_desc": "Sử dụng vân tay của bạn để mở khóa Novai",
     "fingerprint_prompt_cancel": "Hủy"
   },
   "accountApproval": {
@@ -1711,7 +1712,7 @@
   },
   "import_private_key": {
     "title": "Nhập tài khoản",
-    "description_one": "Có thể xem các tài khoản đã nhập trên ví nhưng không thể phục hồi các tài khoản đã nhập bằng Cụm từ khôi phục bí mật MetaMask của bạn.",
+    "description_one": "Có thể xem các tài khoản đã nhập trên ví nhưng không thể phục hồi các tài khoản đã nhập bằng Cụm từ khôi phục bí mật Novai của bạn.",
     "learn_more_here": "Tìm hiểu thêm về tài khoản đã nhập tại đây.",
     "subtitle": "Dán chuỗi khoá riêng tư của bạn",
     "cta_text": "NHẬP",
@@ -1723,7 +1724,7 @@
   },
   "import_private_key_success": {
     "title": "Tài khoản đã được nhập thành công!",
-    "description_one": "Giờ đây bạn sẽ có thể xem tài khoản của bạn trên MetaMask."
+    "description_one": "Giờ đây bạn sẽ có thể xem tài khoản của bạn trên Novai."
   },
   "first_incoming_transaction": {
     "title": "{{asset}} đã được nạp vào tài khoản của bạn",
@@ -1738,7 +1739,7 @@
     "step_1_description": "Tạo mật khẩu",
     "step_2": "Bước 2:",
     "step_2_description": "Lưu Cụm từ khôi phục bí mật của ví",
-    "info_text_1": "Dành ít phút để hoàn tất việc cài đặt cho ví MetaMask của bạn.",
+    "info_text_1": "Dành ít phút để hoàn tất việc cài đặt cho ví Novai của bạn.",
     "info_text_2": "Điều này sẽ đảm bảo chỉ mình bạn có quyền truy cập tiền của bạn và sẽ cho phép bạn khôi phục ví nếu làm mất thiết bị",
     "cta_text": "Tạo mật khẩu",
     "creating_password": "Đang tạo mật khẩu..."
@@ -1760,7 +1761,7 @@
     "what_is_seedphrase_title": "\"Cụm từ khôi phục bí mật\" là gì",
     "what_is_seedphrase_text_1": "Cụm từ khôi phục bí mật là một nhóm gồm mười hai từ chứa tất cả thông tin về ví của bạn, bao gồm cả tiền trong đó. Nó như một mật mã bí mật được dùng để truy cập toàn bộ ví của bạn.",
     "what_is_seedphrase_text_2": "Bạn phải giữ Cụm từ khôi phục bí mật một cách bảo mật và an toàn. Nếu ai đó có được Cụm từ khôi phục bí mật của bạn, thì họ sẽ có toàn quyền kiểm soát các tài khoản của bạn.",
-    "what_is_seedphrase_text_3": "Lưu cụm từ này ở một nơi mà bạn có thể truy cập. Nếu bạn làm mất, thì ngay cả MetaMask cũng không thể giúp bạn khôi phục."
+    "what_is_seedphrase_text_3": "Lưu cụm từ này ở một nơi mà bạn có thể truy cập. Nếu bạn làm mất, thì ngay cả Novai cũng không thể giúp bạn khôi phục."
   },
   "account_backup_step_1B": {
     "title": "Bảo vệ ví của bạn",
@@ -1833,7 +1834,7 @@
   },
   "account_backup_step_6": {
     "title": "Lời khuyên bảo mật",
-    "info_text": "MetaMask không thể khôi phục Cụm từ khôi phục bí mật của bạn nếu bạn làm mất",
+    "info_text": "Novai không thể khôi phục Cụm từ khôi phục bí mật của bạn nếu bạn làm mất",
     "tip_1": "Hãy giữ vài bản sao Cụm từ khôi phục bí mật của bạn",
     "tip_2": "Lưu cụm từ trong trình quản lý mật khẩu đáng tin cậy và cất giữ bản sao lưu trên giấy ở nơi an toàn",
     "tip_3": "Không bao giờ chia sẻ cụm từ này với bất cứ ai",
@@ -1873,7 +1874,7 @@
     "congratulations": "Chúc mừng",
     "success": "Bạn đã bảo vệ thành công ví của mình. Hãy nhớ giữ Cụm từ khôi phục bí mật an toàn, đó là trách nhiệm của bạn!",
     "hint": "Để lại gợi ý cho chính bạn?",
-    "recover": "MetaMask không thể khôi phục ví của bạn nếu bạn mất cụm từ này. Bạn có thể tìm Cụm từ khôi phục bí mật của bạn trong phần Cài đặt > Bảo mật & Quyền riêng tư.",
+    "recover": "Novai không thể khôi phục ví của bạn nếu bạn mất cụm từ này. Bạn có thể tìm Cụm từ khôi phục bí mật của bạn trong phần Cài đặt > Bảo mật & Quyền riêng tư.",
     "learn": "Tìm hiểu thêm",
     "done": "Xong",
     "recovery_hint": "Gợi ý khôi phục",
@@ -1886,7 +1887,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Phát hiện lừa đảo qua mạng Ethereum",
     "ethereum_phishing_detector": "Trình phát hiện lừa đảo qua mạng Ethereum",
-    "intro": " hiện nằm trong danh sách cảnh báo miền của MetaMask. Điều này có nghĩa là dựa trên thông tin mà chúng tôi có được, MetaMask tin rằng miền này hiện có thể ảnh hưởng đến tính bảo mật của bạn và với vai trò là tính năng an toàn bổ sung, MetaMask đã hạn chế quyền truy cập vào trang web. Để ghi đè điều này, vui lòng đọc phần còn lại của cảnh báo này để biết hướng dẫn về cách tiếp tục và chấp nhận rủi ro riêng của bạn.",
+    "intro": " hiện nằm trong danh sách cảnh báo miền của Novai. Điều này có nghĩa là dựa trên thông tin mà chúng tôi có được, Novai tin rằng miền này hiện có thể ảnh hưởng đến tính bảo mật của bạn và với vai trò là tính năng an toàn bổ sung, Novai đã hạn chế quyền truy cập vào trang web. Để ghi đè điều này, vui lòng đọc phần còn lại của cảnh báo này để biết hướng dẫn về cách tiếp tục và chấp nhận rủi ro riêng của bạn.",
     "reasons": "Có nhiều lý do khiến các trang web có thể xuất hiện trong danh sách cảnh báo của chúng tôi và danh sách cảnh báo của chúng tôi tổng hợp từ các danh sách khác được sử dụng rộng rãi trong ngành. Những lý do như vậy có thể bao gồm các rủi ro về gian lận hoặc bảo mật đã biết, chẳng hạn như các miền có kết quả thử nghiệm khẳng định trên",
     "list_content": "Các miền trong danh sách cảnh báo này có thể bao gồm các trang web hoàn toàn độc hại và các trang web hợp pháp đã bị kẻ xấu xâm nhập.",
     "to_read_more": "Để đọc thêm về trang web này,",
@@ -1938,7 +1939,7 @@
     "received_message": "Chạm để xem giao dịch này",
     "received_payment_message": "Bạn đã nhận {{amount}} DAI",
     "prompt_title": "Bật thông báo đẩy",
-    "prompt_desc": "Bật thông báo để MetaMask có thể thông báo cho bạn biết khi bạn nhận ETH hoặc khi giao dịch của bạn được xác nhận.",
+    "prompt_desc": "Bật thông báo để Novai có thể thông báo cho bạn biết khi bạn nhận ETH hoặc khi giao dịch của bạn được xác nhận.",
     "prompt_ok": "Có",
     "prompt_cancel": "Không, cảm ơn",
     "wc_connected_title": "Đã kết nối với {{title}}",
@@ -1966,7 +1967,7 @@
     "activation_card": {
       "title": "Bật thông báo",
       "description_1": "Nhận thông báo để cập nhật tình hình trong ví của bạn. ",
-      "description_2": "Để sử dụng tính năng này, chúng tôi sẽ tạo một ID ẩn danh cho tài khoản của bạn. ID này chỉ được dùng để đồng bộ dữ liệu của bạn trong MetaMask và không được liên kết với các hoạt động hoặc mã định danh khác của bạn, qua đó đảm bảo quyền riêng tư của bạn.",
+      "description_2": "Để sử dụng tính năng này, chúng tôi sẽ tạo một ID ẩn danh cho tài khoản của bạn. ID này chỉ được dùng để đồng bộ dữ liệu của bạn trong Novai và không được liên kết với các hoạt động hoặc mã định danh khác của bạn, qua đó đảm bảo quyền riêng tư của bạn.",
       "learn_more": "Tìm hiểu cách chúng tôi bảo vệ quyền riêng tư của bạn khi sử dụng tính năng này. ",
       "manage_preferences_1": "Bạn có thể tắt thông báo bất kỳ lúc nào trong phần ",
       "manage_preferences_2": "Cài đặt > Thông báo.",
@@ -2124,7 +2125,7 @@
     "wyre_minimum_deposit": "Số tiền nạp tối thiểu là {{amount}}",
     "wyre_maximum_deposit": "Số tiền nạp tối đa là {{amount}}",
     "apple_pay_purchase": "Mua {{currency}}",
-    "apple_pay_provider_total_label": "{{provider}} (thông qua MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (thông qua Novai)",
     "buy_with": "Mua bằng",
     "plus_fee": "Cộng phí {{fee}}",
     "date": "Ngày",
@@ -2143,12 +2144,12 @@
         "average_gas_fee": "Phí gas trung bình hiện tại là:",
         "subtitle_1": "Nếu bạn định hoán đổi hoặc chuyển {{ticker}}, hãy mua dư ra để trả cho phí gas.",
         "subtitle_2": "Phí gas để thực hiện giao dịch tách biệt với chi phí mua {{ticker}}.",
-        "subtitle_3": "MetaMask không thu lợi nhuận từ phí gas."
+        "subtitle_3": "Novai không thu lợi nhuận từ phí gas."
       },
       "step_2": {
         "title": "Phí gas là gì?",
         "subtitle_1": "Gas cung cấp năng lượng cho các giao dịch trên mạng Ethereum. Đó là một khoản phí được trả bằng {{ticker}} cho những người khai thác tiền mã hóa để họ xử lý các giao dịch của bạn.",
-        "subtitle_2": "MetaMask không thu lợi nhuận từ phí gas.",
+        "subtitle_2": "Novai không thu lợi nhuận từ phí gas.",
         "learn_more": "Tìm hiểu thêm về phí gas"
       },
       "step_3": {
@@ -2188,7 +2189,7 @@
     "onboarding": {
       "what_to_expect": "Mong đợi",
       "quotes": "Tính năng mua tiền mã hóa của chúng tôi sẽ tổng hợp báo giá từ các nhà cung cấp được tích hợp, cung cấp báo giá từ các nguồn đó để nhận tiền mã hóa trực tiếp vào ví của bạn mà không mất thời gian chờ đợi.",
-      "quotes_sell": "Giờ đây, bạn có thể rút tiền trực tiếp trong MetaMask! Nhận báo giá cập nhật từng phút từ các nhà cung cấp đáng tin cậy trong lúc chúng tôi hướng dẫn bạn từng bước.",
+      "quotes_sell": "Giờ đây, bạn có thể rút tiền trực tiếp trong Novai! Nhận báo giá cập nhật từng phút từ các nhà cung cấp đáng tin cậy trong lúc chúng tôi hướng dẫn bạn từng bước.",
       "benefits": "Trả phí gas ít hơn và hỗ trợ nhiều mạng, token và phương thức thanh toán",
       "benefits_sell": "Giờ đây, việc chuyển đổi tiền mã hóa sang tiền nội tệ của bạn đã trở nên dễ dàng hơn bao giờ hết.",
       "get_started": "Bắt đầu"
@@ -2372,13 +2373,13 @@
       "best_swap": "cặp hoán đổi tốt nhất",
       "across": "khắp...",
       "want_to_learn_more": "Muốn tìm hiểu thêm?",
-      "learn_more": "Tìm hiểu thêm về Hoán đổi trên MetaMask",
+      "learn_more": "Tìm hiểu thêm về Hoán đổi trên Novai",
       "what_are": "Hoán đổi token là gì?",
       "review_audits": "Xem lại kết quả kiểm tra hợp đồng chính thức của chúng tôi",
       "start_swapping": "Bắt đầu hoán đổi"
     },
     "feature_off_title": "Tạm thời không được cung cấp",
-    "feature_off_body": "Tính năng Hoán đổi trên MetaMask đang được bảo trì. Vui lòng thử lại sau.",
+    "feature_off_body": "Tính năng Hoán đổi trên Novai đang được bảo trì. Vui lòng thử lại sau.",
     "wrong_network_title": "Giao dịch hoán đổi không có sẵn",
     "wrong_network_body": "Bạn chỉ có thể hoán đổi những token trên Mạng chính của Ethereum.",
     "unallowed_asset_title": "Không thể hoán đổi token này",
@@ -2456,16 +2457,16 @@
     "estimated_gas_fee": "Phí gas ước tính",
     "max_gas_fee": "Phí gas tối đa",
     "edit": "Sửa",
-    "quotes_include_fee": "Báo giá bao gồm {{fee}}% phí MetaMask",
+    "quotes_include_fee": "Báo giá bao gồm {{fee}}% phí Novai",
     "tap_to_swap": "Chạm để hoán đổi",
     "swipe_to_swap": "Vuốt để hoán đổi",
     "swipe_to": "Vuốt để",
     "swap": "hoán đổi",
     "completed_swap": "Vuốt!",
-    "metamask_swap_fee": "Phí Hoán đổi của MetaMask",
+    "metamask_swap_fee": "Phí Hoán đổi của Novai",
     "fee_text": {
-      "fee_is_applied": "Khoản phí {{fee}} sẽ tự động được tính vào báo giá này. Bạn trả tiền để đổi lấy giấy phép sử dụng phần mềm tổng hợp thông tin từ nhà cung cấp thanh khoản của MetaMask.",
-      "fee_is_not_applied": "MetaMask không bao gồm phụ phí trong báo giá này."
+      "fee_is_applied": "Khoản phí {{fee}} sẽ tự động được tính vào báo giá này. Bạn trả tiền để đổi lấy giấy phép sử dụng phần mềm tổng hợp thông tin từ nhà cung cấp thanh khoản của Novai.",
+      "fee_is_not_applied": "Novai không bao gồm phụ phí trong báo giá này."
     },
     "enable": {
       "this_will": "Thao tác này sẽ",
@@ -2530,7 +2531,7 @@
     "gas_education_1": "Phí gas được trả cho những người khai thác tiền mã hóa để xử lý các giao dịch trên ",
     "gas_education_2_ethereum": "mạng Ethereum.",
     "gas_education_2": "mạng.",
-    "gas_education_3": "MetaMask không thu lợi nhuận từ phí gas.",
+    "gas_education_3": "Novai không thu lợi nhuận từ phí gas.",
     "gas_education_4": "Chúng tôi mong đợi",
     "gas_education_5": "\"Phí gas ước tính\"",
     "gas_education_6": "sẽ là mức phí thực tế. Số tiền chính xác phụ thuộc vào điều kiện mạng.",
@@ -2571,14 +2572,14 @@
     "title": "Xem tính năng mới",
     "blockaid": {
       "title": "Đảm bảo an toàn với cảnh báo bảo mật",
-      "description_1": "Đảm bảo an toàn trước các hành vi lừa đảo đã biết, đồng thời vẫn bảo vệ quyền riêng tư của bạn với các cảnh báo bảo mật do Blockaid cung cấp. Tính năng này hiện được bật theo mặc định dành cho tất cả người dùng MetaMask.",
+      "description_1": "Đảm bảo an toàn trước các hành vi lừa đảo đã biết, đồng thời vẫn bảo vệ quyền riêng tư của bạn với các cảnh báo bảo mật do Blockaid cung cấp. Tính năng này hiện được bật theo mặc định dành cho tất cả người dùng Novai.",
       "description_2": "Luôn tự thẩm định trước khi chấp thuận các yêu cầu.",
       "description_3": "Có sẵn trên Arbitrum, Avalanche, BNB chain, Ethereum Mainnet, Linea, Optimism, Polygon, Sepolia và Base.",
       "got_it": "Đã hiểu"
     },
     "sell": {
       "title": "Rút tiền dễ dàng",
-      "description": "Bán tiền mã hóa trực tiếp trong MetaMask! Chúng tôi sẽ giúp bạn tìm báo giá từ các nhà cung cấp đáng tin cậy, qua đó bạn có thể bán tiền mã hóa mọi lúc một cách dễ dàng, nhanh chóng và an toàn.",
+      "description": "Bán tiền mã hóa trực tiếp trong Novai! Chúng tôi sẽ giúp bạn tìm báo giá từ các nhà cung cấp đáng tin cậy, qua đó bạn có thể bán tiền mã hóa mọi lúc một cách dễ dàng, nhanh chóng và an toàn.",
       "action_text": "Thử ngay"
     },
     "stx": {
@@ -2606,15 +2607,15 @@
   "switch_custom_network": {
     "title_existing_network": "Trang web này muốn chuyển mạng",
     "title_new_network": "Đã thêm mạng mới",
-    "switch_warning": "Thao tác này sẽ chuyển mạng được chọn trong MetaMask sang một mạng đã thêm trước đó:",
+    "switch_warning": "Thao tác này sẽ chuyển mạng được chọn trong Novai sang một mạng đã thêm trước đó:",
     "available": "hiện có sẵn trong trình chọn mạng.",
     "cancel": "Hủy",
     "switch": "Chuyển mạng"
   },
   "add_custom_network": {
     "title": "Cho phép trang web này thêm mạng?",
-    "warning": "Thao tác này cho phép sử dụng mạng này trong MetaMask.",
-    "warning_subtext_1": "MetaMask không xác minh các mạng tùy chỉnh hoặc tính bảo mật của chúng.",
+    "warning": "Thao tác này cho phép sử dụng mạng này trong Novai.",
+    "warning_subtext_1": "Novai không xác minh các mạng tùy chỉnh hoặc tính bảo mật của chúng.",
     "warning_subtext_2": "Tìm hiểu về",
     "warning_subtext_3": "lừa đảo và rủi ro bảo mật mạng",
     "display_name": "Tên hiển thị",
@@ -2630,7 +2631,7 @@
     "alert_recommend": "Chúng tôi khuyên bạn nên",
     "alert_verify": "xác minh ID chuỗi",
     "warning_subtext_new": {
-      "1": "MetaMask không xác minh các mạng tùy chỉnh, vì vậy chỉ chấp thuận các mạng mà bạn tin tưởng.",
+      "1": "Novai không xác minh các mạng tùy chỉnh, vì vậy chỉ chấp thuận các mạng mà bạn tin tưởng.",
       "2": "Tìm hiểu thêm về các rủi ro bảo mật mạng và các hành vi lừa đảo."
     },
     "invalid_rpc_url": "URL mạng này không trùng khớp với một nhà cung cấp đã biết cho ID chuỗi này.",
@@ -2705,7 +2706,7 @@
     "estimated_gas_fee_tooltip_text_1": "Phí gas được trả cho những người khai thác tiền mã hóa để xử lý các giao dịch trên",
     "estimated_gas_fee_tooltip_text_2": " mạng",
     "estimated_gas_fee_tooltip_text_3": " Ethereum.",
-    "estimated_gas_fee_tooltip_text_4": "MetaMask không thu lợi nhuận từ phí gas.",
+    "estimated_gas_fee_tooltip_text_4": "Novai không thu lợi nhuận từ phí gas.",
     "estimated_gas_fee_tooltip_text_5": "Phí gas do mạng thiết lập và biến động dựa trên lưu lượng mạng cũng như mức độ phức tạp của giao dịch.",
     "learn_more": "Tìm hiểu thêm về phí gas",
     "legacy_gas_suggestion_tooltip": "Đề xuất phí gas này sử dụng phương pháp ước tính phí gas cũ và có thể không chính xác."
@@ -2729,7 +2730,7 @@
     "high_fees": "Tại sao phí cao quá vậy?",
     "missing_tokens": "Tôi đang bị thiếu token...",
     "swap_issues": "Tôi không thể hoán đổi...",
-    "mobile_sentiment": "Bạn thấy thế nào về MetaMask trên thiết bị di động?",
+    "mobile_sentiment": "Bạn thấy thế nào về Novai trên thiết bị di động?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Thích!",
@@ -2777,12 +2778,12 @@
   },
   "remember_me": {
     "enable_remember_me": "Bật Ghi nhớ",
-    "enable_remember_me_description": "Khi bật Ghi nhớ, bất kỳ ai có quyền truy cập vào điện thoại của bạn đều có thể truy cập vào tài khoản MetaMask của bạn."
+    "enable_remember_me_description": "Khi bật Ghi nhớ, bất kỳ ai có quyền truy cập vào điện thoại của bạn đều có thể truy cập vào tài khoản Novai của bạn."
   },
   "turn_off_remember_me": {
     "title": "Nhập mật khẩu để tắt Ghi nhớ",
     "placeholder": "Mật khẩu",
-    "description": "Nếu bạn tắt tùy chọn này, bạn sẽ cần nhập mật khẩu để mở khóa MetaMask kể từ bây giờ.",
+    "description": "Nếu bạn tắt tùy chọn này, bạn sẽ cần nhập mật khẩu để mở khóa Novai kể từ bây giờ.",
     "action": "Tắt Ghi nhớ"
   },
   "dapp_connect": {
@@ -2794,11 +2795,11 @@
   },
   "automatic_security_checks": {
     "title": "Kiểm tra bảo mật tự động",
-    "description": "Việc tự động kiểm tra các bản cập nhật có thể tiết lộ địa chỉ IP của bạn cho các máy chủ GitHub. Điều này chỉ cho biết rằng địa chỉ IP của bạn đang sử dụng MetaMask chứ không tiết lộ thông tin hoặc địa chỉ tài khoản nào khác."
+    "description": "Việc tự động kiểm tra các bản cập nhật có thể tiết lộ địa chỉ IP của bạn cho các máy chủ GitHub. Điều này chỉ cho biết rằng địa chỉ IP của bạn đang sử dụng Novai chứ không tiết lộ thông tin hoặc địa chỉ tài khoản nào khác."
   },
   "terms_of_use_modal": {
     "title": "Xem lại Điều khoản sử dụng mới nhất của chúng tôi",
-    "terms_of_use_check_description": "Tôi đồng ý với Điều khoản sử dụng được áp dụng cho việc tôi sử dụng MetaMask và tất cả các tính năng của MetaMask",
+    "terms_of_use_check_description": "Tôi đồng ý với Điều khoản sử dụng được áp dụng cho việc tôi sử dụng Novai và tất cả các tính năng của Novai",
     "accept_cta": "Chấp nhận",
     "accept_helper_description": "Vui lòng cuộn để đọc tất cả các phần"
   },
@@ -2810,7 +2811,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Tự động kiểm tra các bản cập nhật bảo mật?",
-    "description": "Việc tự động kiểm tra các bản cập nhật có thể tiết lộ địa chỉ IP của bạn cho các máy chủ GitHub. Điều này chỉ cho biết rằng địa chỉ IP của bạn đang sử dụng MetaMask chứ không tiết lộ thông tin hoặc địa chỉ tài khoản nào khác.",
+    "description": "Việc tự động kiểm tra các bản cập nhật có thể tiết lộ địa chỉ IP của bạn cho các máy chủ GitHub. Điều này chỉ cho biết rằng địa chỉ IP của bạn đang sử dụng Novai chứ không tiết lộ thông tin hoặc địa chỉ tài khoản nào khác.",
     "primary_action": "Bật kiểm tra bảo mật tự động",
     "secondary_action": "Không, cảm ơn"
   },
@@ -2863,7 +2864,7 @@
     "new_wallet_needed_create_try_again_action": "Thử khôi phục ví",
     "new_wallet_needed_description_part_one": "Đã xảy ra lỗi với ví của bạn và bạn cần tạo một ví mới. Vì tài khoản của bạn nằm trên chuỗi khối nên chúng vẫn an toàn. Chỉ có các tùy chọn, mạng đã lưu, tên tài khoản và dữ liệu liên quan được lưu trên thiết bị của bạn mới biến mất.",
     "new_wallet_needed_description_part_two": "Để nhập tài khoản của bạn vào ví mới, bạn sẽ cần sử dụng Cụm từ khôi phục bí mật. Nếu không có Cụm từ khôi phục bí mật, bạn sẽ không thể nhập tài khoản của mình.",
-    "new_wallet_needed_description_part_three": "Để tránh trường hợp này xảy ra lại, hãy nhớ luôn cập nhật ứng dụng MetaMask và hệ điều hành của bạn lên phiên bản mới nhất."
+    "new_wallet_needed_description_part_three": "Để tránh trường hợp này xảy ra lại, hãy nhớ luôn cập nhật ứng dụng Novai và hệ điều hành của bạn lên phiên bản mới nhất."
   },
   "srp_security_quiz": {
     "title": "Câu hỏi bảo mật",
@@ -2874,7 +2875,7 @@
     "continue": "Tiếp tục",
     "of": "trên",
     "question_one": {
-      "question": "Nếu bạn làm mất Cụm từ khôi phục bí mật, MetaMask...",
+      "question": "Nếu bạn làm mất Cụm từ khôi phục bí mật, Novai...",
       "right_answer": "Không thể giúp bạn",
       "wrong_answer": "Có thể lấy lại cho bạn",
       "right_answer_title": "Đúng! Không ai có thể giúp bạn lấy lại Cụm từ khôi phục bí mật",
@@ -2899,9 +2900,9 @@
     "bluetooth_off_message": "Vui lòng bật Bluetooth cho thiết bị của bạn",
     "bluetooth_access_blocked": "Ledger cần được cấp quyền truy cập Bluetooth để ghép nối với thiết bị di động của bạn.",
     "bluetooth_access_blocked_message": "Nếu bạn muốn ghép nối thiết bị Ledger bằng Bluetooth, hãy bật Bluetooth trong phần Cài đặt và thử lại.",
-    "location_access_blocked": "MetaMask cần có quyền truy cập vị trí để ghép nối với thiết bị Ledger của bạn.",
+    "location_access_blocked": "Novai cần có quyền truy cập vị trí để ghép nối với thiết bị Ledger của bạn.",
     "location_access_blocked_message": "Nếu bạn muốn ghép nối thiết bị Ledger bằng Bluetooth, bạn sẽ cần cấp quyền truy cập dịch vụ định vị trong phần Cài đặt và thử lại.",
-    "nearbyDevices_access_blocked": "MetaMask cần có quyền truy cập thiết bị lân cận để ghép nối với thiết bị Ledger của bạn.",
+    "nearbyDevices_access_blocked": "Novai cần có quyền truy cập thiết bị lân cận để ghép nối với thiết bị Ledger của bạn.",
     "nearbyDevices_access_blocked_message": "Nếu bạn muốn ghép nối với thiết bị Ledger bằng Bluetooth, bạn sẽ cần cấp quyền truy cập thiết bị lân cận trong phần Cài đặt và thử lại.",
     "bluetooth_scanning_error": "Lỗi khi quét thiết bị",
     "bluetooth_scanning_error_message": "Nhớ mở khóa thiết bị và chạy ứng dụng Ethereum",
@@ -2941,7 +2942,7 @@
     "unknown_error_message": "Đã xảy ra lỗi không mong muốn. Vui lòng thử lại.",
     "error_occured": "Đã xảy ra lỗi",
     "how_to_install_eth_app": "Cách cài đặt ứng dụng Ethereum trên thiết bị Ledger",
-    "ledger_account_count": "Bạn đang sử dụng 1 tài khoản từ Ledger bằng MetaMask Di động.",
+    "ledger_account_count": "Bạn đang sử dụng 1 tài khoản từ Ledger bằng Novai Di động.",
     "open_eth_app": "Vui lòng mở ứng dụng Ethereum",
     "open_eth_app_message_one": "Chúng tôi phát hiện bạn đã cài đặt nhưng chưa mở ứng dụng Ethereum, vui lòng ",
     "open_eth_app_message_two": "nhấn hai nút trên thiết bị để chấp nhận lời nhắc mở ứng dụng Ethereum để tiếp tục.",
@@ -2955,7 +2956,7 @@
     "not_supported": "Thao tác không được hỗ trợ",
     "not_supported_error": "Chỉ hỗ trợ phiên bản 4 của ký dữ liệu đã nhập.",
     "error_during_connection": "Đã xảy ra lỗi không xác định",
-    "error_during_connection_message": "Đã xảy ra một sự cố nhỏ khi kết nối với Ledger Nano X của bạn, nhấn 'Thử lại' bên dưới để tiếp tục. Đôi khi sự cố này xảy ra do bạn đang mở ứng dụng ETH trên Ledger Nano X khi bắt đầu quá trình ghép nối với MetaMask Di động.",
+    "error_during_connection_message": "Đã xảy ra một sự cố nhỏ khi kết nối với Ledger Nano X của bạn, nhấn 'Thử lại' bên dưới để tiếp tục. Đôi khi sự cố này xảy ra do bạn đang mở ứng dụng ETH trên Ledger Nano X khi bắt đầu quá trình ghép nối với Novai Di động.",
     "how_to_install_eth_webview_title": "Cách cài đặt Ứng dụng Ethereum",
     "nonce_too_low": "Số nonce quá thấp",
     "nonce_too_low_error": "Số nonce đã đặt quá thấp"
@@ -3016,7 +3017,7 @@
   },
   "default_settings": {
     "title": "Ví của bạn đã sẵn sàng",
-    "description": "MetaMask sử dụng cài đặt mặc định để cân bằng tốt nhất giữa tính an toàn và dễ sử dụng. Thay đổi các cài đặt này để nâng cao quyền riêng tư của bạn hơn nữa.",
+    "description": "Novai sử dụng cài đặt mặc định để cân bằng tốt nhất giữa tính an toàn và dễ sử dụng. Thay đổi các cài đặt này để nâng cao quyền riêng tư của bạn hơn nữa.",
     "learn_more_about_privacy": "Tìm hiểu thêm về các cách thức bảo mật tốt nhất.",
     "privacy_policy": "Chính sách quyền riêng tư",
     "default_settings": "Cài đặt mặc định",
@@ -3025,12 +3026,12 @@
     "manage_networks": "Quản lý mạng",
     "manage_networks_body": "Chúng tôi sử dụng Infura làm nhà cung cấp dịch vụ gọi hàm từ xa (RPC) để cung cấp quyền truy cập riêng tư và đáng tin cậy nhất có thể vào dữ liệu Ethereum. Bạn có thể chọn RPC của riêng mình, nhưng hãy nhớ rằng bất kỳ RPC nào cũng sẽ thu thập địa chỉ IP và ví Ethereum của bạn để thực hiện giao dịch. Đọc ",
     "manage_networks_body2": " để tìm hiểu thêm về cách Infura xử lý dữ liệu.",
-    "functionality_body": "Bao gồm dữ liệu và giá trị của token, cài đặt gas tối ưu, cập nhật bảo mật, v.v. Sử dụng các dịch vụ này sẽ chia sẻ địa chỉ IP của bạn với MetaMask, giống như khi bạn truy cập một trang web.",
+    "functionality_body": "Bao gồm dữ liệu và giá trị của token, cài đặt gas tối ưu, cập nhật bảo mật, v.v. Sử dụng các dịch vụ này sẽ chia sẻ địa chỉ IP của bạn với Novai, giống như khi bạn truy cập một trang web.",
     "sheet": {
       "title_off": "Tắt chức năng cơ bản",
-      "description_off": "Điều này có nghĩa là bạn sẽ không thể tối ưu hoàn toàn thời gian sử dụng MetaMask. Các tính năng cơ bản (chẳng hạn như chi tiết token, cài đặt gas tối ưu và các tính năng khác) sẽ không khả dụng.",
+      "description_off": "Điều này có nghĩa là bạn sẽ không thể tối ưu hoàn toàn thời gian sử dụng Novai. Các tính năng cơ bản (chẳng hạn như chi tiết token, cài đặt gas tối ưu và các tính năng khác) sẽ không khả dụng.",
       "title_on": "Bật chức năng cơ bản",
-      "description_on": "Để tối ưu thời gian sử dụng MetaMask, bạn cần bật tính năng này. Các chức năng cơ bản (chẳng hạn như chi tiết token, cài đặt gas tối ưu và các chức năng khác) rất quan trọng đối với trải nghiệm web3.",
+      "description_on": "Để tối ưu thời gian sử dụng Novai, bạn cần bật tính năng này. Các chức năng cơ bản (chẳng hạn như chi tiết token, cài đặt gas tối ưu và các chức năng khác) rất quan trọng đối với trải nghiệm web3.",
       "checkbox_label": "Tôi hiểu rõ và muốn tiếp tục",
       "buttons": {
         "cancel": "Hủy",

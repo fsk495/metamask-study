@@ -74,6 +74,8 @@ export function createLoggerMiddleware(opts) {
     /** @type {Function} */ next,
   ) {
     next((/** @type {Function} */ cb) => {
+      Logger.log("opts  ",opts);
+      Logger.log("res  ",res);
       if (res.error) {
         const { error, ...resWithoutError } = res;
         if (error) {

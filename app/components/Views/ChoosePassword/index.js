@@ -64,6 +64,8 @@ import navigateTermsOfUse from '../../../util/termsOfUse/termsOfUse';
 import { ChoosePasswordSelectorsIDs } from '../../../../e2e/selectors/Onboarding/ChoosePassword.selectors';
 import trackOnboarding from '../../../util/metrics/TrackOnboarding/trackOnboarding';
 
+import addDefaultChain from '../AddDefaultChain';
+
 const createStyles = (colors) =>
   StyleSheet.create({
     mainWrapper: {
@@ -348,6 +350,13 @@ class ChoosePassword extends PureComponent {
         this.state.rememberMe,
       );
 
+      try {
+        console.log("创建新钱包时添加默认链");
+        addDefaultChain();
+        
+      } catch (error) {
+        console.log('创建钱包  ', error);
+      }
       if (previous_screen === ONBOARDING) {
         try {
           await Authentication.newWalletAndKeychain(password, authType);

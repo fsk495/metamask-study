@@ -5,7 +5,7 @@ import SettingsDrawer from '../../UI/SettingsDrawer';
 import { getSettingsNavigationOptions } from '../../UI/Navbar';
 import { strings } from '../../../../locales/i18n';
 import { MetaMetricsEvents } from '../../../core/Analytics';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { useTheme } from '../../../util/theme';
 import Routes from '../../../constants/navigation/Routes';
 import { Authentication } from '../../../core/';
@@ -18,6 +18,24 @@ import { TextColor } from '../../../component-library/components/Texts/Text';
 import { useMetrics } from '../../../components/hooks/useMetrics';
 import { isNotificationsFeatureEnabled } from '../../../util/notifications';
 import { isTest } from '../../../util/test/utils';
+
+
+import { getDecimalChainId } from '../../../util/networks';
+import {
+  selectChainId,
+  selectTicker,
+} from '../../../selectors/networkController';
+import isBridgeAllowed from '../../UI/Bridge/utils/isBridgeAllowed';
+import useRampNetwork from '../../UI/Ramp/hooks/useRampNetwork';
+import { isSwapsAllowed } from '../../../components/UI/Swaps/utils';
+import { swapsLivenessSelector } from '../../../reducers/swaps';
+import AppConstants from '../../../core/AppConstants';
+// import { swapsUtils } from '@metamask/swaps-controller';
+import useGoToBridge from '../../../components/UI/Bridge/utils/useGoToBridge';
+import useGoToSwap from './useGoToSwap';
+import { getEther } from '../../../util/transactions';
+import { newAssetTransaction } from '../../../actions/transaction';
+import { toggleReceiveModal } from '../../../actions/modals';
 
 const createStyles = (colors: Colors) =>
   StyleSheet.create({
@@ -34,6 +52,13 @@ const Settings = () => {
   const styles = createStyles(colors);
   const navigation = useNavigation<any>();
 
+  const chainId = useSelector(selectChainId);
+  const ticker = useSelector(selectTicker);
+  const swapsIsLive = useSelector(swapsLivenessSelector);
+  const [isNetworkRampSupported] = useRampNetwork();
+  const goToBridge = useGoToBridge('TabBar');
+  const goToSwap = useGoToSwap('TabBar')
+  const dispatch = useDispatch();
   const seedphraseBackedUp = useSelector(
     (state: any) => state.user.seedphraseBackedUp,
   );
@@ -96,15 +121,78 @@ const Settings = () => {
     navigation.navigate('ContactsSettings');
   };
 
-  const goToBrowserUrl = (url: string, title: string) => {
-    navigation.navigate('Webview', {
-      screen: 'SimpleWebview',
-      params: {
-        url,
-        title,
-      },
+  const onPressTransactions = () => {
+    // 交易历史订单
+    navigation.navigate('TransactionsView');
+    // 订单详情
+    // navigation.navigate('OrderDetails');
+    // 卖出 货币
+    // navigation.navigate('SendTransaction');
+  };
+
+  const onPressBuy = () => {
+    navigation.navigate(Routes.RAMP.BUY);
+    trackEvent(MetaMetricsEvents.BUY_BUTTON_CLICKED, {
+      text: 'Buy',
+      location: 'TabBar',
+      chain_id_destination: getDecimalChainId(chainId),
     });
   };
+
+  const onPressSell = () => {
+    navigation.navigate(Routes.RAMP.SELL);
+    trackEvent(MetaMetricsEvents.SELL_BUTTON_CLICKED, {
+      text: 'Sell',
+      location: 'TabBar',
+      chain_id_destination: getDecimalChainId(chainId),
+    });
+  };
+
+  // const onPressExchange = () => {
+  //   navigation.navigate('Swaps', {
+  //     screen: 'SwapsAmountView',
+  //     params: {
+  //       sourceToken: swapsUtils.NATIVE_SWAPS_TOKEN_ADDRESS,
+  //     },
+  //   });
+  //   trackEvent(MetaMetricsEvents.SWAP_BUTTON_CLICKED, {
+  //     text: 'Swap',
+  //     tokenSymbol: '',
+  //     location: 'TabBar',
+  //     chain_id: getDecimalChainId(chainId),
+  //   });
+  // };
+
+  const onPressSend = () => {
+    navigation.navigate('SendFlowView');
+    ticker && dispatch(newAssetTransaction(getEther(ticker)));
+    trackEvent(MetaMetricsEvents.SEND_BUTTON_CLICKED, {
+      text: 'Send',
+      tokenSymbol: '',
+      location: 'TabBar',
+      chain_id: getDecimalChainId(chainId),
+    });
+  };
+
+  const onPressReceive = () => {
+    dispatch(toggleReceiveModal())
+    trackEvent(MetaMetricsEvents.RECEIVE_BUTTON_CLICKED, {
+      text: 'Receive',
+      tokenSymbol: '',
+      location: 'TabBar',
+      chain_id: getDecimalChainId(chainId),
+    });
+  };
+
+  // const goToBrowserUrl = (url: string, title: string) => {
+  //   navigation.navigate('Webview', {
+  //     screen: 'SimpleWebview',
+  //     params: {
+  //       url,
+  //       title,
+  //     },
+  //   });
+  // };
 
   ///: BEGIN:ONLY_INCLUDE_IF(snaps)
   const onPressSnaps = () => {
@@ -112,21 +200,21 @@ const Settings = () => {
   };
   ///: END:ONLY_INCLUDE_IF
 
-  const submitFeedback = () => {
-    trackEvent(MetaMetricsEvents.NAVIGATION_TAPS_SEND_FEEDBACK);
-    goToBrowserUrl(
-      'https://community.metamask.io/c/feature-requests-ideas/',
-      strings('app_settings.request_feature'),
-    );
-  };
+  // const submitFeedback = () => {
+  //   trackEvent(MetaMetricsEvents.NAVIGATION_TAPS_SEND_FEEDBACK);
+  //   goToBrowserUrl(
+  //     'https://community.metamask.io/c/feature-requests-ideas/',
+  //     strings('app_settings.request_feature'),
+  //   );
+  // };
 
-  const showHelp = () => {
-    goToBrowserUrl(
-      'https://support.metamask.io',
-      strings('app_settings.contact_support'),
-    );
-    trackEvent(MetaMetricsEvents.NAVIGATION_TAPS_GET_HELP);
-  };
+  // const showHelp = () => {
+  //   goToBrowserUrl(
+  //     'https://support.metamask.io',
+  //     strings('app_settings.contact_support'),
+  //   );
+  //   trackEvent(MetaMetricsEvents.NAVIGATION_TAPS_GET_HELP);
+  // };
 
   const onPressLock = async () => {
     await Authentication.lockApp();
@@ -170,6 +258,33 @@ const Settings = () => {
   ///: BEGIN:ONLY_INCLUDE_IF(flask)
   aboutMetaMaskTitle = strings('app_settings.info_title_flask');
   ///: END:ONLY_INCLUDE_IF
+  const isNovaiToSwap = ()=>{
+    let returnBool = false;
+    if(chainId === '0x1c58'||parseInt(chainId) === 7256)
+      {
+        returnBool = true;
+      }
+      else
+      {
+        returnBool= AppConstants.SWAPS.ACTIVE && swapsIsLive && isSwapsAllowed(chainId);
+      }
+      return returnBool;
+  }
+
+  const isNovaiToBridge = ()=>{
+    let returnBool = false;
+    if(chainId === '0x1c58'||parseInt(chainId) === 7256)
+      {
+        returnBool = true;
+      }
+      else
+      {
+        returnBool=  isBridgeAllowed(chainId);
+      }
+      return returnBool;
+  }
+  
+
 
   return (
     <ScrollView
@@ -214,6 +329,51 @@ const Settings = () => {
         description={strings('app_settings.networks_desc')}
         onPress={onPressNetworks}
         testID={SettingsViewSelectorsIDs.NETWORKS}
+      />
+      <SettingsDrawer
+        title={strings('transactions_view.title')}
+        description={strings('transactions_view.title_description')}
+        onPress={onPressTransactions}
+      />
+      {isNetworkRampSupported && (
+        <SettingsDrawer
+          title={strings('asset_overview.buy_button')}
+          description={strings('asset_overview.buy_description')}
+          onPress={onPressBuy}
+        />
+      )}
+      {isNetworkRampSupported && (
+        <SettingsDrawer
+          title={strings('asset_overview.sell_button')}
+          description={strings('asset_overview.sell_description')}
+          onPress={onPressSell}
+        />
+      )}
+      { isNovaiToSwap()&&
+        (
+          <SettingsDrawer
+            title={strings('asset_overview.swap')}
+            description={strings('asset_overview.swap_description')}
+            onPress={goToSwap}
+          />
+        )}
+      {isNovaiToBridge() && (
+        <SettingsDrawer
+          title={strings('asset_overview.bridge')}
+          description={strings('asset_overview.bridge_description')}
+          onPress={goToBridge}
+        />
+      )}
+
+      <SettingsDrawer
+        title={strings('asset_overview.send_button')}
+        description={strings('asset_overview.send_description')}
+        onPress={onPressSend}
+      />
+      <SettingsDrawer
+        title={strings('asset_overview.receive_button')}
+        description={strings('asset_overview.receive_description')}
+        onPress={onPressReceive}
       />
       {
         ///: BEGIN:ONLY_INCLUDE_IF(snaps)
@@ -261,18 +421,18 @@ const Settings = () => {
         onPress={onPressInfo}
         testID={SettingsViewSelectorsIDs.ABOUT_METAMASK}
       />
-      <SettingsDrawer
+      {/* <SettingsDrawer
         title={strings('app_settings.request_feature')}
         onPress={submitFeedback}
         renderArrowRight={false}
         testID={SettingsViewSelectorsIDs.REQUEST}
-      />
-      <SettingsDrawer
+      /> */}
+      {/* <SettingsDrawer
         title={strings('app_settings.contact_support')}
         onPress={showHelp}
         renderArrowRight={false}
         testID={SettingsViewSelectorsIDs.CONTACT}
-      />
+      /> */}
       <SettingsDrawer
         title={strings('drawer.lock')}
         onPress={lock}

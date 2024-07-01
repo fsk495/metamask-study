@@ -90,7 +90,7 @@ function render(Component: React.ComponentType, chainId?: string) {
                   nickname: 'Polygon Mainnet',
                   rpcPrefs: { blockExplorerUrl: 'https://polygonscan.com' },
                   rpcUrl:
-                    'https://polygon-mainnet.infura.io/v3/cda392a134014865ad3c273dc7ddfff3',
+                    'https://polygon-mainnet.infura.io/v3/e5e9f12ef36240619b36d2c0d160d9d3',
                   ticker: 'MATIC',
                 },
               },

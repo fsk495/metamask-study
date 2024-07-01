@@ -58,7 +58,6 @@ const UpdateNeeded = () => {
       MetaMetricsEvents.FORCE_UPGRADE_UPDATE_TO_THE_LATEST_VERSION_CLICKED,
       { ...generateDeviceAnalyticsMetaData(), link },
     );
-
     Linking.canOpenURL(link).then(
       (supported) => {
         supported && Linking.openURL(link);

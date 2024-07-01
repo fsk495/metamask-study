@@ -19,6 +19,7 @@ import { OutlinedTextField } from 'react-native-material-textfield';
 import DefaultPreference from 'react-native-default-preference';
 import Clipboard from '@react-native-clipboard/clipboard';
 import AppConstants from '../../../core/AppConstants';
+import Engine from '../../../core/Engine';
 import Device from '../../../util/device';
 import {
   failedSeedPhraseRequirements,
@@ -64,6 +65,8 @@ import navigateTermsOfUse from '../../../util/termsOfUse/termsOfUse';
 import { ImportFromSeedSelectorsIDs } from '../../../../e2e/selectors/Onboarding/ImportFromSeed.selectors';
 import { ChoosePasswordSelectorsIDs } from '../../../../e2e/selectors/Onboarding/ChoosePassword.selectors';
 import trackOnboarding from '../../../util/metrics/TrackOnboarding/trackOnboarding';
+
+import addDefaultChain from '../AddDefaultChain';
 
 const MINIMUM_SUPPORTED_CLIPBOARD_VERSION = 9;
 
@@ -179,7 +182,10 @@ const ImportFromSecretRecoveryPhrase = ({
     setBiometryType(newAuthData.availableBiometryType);
     updateBiometryChoice(false);
   };
-
+  /**
+   * 导入钱包逻辑
+   * @returns 
+   */
   const onPressImport = async () => {
     const vaultSeed = await parseVaultValue(password, seed);
     const parsedSeed = parseSeedPhrase(vaultSeed || seed);
@@ -210,6 +216,13 @@ const ImportFromSecretRecoveryPhrase = ({
     } else {
       try {
         setLoading(true);
+        const { NetworkController,CurrencyRateController } = Engine.context;
+        try {
+          console.log("导入私钥 创建钱包");
+          addDefaultChain();
+        } catch (error) {
+          console.log("导入私钥  ",error);
+        }
         const authData = await Authentication.componentAuthenticationType(
           biometryChoice,
           rememberMe,

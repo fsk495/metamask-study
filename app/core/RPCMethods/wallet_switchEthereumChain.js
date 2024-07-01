@@ -45,10 +45,30 @@ const wallet_switchEthereumChain = async ({
 
   const _chainId = typeof chainId === 'string' && chainId.toLowerCase();
 
-  if (!isPrefixedFormattedHexString(_chainId)) {
-    throw rpcErrors.invalidParams(
-      `Expected 0x-prefixed, unpadded, non-zero hexadecimal string 'chainId'. Received:\n${chainId}`,
+  const _hexadecimalChainId = (_chainId) => {
+    if(_chainId == undefined)
+      {
+        return _chainId;
+      }
+    if (_chainId.startsWith('0x')) {
+      return _chainId;
+    } else {
+      if (_chainId == parseInt(chainId, 10).toString(16)) {
+        return '0x' + _chainId;
+      } else {
+        return '0x' + parseInt(chainId, 10).toString(16);
+      }
+    }
+  };
+
+  if (!isPrefixedFormattedHexString(_hexadecimalChainId(_chainId))) {
+    const tempMes = rpcErrors.invalidParams(
+      `Expected 0x-prefixed, unpadded, non-zero hexadecimal string 'chainId'.wallet_switchEthereumChain  Received
+      :\n${chainId}\n${_chainId}\n
+      ${typeof _chainId}\n${typeof chainId}
+      \n${JSON.stringify(chainId.toLowerCase())}`,
     );
+    throw tempMes;
   }
 
   if (!isSafeChainId(_chainId)) {
@@ -124,11 +144,11 @@ const wallet_switchEthereumChain = async ({
     res.result = null;
     return;
   }
-
-  throw providerErrors.custom({
+  const throwErr = providerErrors.custom({
     code: 4902, // To-be-standardized "unrecognized chain ID" error
     message: `Unrecognized chain ID "${_chainId}". Try adding the chain using wallet_addEthereumChain first.`,
   });
+  throw throwErr;
 };
 
 export default wallet_switchEthereumChain;

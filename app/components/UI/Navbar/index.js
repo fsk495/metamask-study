@@ -38,7 +38,7 @@ import Routes from '../../../constants/navigation/Routes';
 import ButtonIcon, {
   ButtonIconSizes,
 } from '../../../component-library/components/Buttons/ButtonIcon';
-import {
+import Icon, {
   IconName,
   IconSize,
   IconColor,
@@ -57,6 +57,9 @@ import { getBlockaidTransactionMetricsParams } from '../../../util/blockaid';
 const trackEvent = (event, params = {}) => {
   MetaMetrics.getInstance().trackEvent(event, params);
 };
+const { HOMEPAGE_URL} = AppConstants;
+const HOMEPAGE_HOST = new URL(HOMEPAGE_URL)?.hostname;
+
 
 const styles = StyleSheet.create({
   metamaskName: {
@@ -136,7 +139,7 @@ const metamask_fox = require('../../../images/fox.png'); // eslint-disable-line
 export function getTransactionsNavbarOptions(
   title,
   themeColors,
-  _,
+  navigation,
   selectedAddress,
   handleRightButtonPress,
 ) {
@@ -156,9 +159,37 @@ export function getTransactionsNavbarOptions(
     },
   });
 
+  const leftActionText = strings('navigation.back');
+
+  const leftAction = () => navigation.pop();
+
   return {
     headerTitle: () => <NavbarTitle title={title} />,
-    headerLeft: null,
+    headerLeft: ()=>{
+      return Device.isAndroid() ? (
+        <TouchableOpacity
+          onPress={leftAction}
+          style={styles.backButton}
+          accessibilityRole="button"
+          accessible
+        >
+          <IonicIcon
+            name={'md-arrow-back'}
+            size={24}
+            style={innerStyles.headerIcon}
+          />
+        </TouchableOpacity>
+      ) : (
+        <TouchableOpacity
+          onPress={leftAction}
+          style={styles.closeButton}
+          accessibilityRole="button"
+          accessible
+        >
+          <Text style={innerStyles.headerButtonText}>{leftActionText}</Text>
+        </TouchableOpacity>
+      );
+    },
     headerRight: () => (
       <AccountRightButton
         selectedAddress={selectedAddress}
@@ -609,21 +640,40 @@ export function getBrowserViewNavbarOptions(
   });
 
   const url = route.params?.url ?? '';
-
+  console.log('route  ',route);
   const handleUrlPress = () => route.params?.showUrlModal?.();
 
   const handleAccountRightButtonPress = (permittedAccounts, currentUrl) => {
     rightButtonAnalyticsEvent(permittedAccounts, currentUrl);
     route.params?.setAccountsPermissionsVisible();
   };
+  const handleReturnLeftButtonPress = () => {
+    console.log("route.params  ", route.params);
+    if (route.params?.icon && route.params?.icon.uri) {
+      route.params.goBack();
+    } else {
+      // 跳转到默认网址
+      route.params?.go(HOMEPAGE_HOST);
+    }
+  };
 
   const connectedAccounts = route.params?.connectedAccounts;
-
+  const isSpecificUrel = url !== 'https://home.novai.finance/';
+  console.log("url  ",url);
   return {
     gestureEnabled: false,
     headerTitleAlign: 'left',
     headerTitle: () => (
       <BrowserUrlBar url={url} route={route} onPress={handleUrlPress} />
+    ),
+    headerLeft: () => isSpecificUrel &&(
+      <TouchableOpacity onPress={handleReturnLeftButtonPress} style={styles.backButton}>
+        <Icon
+          color={themeColors.primary.default}
+          name={IconName.ArrowLeft}
+          size={IconSize.Md}
+        />
+      </TouchableOpacity>
     ),
     headerRight: () => (
       <AccountRightButton

@@ -380,7 +380,6 @@ export class BackgroundBridge extends EventEmitter {
     subscriptionManager.events.on('notification', (message) =>
       engine.emit('notification', message),
     );
-
     // metadata
     engine.push(createOriginMiddleware({ origin }));
     engine.push(createLoggerMiddleware({ origin }));

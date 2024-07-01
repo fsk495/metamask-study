@@ -61,14 +61,14 @@
   },
   "onboarding": {
     "title": "Pag-set up ng wallet",
-    "sync_desc": "Kung nakakuha ka na ng extension ng MetaMask o ng ibang wallet, i-sync o i-import ito para mapamahalaan ang mga kasalukuyan mong asset.",
+    "sync_desc": "Kung nakakuha ka na ng extension ng Novai o ng ibang wallet, i-sync o i-import ito para mapamahalaan ang mga kasalukuyan mong asset.",
     "create_desc": "I-set up ang una mong wallet at simulang i-explore ang mga desentralisadong app.",
     "import": "Mag-import ng kasalukuyang wallet o gumawa ng panibago",
     "import_wallet_button": "Mag-sync o mag-import ng wallet",
     "new_to_crypto": "Bago ka lang ba sa crypto?",
     "start_exploring_now": "Gumawa ng bagong wallet",
     "unlock": "I-unlock",
-    "new_to_metamask": "Bago ka ba sa MetaMask?",
+    "new_to_metamask": "Bago ka ba sa Novai?",
     "already_have_wallet": "May wallet ka na ba?",
     "optin_back_title": "Paalala!",
     "optin_back_desc": "Sumang-ayon o huwag sumang-ayon sa paggamit ng data analytics.  Puwede mo ring i-update ang opsyong ito sa Mga Setting.",
@@ -76,15 +76,15 @@
     "warning_text_1": "Ang iyong kasalukuyang wallet at mga account ay",
     "warning_text_2": "naalis",
     "warning_text_3": "kung magpapatuloy ka.",
-    "warning_text_4": "Mare-recover mo LANG ang mga iyon gamit ang Lihim na Parirala sa Pagbawi ng iyong wallet. Hindi makakatulong sa iyo ang MetaMask na i-recover ito.",
+    "warning_text_4": "Mare-recover mo LANG ang mga iyon gamit ang Lihim na Parirala sa Pagbawi ng iyong wallet. Hindi makakatulong sa iyo ang Novai na i-recover ito.",
     "warning_proceed": "Alisin ang wallet at magpatuloy",
     "warning_cancel": "Kanselahin",
     "step1": "Pag-set up ng wallet",
     "step2": "Gumawa ng password",
     "step3": "I-secure ang wallet",
     "already_have": "May wallet ka na ba?",
-    "sync_existing": "I-sync ang iyong kasalukuyang MetaMask wallet mula sa browser extension o i-import ito nang manu-mano.",
-    "scan_title": "Mga hakbang para i-sync sa extension ng MetaMask",
+    "sync_existing": "I-sync ang iyong kasalukuyang Novai wallet mula sa browser extension o i-import ito nang manu-mano.",
+    "scan_title": "Mga hakbang para i-sync sa extension ng Novai",
     "scan": "I-scan",
     "scan_step_1": "Buksan ang extension sa desktop",
     "scan_step_2": "Pumunta sa Mga Setting  > Advanced",
@@ -113,12 +113,12 @@
     "done": "Tapos na"
   },
   "onboarding_carousel": {
-    "title1": "Welcome sa MetaMask",
+    "title1": "Welcome sa Novai",
     "title2": "Pamahalaan ang iyong mga digital na asset",
     "title3": "Ang iyong gateway sa web3",
-    "subtitle1": "Pinagkakatiwalaan ng milyon-milyon, ang MetaMask ay isang secure na wallet na nagbibigay-daan sa web3 na ma-access ng lahat.",
+    "subtitle1": "Pinagkakatiwalaan ng milyon-milyon, ang Novai ay isang secure na wallet na nagbibigay-daan sa web3 na ma-access ng lahat.",
     "subtitle2": "Mag-store, gumastos at magpadala ng mga digital na asset gaya ng token, ethereum, mga natatanging collectible.",
-    "subtitle3": "Mag-log in sa MetaMask at gumawa ng mga transaksyon para mag-invest, kumita, maglaro, magbenta at higit pa!",
+    "subtitle3": "Mag-log in sa Novai at gumawa ng mga transaksyon para mag-invest, kumita, maglaro, magbenta at higit pa!",
     "get_started": "Magsimula"
   },
   "onboarding_wizard": {
@@ -148,7 +148,7 @@
     "step4": {
       "title": "Pangunahing Menu",
       "content1": "Maa-access mo ang kasaysayan ng Transaksyon, Mga Setting, at Suporta mula sa menu na ito.",
-      "content2": "Maaari kang gumawa ng higit pang aksyon sa iyong mga account at i-access ang mga setting ng MetaMask."
+      "content2": "Maaari kang gumawa ng higit pang aksyon sa iyong mga account at i-access ang mga setting ng Novai."
     },
     "step5": {
       "title": "I-explore ang Browser",
@@ -167,7 +167,7 @@
     },
     "step1": {
       "title": "Welcome sa iyong wallet!",
-      "content1": "Sa blockchain, kailangan mo ng wallet (at maaaring ilang ETH). Kaya tingnan natin kung paano gamitin ang iyong MetaMask wallet."
+      "content1": "Sa blockchain, kailangan mo ng wallet (at maaaring ilang ETH). Kaya tingnan natin kung paano gamitin ang iyong Novai wallet."
     },
     "step2": {
       "title": "Ang iyong mga account",
@@ -199,14 +199,14 @@
     "subtitle": "Hindi ito aabutin nang matagal"
   },
   "import_wallet": {
-    "title": "User ka na ba ng MetaMask?",
+    "title": "User ka na ba ng Novai?",
     "sub_title": "I-sync sa extension",
     "sync_help": "I-sync ang iyong wallet sa extension",
     "sync_help_step_one": "1. Buksan ang extension",
     "sync_help_step_two": "2. Pumunta sa Mga Setting  > Advanced",
     "sync_help_step_three": "3. I-click ang \"I-sync sa Mobile\"",
     "sync_help_step_four": "4. I-scan ang QR Code para simulan ang pag-sync",
-    "sync_from_browser_extension_button": "I-sync sa extension ng MetaMask",
+    "sync_from_browser_extension_button": "I-sync sa extension ng Novai",
     "or": "O KAYA",
     "import_from_seed_button": "I-import gamit ang Lihim na Parirala sa Pagbawi"
   },
@@ -226,13 +226,13 @@
     "this_action": "Hindi maa-undo ang aksyong ito.",
     "you_can_only": "Mare-recover mo LANG ang wallet na ito gamit ang iyong ",
     "recovery_phrase": "Lihim na Parirala sa Pagbawi ",
-    "metamask_does_not": "Hindi hawak ng MetaMask ang iyong Lihim na Parirala sa Pagbawi.",
+    "metamask_does_not": "Hindi hawak ng Novai ang iyong Lihim na Parirala sa Pagbawi.",
     "i_understand": "Nauunawaan ko, magpatuloy",
     "passcode_not_set_error": "Error: Hindi nakatakda ang passcode.",
     "wrong_password_error": "Error: Nabigo ang pag-decrypt",
     "wrong_password_error_android": "Error: error:1e000065:Cipher functions:OPENSSL_internal:BAD_DECRYPT",
     "vault_error": "Error: Hindi ma-unlock nang wala ang nakaraang vault.",
-    "clean_vault_error": "Nagkaroon ng error ang MetaMask dahil sa pag-abot sa limitasyon ng storage. Na-corrupt ang lokal na data. Paki-install ulit ang MetaMask at ibalik gamit ang iyong Lihim na Parirala sa Pagbawi.",
+    "clean_vault_error": "Nagkaroon ng error ang Novai dahil sa pag-abot sa limitasyon ng storage. Na-corrupt ang lokal na data. Paki-install ulit ang Novai at ibalik gamit ang iyong Lihim na Parirala sa Pagbawi.",
     "security_alert_title": "Panseguridad na Alerto",
     "security_alert_desc": "Upang magpatuloy, kailangan mong i-on ang Passcode o anumang paraan ng pag-authenticate ng biometrics na sinusuportahan sa iyong device (FaceID, TouchID o Fingerprint)"
   },
@@ -249,7 +249,7 @@
   },
   "choose_password": {
     "title": "Gumawa ng password",
-    "subtitle": "Maa-unlock ng password na ito ang iyong MetaMask wallet sa device lang na ito.",
+    "subtitle": "Maa-unlock ng password na ito ang iyong Novai wallet sa device lang na ito.",
     "password": "Bagong Password",
     "confirm_password": "Kumpirmahin ang password",
     "create_button": "Gumawa ng password",
@@ -267,7 +267,7 @@
     "remember_me": "Tandaan ako",
     "security_alert_title": "Panseguridad na Alerto",
     "security_alert_message": "Para magpatuloy, kailangan mong i-on ang Passcode o ang anumang paraan ng pag-authenticate ng biometrics na sinusuportahan ng iyong device (FaceID, TouchID o Fingerprint)",
-    "i_understand": "Nauunawaan kong hindi mare-recover ng MetaMask ang password na ito para sa akin.",
+    "i_understand": "Nauunawaan kong hindi mare-recover ng Novai ang password na ito para sa akin.",
     "learn_more": "Matuto pa.",
     "secure": "I-secure ang wallet",
     "confirm": "Kumpirmahin ang Lihim na Parirala sa Pagbawi",
@@ -275,7 +275,7 @@
   },
   "reset_password": {
     "title": "Palitan ang password",
-    "subtitle": "Maa-unlock ng password na ito ang iyong MetaMask wallet sa device lang na ito.",
+    "subtitle": "Maa-unlock ng password na ito ang iyong Novai wallet sa device lang na ito.",
     "password": "Bagong Password",
     "confirm_password": "Kumpirmahin ang password",
     "reset_button": "I-reset ang password",
@@ -293,7 +293,7 @@
     "remember_me": "Tandaan ako",
     "security_alert_title": "Panseguridad na Alerto",
     "security_alert_message": "Para magpatuloy, kailangan mong i-on ang Passcode o ang anumang paraan ng pag-authenticate ng biometrics na sinusuportahan ng iyong device (FaceID, TouchID o Fingerprint)",
-    "i_understand": "Nauunawaan kong hindi mare-recover ng MetaMask ang password na ito para sa akin.",
+    "i_understand": "Nauunawaan kong hindi mare-recover ng Novai ang password na ito para sa akin.",
     "learn_more": "Matuto pa.",
     "secure": "I-secure ang wallet",
     "confirm": "Kumpirmahin ang Lihim na Parirala sa Pagbawi",
@@ -334,7 +334,7 @@
     "view_in_etherscan": "Tingnan sa Etherscan",
     "view_in": "Tingnan sa",
     "browser": "Browser",
-    "settings": "Mga Setting",
+    "settings": "Ang Aking",
     "settings_warning": "Hindi protektado ang wallet",
     "settings_warning_short": "Hindi Protektado",
     "help": "Suporta",
@@ -343,7 +343,7 @@
     "lock_ok": "OO",
     "lock_cancel": "HINDI",
     "feedback": "Feedback",
-    "metamask_support": "Suporta sa MetaMask",
+    "metamask_support": "Suporta sa Novai",
     "public_address": "Pampublikong Address"
   },
   "send": {
@@ -413,7 +413,7 @@
     "no_tokens": "Wala kang anumang token!",
     "no_nfts_yet": "Wala pang mga NFT",
     "nfts_autodetection_title": "Pagtuklas ng NFT",
-    "nfts_autodetection_desc": "Payagan ang MetaMask na awtomatikong matuklasan ang mga NFT mula sa OpenSea at ipakita sa iyong wallet sa MetaMask.",
+    "nfts_autodetection_desc": "Payagan ang Novai na awtomatikong matuklasan ang mga NFT mula sa OpenSea at ipakita sa iyong wallet sa Novai.",
     "network_details_check": "Pagsusuri ng detalye ng network",
     "network_with_chain_id": "Ang network na may ID ng chain",
     "chain_list_returned_different_ticker_symbol": "Ang simbolo ng token na ito ay hindi tugma sa pangalan ng network o chain ID na inilagay. Maraming popular na token ang gumagamit ng magkakatulad ng simbolo, na maaaring gamitin ng mga scammer para lokohin ka na magpadala ka ng mas mahalagang token bilang kapalit. Beripikahin ang lahat bago ka magpatuloy.",
@@ -480,7 +480,8 @@
     "title": "Aktibidad"
   },
   "transactions_view": {
-    "title": "Mga Transaksyon"
+    "title": "Mga Transaksyon",
+    "title_description":"Mga talaan ng transaksyon"
   },
   "add_asset": {
     "title": "Mag-import ng mga token",
@@ -517,8 +518,8 @@
     "privacy_policy_button": "Patakaran sa Pagkapribado",
     "agree": "Sang-ayon ako",
     "decline": "Huwag na lang",
-    "description_title": "Tulungan kaming mapahusay ang MetaMask",
-    "description_content_1": "Nais naming mangalap ng data para sa batayang paggamit upang mapahusay ang MetaMask. Dapat mong malaman na hindi namin ibebenta ang data na iyong ibibigay rito.",
+    "description_title": "Tulungan kaming mapahusay ang Novai",
+    "description_content_1": "Nais naming mangalap ng data para sa batayang paggamit upang mapahusay ang Novai. Dapat mong malaman na hindi namin ibebenta ang data na iyong ibibigay rito.",
     "description_content_2": "Kapag kami ay nangangalap ng metrics, ito ay palaging...",
     "checkbox": "We'll use this data to learn how you interact with our marketing communications. We may share relavent news (like product features).",
     "action_description_1_prefix": "Pribado:",
@@ -530,12 +531,12 @@
     "cta_no_thanks": "Salamat nalang",
     "cta_i_agree": "Sumasang-ayon ako",
     "fine_print_1_legacy": "Ang data na ito ay pinagsama-sama at dahil dito ay wala nang pagkakilanlan para sa layunin ng General Data Protection Regulation (EU) 2016/679.",
-    "fine_print_2a_legacy": "*Kapag ginamit mo ang Infura bilang iyong default na provider ng RPC sa MetaMask, kokolektahin ng Infura ang iyong IP address at ang iyong Ethereum wallet address kapag nagpadala ka ng transaksyon. Hindi namin iniimbak ang impormasyong ito sa paraan na nagpapahintulot sa aming mga system na iugnay ang dalawang piraso ng data na iyon. Maaari mong i-configure ang iyong RPC provider",
-    "fine_print_2b_legacy": "bago magpatuloy.\nPara sa higit pang impormasyon kung paano nakikipag-ugnayan ang MetaMask at Infura mula sa perspektibo ng koleksyon ng data, tingnan ang aming update",
+    "fine_print_2a_legacy": "*Kapag ginamit mo ang Infura bilang iyong default na provider ng RPC sa Novai, kokolektahin ng Infura ang iyong IP address at ang iyong Ethereum wallet address kapag nagpadala ka ng transaksyon. Hindi namin iniimbak ang impormasyong ito sa paraan na nagpapahintulot sa aming mga system na iugnay ang dalawang piraso ng data na iyon. Maaari mong i-configure ang iyong RPC provider",
+    "fine_print_2b_legacy": "bago magpatuloy.\nPara sa higit pang impormasyon kung paano nakikipag-ugnayan ang Novai at Infura mula sa perspektibo ng koleksyon ng data, tingnan ang aming update",
     "fine_print_2c_legacy": ". Para sa higit pang impormasyon sa aming mga kasanayan sa pagkapribado sa pangkalahatan, tingnan ang aming Patakaran sa Pagkapribado",
     "here_legacy": "dito",
-    "description_content_1_legacy": "Nais ng MetaMask na mangalap ng data ng paggamit upang mas maunawaan kung paano nakikipag-ugnayan ang aming mga user sa MetaMask. Gagamitin ang data na ito para sa pagbibigay ng serbisyo, kabilang na ang pagpapabuti ng serbisyo batay sa iyong paggamit.",
-    "description_content_2_legacy": "Ang MetaMask ay...",
+    "description_content_1_legacy": "Nais ng Novai na mangalap ng data ng paggamit upang mas maunawaan kung paano nakikipag-ugnayan ang aming mga user sa Novai. Gagamitin ang data na ito para sa pagbibigay ng serbisyo, kabilang na ang pagpapabuti ng serbisyo batay sa iyong paggamit.",
+    "description_content_2_legacy": "Ang Novai ay...",
     "action_description_1_legacy": "Palagi kang papayagan na mag-opt out sa pamamagitan ng Mga Setting",
     "action_description_2_legacy": "Magpapadala ng mga anonymous na kaganapan sa pag-click at pageview",
     "action_description_3_legacy": "nagkokolekta ng impormasyon na hindi namin kailangan sa pagbibigay ng serbisyo (tulad ng mga key, address, transaction hash, o balanse)",
@@ -639,7 +640,7 @@
     "learn_more": "Matuto pa",
     "advisory_by": "Payo na ibinigay ng Ethereum Phishing Detector at PhishFort",
     "potential_threat": "Kabilang sa potensyal na panganib ay",
-    "fake_metamask": "Pekeng bersyon ng MetaMask",
+    "fake_metamask": "Pekeng bersyon ng Novai",
     "srp_theft": "Pagnanakaw ng password o secret recovery phrase",
     "malicious_transactions": "Mga mapanganib na transaskyon na magreresulta sa ninakaw na pag-aari"
   },
@@ -672,7 +673,7 @@
   },
   "data_collection_modal": {
     "accept": "Okay",
-    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use MetaMask on other devices, make sure to opt out there as well."
+    "content": "You turned off data collection for our marketing purposes. This only applies to this device. If you use Novai on other devices, make sure to opt out there as well."
   },
   "account_selector": {
     "prev": "NAKARAAN",
@@ -685,7 +686,7 @@
     "current_conversion": "Batayang Currency",
     "current_language": "Kasalukuyang Wika",
     "ipfs_gateway": "Gateway na IPFS",
-    "ipfs_gateway_content": "Ang MetaMask ay gumagamit ng mga serbisyo ng third-party para ipakita ang mga imahe sa iyong mga NFT na nakaimbak sa IPFS, nagpapakita ng impormasyong nauugnay sa mga ENS address na ipinakita sa address bar ng iyong browser, at kinukuha ang mga icon para sa iba't ibang token. Ang iyong IP address ay maaaring ipakita sa mga serbisyong ito kapag ginagamit mo ang mga iyon.",
+    "ipfs_gateway_content": "Ang Novai ay gumagamit ng mga serbisyo ng third-party para ipakita ang mga imahe sa iyong mga NFT na nakaimbak sa IPFS, nagpapakita ng impormasyong nauugnay sa mga ENS address na ipinakita sa address bar ng iyong browser, at kinukuha ang mga icon para sa iba't ibang token. Ang iyong IP address ay maaaring ipakita sa mga serbisyong ito kapag ginagamit mo ang mga iyon.",
     "ipfs_gateway_down": "Down ang kasalukuyan mong IPFS gateway",
     "ipfs_gateway_desc": "Pumili ng gusto mong IPFS gateway.",
     "search_engine": "Search Engine",
@@ -694,7 +695,7 @@
     "add_network_title": "Magdagdag ng network",
     "auto_lock": "Awtomatikong i-lock",
     "auto_lock_desc": "Piliin kung gaano katagal bago awtomatikong mala-lock ang application.",
-    "state_logs_desc": "Makakatulong ito sa MetaMask na ma-debug ang anumang isyung kaharapin mo. Pakipadala ito sa suporta sa MetaMask sa pamamagitan ng icon na hamburger > Magpadala ng Feedback, o mag-reply sa kasalukuyan mong ticket kung mayroon.",
+    "state_logs_desc": "Makakatulong ito sa Novai na ma-debug ang anumang isyung kaharapin mo. Pakipadala ito sa suporta sa Novai sa pamamagitan ng icon na hamburger > Magpadala ng Feedback, o mag-reply sa kasalukuyan mong ticket kung mayroon.",
     "autolock_immediately": "Kaagad",
     "autolock_never": "Huwag Kailanman",
     "autolock_after": "Makalipas ang {{time}} (na) segundo",
@@ -728,7 +729,7 @@
     "protect_title": "Protektahan ang iyong wallet",
     "video_failed": "Nabigong Mag-load ang Video.",
     "protect_desc": "Protektahan ang iyong wallet sa pamamagitan ng pag-save ng iyong Lihim na Parirala sa Pagbawi sa iba't ibang lugar gaya sa isang piraso ng papel, password manager at/o sa cloud.",
-    "protect_desc_no_backup": "Ito ang pariralang may 12 salita ng wallet mo. Magagamit ang pariralang ito para makontrol ang lahat ng iyong account sa kasalukuyan at hinaharap, pati na ang kakayahang magpadala ng mga pondo sa iyong wallet. Panatilihing ligtas ang pagkakatago ng pariralang ito, HUWAG itong ibahagi sa kahit sino. Hindi ka matutulungan ng MetaMask na mabawi ang key na ito.",
+    "protect_desc_no_backup": "Ito ang pariralang may 12 salita ng wallet mo. Magagamit ang pariralang ito para makontrol ang lahat ng iyong account sa kasalukuyan at hinaharap, pati na ang kakayahang magpadala ng mga pondo sa iyong wallet. Panatilihing ligtas ang pagkakatago ng pariralang ito, HUWAG itong ibahagi sa kahit sino. Hindi ka matutulungan ng Novai na mabawi ang key na ito.",
     "learn_more": "Matuto pa.",
     "seedphrase_not_backed_up": "Mahalaga! Hindi na-back up ang Lihim na Parirala sa Pagbawi",
     "seedphrase_backed_up": "Na-back up ang Lihim na Parirala sa Pagbawi",
@@ -824,8 +825,8 @@
     "remove_network_title": "Gusto mo bang alisin ang network na ito?",
     "remove_network": "Alisin",
     "cancel_remove_network": "Kanselahin",
-    "info_title": "Tungkol sa MetaMask",
-    "info_title_flask": "Tungkol sa MetaMask Flask",
+    "info_title": "Tungkol sa Novai",
+    "info_title_flask": "Tungkol sa Novai Flask",
     "experimental_title": "Eksperimental",
     "experimental_desc": "WalletConnect at higit pa...",
     "legal_title": "Ligal",
@@ -893,18 +894,18 @@
     "delete_metrics_confirm_modal_title": "Tanggalin ang data ng MetaMetrics?",
     "delete_metrics_confirm_modal_description": "Aalisin na namin ang lahat ng iyong data ng MetaMetrics. Sigurado ka ba?",
     "delete_wallet_data_title": "Tanggalin ang wallet",
-    "delete_wallet_data_description": "Aalisin nito ang lahat ng data na nauugnay sa wallet mula sa iyong device. Ang iyong mga account ay umiiral sa blockchain at hindi nauugnay sa MetaMask. Maaari mong bawiin anumang oras ang iyong mga account gamit ang iyong Lihim na Parirala sa Pagbawi.",
+    "delete_wallet_data_description": "Aalisin nito ang lahat ng data na nauugnay sa wallet mula sa iyong device. Ang iyong mga account ay umiiral sa blockchain at hindi nauugnay sa Novai. Maaari mong bawiin anumang oras ang iyong mga account gamit ang iyong Lihim na Parirala sa Pagbawi.",
     "delete_wallet_data_button": "Tanggalin ang wallet",
     "delete_data_status_title": "Katayuan ng Ginawang Pagtanggal",
     "delete_data_status_description": "Ang kasalukuyang katayuan ay",
     "delete_metrics_error_title": "Hindi namin matanggal ang data na ito sa ngayon.",
     "delete_metrics_error_description": "Hindi makumpleto ang kahilingang ito sa ngayon dahil sa isang isyu sa server ng analytics system, pakisubukang muli mamaya.",
     "ok": "OK",
-    "clear_sdk_connections_title": "I-clear ang lahat ng MetaMask SDK Connection",
+    "clear_sdk_connections_title": "I-clear ang lahat ng Novai SDK Connection",
     "clear_sdk_connections_text": "Iki-clear ang lahat ng koneksyon at ang dapps ay kailangang humiling muli ng koneksyon",
-    "sdk_connections": "MetaMask SDK Connections",
+    "sdk_connections": "Novai SDK Connections",
     "manage_sdk_connections_title": "Pamahalaan ang mga koneksyon",
-    "manage_sdk_connections_text": "Alisin ang mga koneksyon sa mga site at/o MetaMask SDK.",
+    "manage_sdk_connections_text": "Alisin ang mga koneksyon sa mga site at/o Novai SDK.",
     "fiat_on_ramp": {
       "title": "Bumili at Magbenta ng Crypto",
       "description": "Rehiyon at higit pa...",
@@ -927,11 +928,11 @@
     "contact_support": "Makipag-ugnayan sa suporta",
     "display_nft_media": "I-display ang NFT Media",
     "display_nft_media_desc": "Ang pagpapakita ng NFT media at data ay naglalantad sa iyong IP address sa OpenSea o sa ibang mga third party. Ang awtomatikong pagtuklas ng NFT ay nakasalalay sa tampok na ito, at hindi magiging available kapag ito ay naka-off.",
-    "autodetect_nft_desc": "Hayaan ang MetaMask na magdagdag ng mga NFT na iyong pag-aari gamit ang mga third-party na (tulad ng OpenSea). Ang awtomatikong pagtuklas ng mga NFT ay naglalantad sa iyong IP at address ng account sa mga serbisyong ito. Ang pagpapagana sa tampok na ito ay maaaring mag-ugnay sa iyong IP sa iyong Ethereum address at magpakita ng pekeng NFT na in-airdrop ng mga manloloko. Maaari kang magdagdag ng token sa manwal na paraan para iwasan ang panganib na ito.",
+    "autodetect_nft_desc": "Hayaan ang Novai na magdagdag ng mga NFT na iyong pag-aari gamit ang mga third-party na (tulad ng OpenSea). Ang awtomatikong pagtuklas ng mga NFT ay naglalantad sa iyong IP at address ng account sa mga serbisyong ito. Ang pagpapagana sa tampok na ito ay maaaring mag-ugnay sa iyong IP sa iyong Ethereum address at magpakita ng pekeng NFT na in-airdrop ng mga manloloko. Maaari kang magdagdag ng token sa manwal na paraan para iwasan ang panganib na ito.",
     "incoming_transactions_title": "Ipakita ang mga papasok na transaksyon",
     "incoming_transactions_content": "Umaasa ito sa network na iyong pinili na maglalantad sa iyong Ethereum address at IP address.",
     "display_nft_media_desc_new": "Ang pag-display ng NFT media at datos ay naglalantad sa iyong IP address sa OpenSeas o iba pang third party. Ang auto-detection ng NFT ay nakaasa sa tampok na ito, at hindi ito available kapag naka-off. Kung ang NFT media ay lubos na matatagpuan sa IPFS, maaari pa ring itong i-display kapag ang tampok na ito ay naka-off.",
-    "use_safe_chains_list_validation_desc_1": "Ang MetaMask ay gumagamit ng isang third-party na serbisyo na tinatawag na ",
+    "use_safe_chains_list_validation_desc_1": "Ang Novai ay gumagamit ng isang third-party na serbisyo na tinatawag na ",
     "use_safe_chains_list_validation_desc_2": "para magpakita ng tumpak at naka-standardized na detalye ng network. Binabawasan nito ang iyong tiyansa sa pagkonekta sa malisiyoso o malitang network. Kapag ginagamit ang tampok na ito, ang iyong IP address ay nakalantad sa  ",
     "snaps": {
       "title": "Mga Snap",
@@ -1002,7 +1003,7 @@
     "manage_connections": "Pamahalaan ang mga Koneksyon",
     "manage": "Pamahalaan",
     "cancel": "Kanselahin",
-    "loading": "Kumokonekta sa MetaMask...",
+    "loading": "Kumokonekta sa Novai...",
     "unkown_dapp": "Hindi available ang pangalan ng DAPP",
     "no_connections": "Walang mga koneksyon",
     "no_connections_desc": "Kapag ikinonekta mo ang isang account sa isang site o app, makikita mo ito dito."
@@ -1027,7 +1028,7 @@
   "sdk_feedback_modal": {
     "ok": "OK",
     "title": "Hindi makakonekta ang account",
-    "info": "Mangyaring i-scan ang QR code sa dApp upang muling kumonekta sa MetaMask"
+    "info": "Mangyaring i-scan ang QR code sa dApp upang muling kumonekta sa Novai"
   },
   "app_information": {
     "title": "Impormasyon",
@@ -1052,7 +1053,7 @@
       "Lihim na Parirala sa Pagbawi (Secret Recovery Phrase o SRP)",
       " ay nagbibigay ng ",
       "ganap na access sa iyong wallet, mga pondo at mga account.\n\n",
-      "Ang MetaMask ay isang",
+      "Ang Novai ay isang",
       "non-custodial na wallet.",
       "Ibig sabihin,",
       "ikaw ang may ari ng SRP mo."
@@ -1061,14 +1062,14 @@
     "private_key_warning": "Ito ang pribadong key para sa kasalukuyang napiling account: {{accountName}}. Huwag ipaalam ang key na ito. Ang sinumang nakakaalam ng iyong pribadong key ay ganap na makokontrol ang iyong account, pati na ang paglilipat ng alinman sa iyong mga pondo.",
     "seed_phrase_warning_explanation": [
       "Tiyaking walang tumitingin sa iyong screen. ",
-      "Hindi ito kailanman hihilingin ng Suporta sa MetaMask."
+      "Hindi ito kailanman hihilingin ng Suporta sa Novai."
     ],
     "private_key_warning_explanation": "Huwag ipaalam ang key na ito. Ang sinumang nakakaalam ng iyong pribadong key ay ganap na makokontrol ang iyong account, pati na ang paglilipat ng alinman sa iyong mga pondo.",
     "reveal_credential_modal": [
       "Ang iyong {{credentialName}} ay nagbibigay ng ",
       "buong access sa iyong account at pondo.\n\nHuwag ibahagi ito sa iba.\n",
       "buong access sa iyong wallet at pondo.\n\nHuwag ibahagi ito sa iba.\n",
-      "Hindi ito hihilingin ng Suporta sa MetaMask, ",
+      "Hindi ito hihilingin ng Suporta sa Novai, ",
       "pero pwedeng hingiin ng mga manloloko."
     ],
     "seed_phrase": "Ang Iyong Lihim na Parirala sa Pagbawi",
@@ -1104,7 +1105,7 @@
   },
   "password_reset": {
     "password_title": "Password",
-    "password_desc": "Pumili ng mahirap hulaang password para ma-unlock ang MetaMask app sa iyong device. Kung makakalimutan mo ang password na ito, kakailanganin mo ang iyong Lihim na Parirala sa Pagbawi para ma-import ulit ang iyong wallet.",
+    "password_desc": "Pumili ng mahirap hulaang password para ma-unlock ang Novai app sa iyong device. Kung makakalimutan mo ang password na ito, kakailanganin mo ang iyong Lihim na Parirala sa Pagbawi para ma-import ulit ang iyong wallet.",
     "password_learn_more": "Matuto pa.",
     "change_password": "Palitan ang password"
   },
@@ -1162,7 +1163,7 @@
       "show_less": "Magpakita ng mas kaunti"
     },
     "activity": "Aktibidad ng {{symbol}}",
-    "disclaimer": "Ang market data ay ibinibigay ng isa o higit pang third-party na pinagmulan ng data, kabilang ang CoinGecko. Ang nasabing third-party na nilalaman ay ibinibigay lamang para sa mga layuning pang-impormasyon at hindi dapat ituring bilang payo na bumili, magbenta, o gumamit ng anumang partikular na asset. Hindi iminumungkahi ng MetaMask ang paggamit ng nilalamang ito para sa anumang partikular na layunin at hindi mananagot para sa katumpakan nito."
+    "disclaimer": "Ang market data ay ibinibigay ng isa o higit pang third-party na pinagmulan ng data, kabilang ang CoinGecko. Ang nasabing third-party na nilalaman ay ibinibigay lamang para sa mga layuning pang-impormasyon at hindi dapat ituring bilang payo na bumili, magbenta, o gumamit ng anumang partikular na asset. Hindi iminumungkahi ng Novai ang paggamit ng nilalamang ito para sa anumang partikular na layunin at hindi mananagot para sa katumpakan nito."
   },
   "account_details": {
     "title": "Mga Detalye ng Account",
@@ -1205,7 +1206,7 @@
     "cancel": "Kanselahin",
     "error": "Error",
     "attempting_to_scan_with_wallet_locked": "Mukhang sinusubukan mong mag-scan ng QR code, kailangan mong i-unlock ang iyong wallet para magamit ito.",
-    "attempting_sync_from_wallet_error": "Mukhang sinusubukan mong mag-sync sa extension. Para magawa ito, kakailanganin mong burahin ang iyong kasalukuyang wallet. \n\nSa oras na magbura o mag-install ka ng bagong bersyon ng app, piliin ang opsyong \"I-sync gamit ang MetaMask Extension\". Mahalaga! Bago burahin ang iyong wallet, tiyaking na-back up mo ang iyong Lihim na Parirala sa Pagbawi.",
+    "attempting_sync_from_wallet_error": "Mukhang sinusubukan mong mag-sync sa extension. Para magawa ito, kakailanganin mong burahin ang iyong kasalukuyang wallet. \n\nSa oras na magbura o mag-install ka ng bagong bersyon ng app, piliin ang opsyong \"I-sync gamit ang Novai Extension\". Mahalaga! Bago burahin ang iyong wallet, tiyaking na-back up mo ang iyong Lihim na Parirala sa Pagbawi.",
     "not_allowed_error_title": "Paganahin ang access sa camera",
     "not_allowed_error_desc": "Kailangan ng access sa camera para mag-scan ng QR code na nauugnay sa isang address ng account o address ng kontrata",
     "unrecognized_address_qr_code_title": "Hindi nakikilalang QR Code",
@@ -1320,7 +1321,7 @@
     "gas_education_1": "Binabayaran ang mga bayad sa gas sa mga minero ng crypto na nagpoproseso ng mga transaksyon sa ",
     "gas_education_2_ethereum": "Network ng Ethereum.",
     "gas_education_2": "network.",
-    "gas_education_3": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas.",
+    "gas_education_3": "Hindi kumikita ang Novai mula sa mga bayad sa gas.",
     "gas_education_4": "Nagbabago-bago ang mga gas fee batay sa trapiko sa network at pagkakumplikado ng transaksyon.",
     "gas_education_learn_more": "Matuto pa tungkol sa mga bayad sa gas",
     "confusable_title": "Tingnan ang address ng tatanggap",
@@ -1335,7 +1336,7 @@
     "invalid_qr_code_sync": "Di-wastong QR code. Paki-scan ang sync QR code ng wallet na hardware.",
     "no_camera_permission": "Hindi awtorisado ang kamera. Mangyaring magbigay ng pahintulot at subukang muli",
     "invalid_qr_code_sign": "Di-wastong QR-code. Mangyaring suriin ang iyong hardware at subukang muli.",
-    "no_camera_permission_android": "Kailangan mong bigyan ng access ang MetaMask sa iyong kamera upang magpatuloy. Maaaring kailanganin mo ring baguhin ang iyong mga setting ng sistema.",
+    "no_camera_permission_android": "Kailangan mong bigyan ng access ang Novai sa iyong kamera upang magpatuloy. Maaaring kailanganin mo ring baguhin ang iyong mga setting ng sistema.",
     "mismatched_qr_request_id": "Hindi tugmang data ng transaksyon. Mangyaring gamitin ang iyong Keystone para lagdaan ang QR code sa ibaba at i-tap ang 'Kumuha ng Lagda'.",
     "fiat_conversion_not_available": "Hindi available ang mga palitan ng Fiat sa ngayon",
     "hex_data_copied": "Nakopya ang hex na data sa clipboard",
@@ -1353,7 +1354,7 @@
     "save": "I-save",
     "warning_gas_limit": "Ang limitasyon ng gas ay dapat na higit sa 20999",
     "warning_gas_limit_estimated": "Ang tinantyang limitasyon ng gas ay {{gas}}, gamitin ito bilang pinakamababang halaga",
-    "cost_explanation": "Kasama sa bayad sa gas ang gastusin sa pagproseso ng iyong transaksyon sa Ethereum network. Hindi kumikita ang MetaMask mula sa bayad na ito. Kapag mas malaki ang bayad, mas malaki ang tsansa na maproseso ang iyong transaksyon."
+    "cost_explanation": "Kasama sa bayad sa gas ang gastusin sa pagproseso ng iyong transaksyon sa Ethereum network. Hindi kumikita ang Novai mula sa bayad na ito. Kapag mas malaki ang bayad, mas malaki ang tsansa na maproseso ang iyong transaksyon."
   },
   "spend_limit_edition": {
     "save": "I-save",
@@ -1405,7 +1406,7 @@
     "approve_asset": "Aprubahan ang asset:"
   },
   "browser": {
-    "title": "Browser",
+    "title": "Finna",
     "reload": "I-reload",
     "share": "Ibahagi",
     "bookmark": "Bookmark",
@@ -1420,7 +1421,7 @@
     "change_url": "Baguhin ang URL",
     "switch_network": "Lumipat ng network",
     "dapp_browser": "DAPP BROWSER",
-    "dapp_browser_message": "Ang MetaMask ay ang iyong wallet at browser para sa desentralisadong web. Mag-explore!",
+    "dapp_browser_message": "Ang Novai ay ang iyong wallet at browser para sa desentralisadong web. Mag-explore!",
     "featured_dapps": "ITINATAMPOK NA DAPPS",
     "my_favorites": "MGA PABORITO KO",
     "search": "Maghanap o mag-type ng URL",
@@ -1542,7 +1543,7 @@
     "status_cancelled_header": "Nakansela ang transaksyon mo",
     "status_cancelled_description": "Hindi nakumpleto ang transaksyon mo, kaya kinansela ito para maiwasan mo ang pagbabayad ng mga hindi kinakailangang gas fee.",
     "status_failed_header": "Nabigo ang transaksyon mo",
-    "status_failed_description": "Maaaring magdulot ng pagkabigo ang biglaang pagbabago sa merkado. Kung magpatuloy ang problema, makipag-ugnayan sa customer support ng MetaMask.",
+    "status_failed_description": "Maaaring magdulot ng pagkabigo ang biglaang pagbabago sa merkado. Kung magpatuloy ang problema, makipag-ugnayan sa customer support ng Novai.",
     "view_transaction": "Tingnan ang transaksyon",
     "view_activity": "Tingnan ang aktibidad",
     "return_to_dapp": "Bumalik sa {{dappName}}",
@@ -1594,8 +1595,8 @@
     "status_not_ok": "Nagkakaroon ng ilang isyu ang network",
     "want_to_add_network": "Gusto mo bang idagdag ang network na ito?",
     "add_custom_network": "Magdagdag ng custom na network",
-    "network_infomation": "Binibigyang-daan nito ang network na ito na magamit sa loob ng MetaMask",
-    "network_endorsement": "Hindi ineendorso ng MetaMask ang mga custom na network o ang seguridad ng mga ito.",
+    "network_infomation": "Binibigyang-daan nito ang network na ito na magamit sa loob ng Novai",
+    "network_endorsement": "Hindi ineendorso ng Novai ang mga custom na network o ang seguridad ng mga ito.",
     "learn_about": "Alamin ang tungkol sa",
     "network_risk": "mga panloloko at panganib ng seguridad ng network",
     "network_display_name": "Ipinapakitang pangalan",
@@ -1633,7 +1634,7 @@
     "show_test_networks": "Ipakita ang mga test network",
     "deprecated_goerli": "Dahil sa mga pagbabago sa protocol ng Ethereum: Ang Goerli test network ay maaaring hindi gumana tulad ng inaasahan at malapit nang ihinto ang paggamit.",
     "network_deprecated_title": "Ang network na ito ay hindi na suportado",
-    "network_deprecated_description": "Ang network na sinusubukan mong ikonekta ay hindi na suportado ng Metamask."
+    "network_deprecated_description": "Ang network na sinusubukan mong ikonekta ay hindi na suportado ng Novai."
   },
   "select": {
     "cancel": "Kanselahin",
@@ -1687,9 +1688,9 @@
   },
   "authentication": {
     "auth_prompt_title": "Kinakailangan ang pag-authenticate",
-    "auth_prompt_desc": "Mag-authenticate para magamit ang MetaMask",
+    "auth_prompt_desc": "Mag-authenticate para magamit ang Novai",
     "fingerprint_prompt_title": "Kinakailangan ang pag-authenticate",
-    "fingerprint_prompt_desc": "Gamitin ang iyong fingerprint para i-unlock ang MetaMask",
+    "fingerprint_prompt_desc": "Gamitin ang iyong fingerprint para i-unlock ang Novai",
     "fingerprint_prompt_cancel": "Kanselahin"
   },
   "accountApproval": {
@@ -1711,7 +1712,7 @@
   },
   "import_private_key": {
     "title": "Mag-import ng Account",
-    "description_one": "Ang mga na-import na account ay makikita sa iyong wallet pero hindi mababawi gamit ang iyong Lihim na Parirala sa Pagbawi sa MetaMask.",
+    "description_one": "Ang mga na-import na account ay makikita sa iyong wallet pero hindi mababawi gamit ang iyong Lihim na Parirala sa Pagbawi sa Novai.",
     "learn_more_here": "Matuto pa tungkol sa mga na-import na account dito.",
     "subtitle": "I-paste ang string ng iyong pribadong key",
     "cta_text": "I-IMPORT",
@@ -1723,7 +1724,7 @@
   },
   "import_private_key_success": {
     "title": "Matagumpay na na-import ang account!",
-    "description_one": "Makikita mo na ngayon ang iyong account sa MetaMask."
+    "description_one": "Makikita mo na ngayon ang iyong account sa Novai."
   },
   "first_incoming_transaction": {
     "title": "Nagdeposito ng {{asset}} sa iyong account",
@@ -1738,7 +1739,7 @@
     "step_1_description": "Gumawa ng password",
     "step_2": "Hakbang 2:",
     "step_2_description": "I-save ang Lihim na Parirala sa Pagbawi ng wallet",
-    "info_text_1": "Maglaan nang ilang sandali para tapusin ang pag-set up ng iyong MetaMask wallet.",
+    "info_text_1": "Maglaan nang ilang sandali para tapusin ang pag-set up ng iyong Novai wallet.",
     "info_text_2": "Matitiyak nitong ikaw lang ang makaka-access sa iyong mga pondo at na mare-recover mo ang iyong wallet kung maiwawala mo ang iyong device",
     "cta_text": "Gumawa ng Password",
     "creating_password": "Gumagawa ng password..."
@@ -1760,7 +1761,7 @@
     "what_is_seedphrase_title": "Ano ang 'Lihim na Parirala sa Pagbawi'",
     "what_is_seedphrase_text_1": "Ang Lihim na Parirala sa Pagbawi ay isang set ng labindalawang salita na naglalaman ng lahat ng impormasyon tungkol sa iyong wallet, kasama ang iyong mga pondo. Para itong lihim na code na ginagamit para ma-access ang iyong buong wallet.",
     "what_is_seedphrase_text_2": "Dapat mong panatilihing lihim at ligtas ang iyong Lihim na Parirala sa Pagbawi. Kung may makakakuha ng iyong Lihim na Parirala sa Pagbawi, makokontrol nila ang iyong mga account.",
-    "what_is_seedphrase_text_3": "I-save ito sa isang lugar na ikaw lang ang makaka-access. Kung maiwawala mo ito, hindi ka matutulungan ng MetaMask na ma-recover ito."
+    "what_is_seedphrase_text_3": "I-save ito sa isang lugar na ikaw lang ang makaka-access. Kung maiwawala mo ito, hindi ka matutulungan ng Novai na ma-recover ito."
   },
   "account_backup_step_1B": {
     "title": "I-secure ang iyong wallet",
@@ -1833,7 +1834,7 @@
   },
   "account_backup_step_6": {
     "title": "Mga Panseguridad na Tip",
-    "info_text": "Hindi mare-recover ng MetaMask ang iyong Lihim na Parirala sa Pagbawi sakaling maiwala mo ito",
+    "info_text": "Hindi mare-recover ng Novai ang iyong Lihim na Parirala sa Pagbawi sakaling maiwala mo ito",
     "tip_1": "Magtabi ng maraming backup ng iyong Lihim na Parirala sa Pagbawi",
     "tip_2": "Itabi ang phrase sa pinagkakatiwalaang password manager at papel na backup sa isang ligtas na lugar",
     "tip_3": "Huwag ibahagi ang phrase na ito sa sinuman",
@@ -1873,7 +1874,7 @@
     "congratulations": "Pagbati",
     "success": "Matagumpay mong naprotektahan ang iyong wallet. Tiyaking panatilihing ligtas ang iyong Lihim na Parirala sa Pagbawi, responsibilidad mo ito!",
     "hint": "Mag-iwan ng hint para sa sarili mo?",
-    "recover": "Hindi mare-recover ng MetaMask ang iyong wallet sakaling maiwala mo ito. Makikita mo ang iyong Lihim na Parirala sa Pagbawi sa Mga Setting > Seguridad at Pagkapribado.",
+    "recover": "Hindi mare-recover ng Novai ang iyong wallet sakaling maiwala mo ito. Makikita mo ang iyong Lihim na Parirala sa Pagbawi sa Mga Setting > Seguridad at Pagkapribado.",
     "learn": "Matuto pa",
     "done": "Tapos na",
     "recovery_hint": "Hint sa pag-recovery",
@@ -1886,7 +1887,7 @@
   "phishing": {
     "ethereum_phishing_detection": "Pag-detect ng Phishing ng Ethereum",
     "ethereum_phishing_detector": "Pang-detect ng Phishing ng Ethereum",
-    "intro": " ay kasalukuyang nasa listahan ng babala sa domain ng MetaMask. Ibig sabihin nito ay batay sa impormasyong available sa amin, naniniwala ang MetaMask na maaaring makompromiso ng domain na ito ang iyong seguridad at, bilang dagdag na feature ng seguridad, pinaghigpitan ng MetaMask ang pag-access sa site. Para ma-override ito, pakibasa ang natitirang bahagi ng babala para sa mga instruction kung paano magpapatuloy.",
+    "intro": " ay kasalukuyang nasa listahan ng babala sa domain ng Novai. Ibig sabihin nito ay batay sa impormasyong available sa amin, naniniwala ang Novai na maaaring makompromiso ng domain na ito ang iyong seguridad at, bilang dagdag na feature ng seguridad, pinaghigpitan ng Novai ang pag-access sa site. Para ma-override ito, pakibasa ang natitirang bahagi ng babala para sa mga instruction kung paano magpapatuloy.",
     "reasons": "Maraming dahilan kung paano maaaring lumabas ang mga site sa aming listahan ng babala, at ang listahan namin ay pinagsama-sama mula sa iba pang ginagamit na listahan sa industriya. Maaaring kasama sa mga nasabing dahilan ang mga kilalang panganib sa panloloko o seguridad, gaya ng mga domain na nagpositibo sa ",
     "list_content": "Maaaring kasama sa mga domain sa mga listahan ng babala na ito ang mga nakakahamak na website at lehitimong website na nakompromiso ng isang nakakahamak na actor.",
     "to_read_more": "Para magbasa ng higit pang impormasyon tungkol sa site na ito ",
@@ -1938,7 +1939,7 @@
     "received_message": "Mag-tap para tingnan ang transaksyong ito",
     "received_payment_message": "Nakatanggap ka ng {{amount}} DAI",
     "prompt_title": "Paganahin ang Mga Push Notification",
-    "prompt_desc": "Paganahin ang mga notification para maipaalam sa iyo ng MetaMask kapag nakatanggap ka ng ETH o kapag nakumpirma na ang iyong mga transaksyon.",
+    "prompt_desc": "Paganahin ang mga notification para maipaalam sa iyo ng Novai kapag nakatanggap ka ng ETH o kapag nakumpirma na ang iyong mga transaksyon.",
     "prompt_ok": "Oo",
     "prompt_cancel": "Huwag na lang",
     "wc_connected_title": "Nakakonekta sa {{title}}",
@@ -1966,7 +1967,7 @@
     "activation_card": {
       "title": "I-on ang mga notipikasyon",
       "description_1": "Manatiling may-alam sa nangyayari sa iyong wallet gamit ang mga notipikasyon. ",
-      "description_2": "Para gamitin ang tampok na ito, kami ay gagawa ng isang hindi kilalang ID para sa iyong account. Ginagamit lang ito para sa pag-sync ng data sa MetaMask at hindi inuugnay ang iyong mga aktibidad o iba pang mga pagkakakilanlan, tinitiyak ang iyong pagkapribado.",
+      "description_2": "Para gamitin ang tampok na ito, kami ay gagawa ng isang hindi kilalang ID para sa iyong account. Ginagamit lang ito para sa pag-sync ng data sa Novai at hindi inuugnay ang iyong mga aktibidad o iba pang mga pagkakakilanlan, tinitiyak ang iyong pagkapribado.",
       "learn_more": "Matutunan kung paano namin protektahan ang iyong pagkapribado habang gamit ang tampok na ito. ",
       "manage_preferences_1": "Maaari mong i-off ang mga notipikasypon anumang oras sa ",
       "manage_preferences_2": "Mga Setting > Mga notipikasyon.",
@@ -2124,7 +2125,7 @@
     "wyre_minimum_deposit": "Ang pinakamababang deposito ay {{amount}}",
     "wyre_maximum_deposit": "Ang pinakamataas na deposito ay {{amount}}",
     "apple_pay_purchase": "{{currency}} na Pagbili",
-    "apple_pay_provider_total_label": "{{provider}} (gamit ang MetaMask)",
+    "apple_pay_provider_total_label": "{{provider}} (gamit ang Novai)",
     "buy_with": "Bumili gamit ang",
     "plus_fee": "At dagdag na bayarin na {{fee}}",
     "date": "Petsa",
@@ -2143,12 +2144,12 @@
         "average_gas_fee": "Kasalukuyang average na bayad sa gas:",
         "subtitle_1": "Kung plano mong i-swap o ilipat ang iyong {{ticker}}, bumili ng dagdag para mabayaran ang mga bayad sa gas.",
         "subtitle_2": "Ang mga bayad sa gas para sa mga transaksyon ay hiwalay sa gastusin sa pagbili ng {{ticker}}.",
-        "subtitle_3": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas."
+        "subtitle_3": "Hindi kumikita ang Novai mula sa mga bayad sa gas."
       },
       "step_2": {
         "title": "Ano ang mga bayad sa gas?",
         "subtitle_1": "Pinapatakbo ng gas ang mga transaksyon sa Ethereum network. Isa itong bayarin na binabayaran sa {{ticker}} sa mga minero ng crypto na nagpoproseso sa iyong mga transaksyon.",
-        "subtitle_2": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas.",
+        "subtitle_2": "Hindi kumikita ang Novai mula sa mga bayad sa gas.",
         "learn_more": "Matuto pa tungkol sa mga bayad sa gas"
       },
       "step_3": {
@@ -2188,7 +2189,7 @@
     "onboarding": {
       "what_to_expect": "Ano ang Aasahan",
       "quotes": "Pinagsasama-sama ng aming tampok sa pagbili ng crypto ang mga quote mula sa mga pinagsama-samang vendor, na nagbibigay sa iyo ng pinakamahusay na quote mula sa mga pinagmulan na iyon para direktang maipasok mo ang crypto sa iyong wallet nang walang panahon ng paghihintay.",
-      "quotes_sell": "Ngayon, makakapag-cash out ka na nang direkta sa MetaMask! Makakuha ng mga pinakabagong quote mula sa mga mapagkakatiwalaang provider habang ginagabayan ka namin sa kabuuan ng proseso.",
+      "quotes_sell": "Ngayon, makakapag-cash out ka na nang direkta sa Novai! Makakuha ng mga pinakabagong quote mula sa mga mapagkakatiwalaang provider habang ginagabayan ka namin sa kabuuan ng proseso.",
       "benefits": "Mas mababa ang gas fee, at mas maraming network, token at paraan ng pagbabayad na sinusuportahan",
       "benefits_sell": "Ang pag-off-ramp mula sa crypto papunta sa iyong lokal na currency ay mas madali na kaysa dati.",
       "get_started": "Magsimula"
@@ -2372,13 +2373,13 @@
       "best_swap": "pinakasulit na swap",
       "across": "sa lahat ng...",
       "want_to_learn_more": "Gusto mo bang matuto pa?",
-      "learn_more": "Matuto pa tungkol sa MetaMask Swaps",
+      "learn_more": "Matuto pa tungkol sa Novai Swaps",
       "what_are": "Ano ang mga token swap?",
       "review_audits": "Suriin ang aming audit ng mga opisyal na kontrata",
       "start_swapping": "Simulang mag-swap"
     },
     "feature_off_title": "Pansamantalang hindi available",
-    "feature_off_body": "Kasalukuyang minementina ang MetaMask Swaps. Bumalik sa ibang pagkakataon.",
+    "feature_off_body": "Kasalukuyang minementina ang Novai Swaps. Bumalik sa ibang pagkakataon.",
     "wrong_network_title": "Hindi available ang mga swap",
     "wrong_network_body": "Makakapag-swap ka lang ng mga token sa Ethereum Main Network.",
     "unallowed_asset_title": "Hindi masa-swap ang token na ito",
@@ -2456,16 +2457,16 @@
     "estimated_gas_fee": "Tinantyang bayad sa gas",
     "max_gas_fee": "Pinakamataas na bayad sa gas",
     "edit": "I-edit",
-    "quotes_include_fee": "Kasama sa quote ang {{fee}}% na bayarin sa MetaMask",
+    "quotes_include_fee": "Kasama sa quote ang {{fee}}% na bayarin sa Novai",
     "tap_to_swap": "I-tap para I-swap",
     "swipe_to_swap": "I-swipe para i-swap",
     "swipe_to": "I-swipe para",
     "swap": "i-swap",
     "completed_swap": "I-swap!",
-    "metamask_swap_fee": "Bayad sa Pag-swap sa MetaMask",
+    "metamask_swap_fee": "Bayad sa Pag-swap sa Novai",
     "fee_text": {
-      "fee_is_applied": "Ang bayad na {{fee}} ay awtomatikong isinasali sa quote na ito. Babayaran mo ito bilang kapalit ng isang lisensya para gamitin ang software ng pagsasama-sama ng impormasyon ng tagapagbigay ng liquidity ng MetaMask.",
-      "fee_is_not_applied": "Hindi nagsasama ang MetaMask ng karagdagang singil sa quote na ito."
+      "fee_is_applied": "Ang bayad na {{fee}} ay awtomatikong isinasali sa quote na ito. Babayaran mo ito bilang kapalit ng isang lisensya para gamitin ang software ng pagsasama-sama ng impormasyon ng tagapagbigay ng liquidity ng Novai.",
+      "fee_is_not_applied": "Hindi nagsasama ang Novai ng karagdagang singil sa quote na ito."
     },
     "enable": {
       "this_will": "Magagawa nitong",
@@ -2530,7 +2531,7 @@
     "gas_education_1": "Binabayaran ang mga bayad sa gas sa mga minero ng crypto na nagpoproseso ng mga transaksyon sa ",
     "gas_education_2_ethereum": "Network ng Ethereum.",
     "gas_education_2": "network.",
-    "gas_education_3": "Hindi kumikita ang MetaMask mula sa mga bayad sa gas.",
+    "gas_education_3": "Hindi kumikita ang Novai mula sa mga bayad sa gas.",
     "gas_education_4": "Ang",
     "gas_education_5": "“Tinantyang bayad sa gas”",
     "gas_education_6": "ay ang inaasahan naming magiging aktuwal na bayarin. Ang eksaktong halaga ay nakadepende sa mga kundisyon ng network.",
@@ -2571,14 +2572,14 @@
     "title": "Ano'ng bago",
     "blockaid": {
       "title": "Manatiling ligtas gamit ang mga alerto sa seguridad",
-      "description_1": "Manatiling ligtas sa mga scam habang patuloy na pinoprotektahan ang iyong pagkapribado sa pamamagitan ng mga alerto sa seguridad na pinatatakbo ng Blockaid. Ang tampok na ito ay naka-on nang default para sa lahat ng user ng MetaMask.",
+      "description_1": "Manatiling ligtas sa mga scam habang patuloy na pinoprotektahan ang iyong pagkapribado sa pamamagitan ng mga alerto sa seguridad na pinatatakbo ng Blockaid. Ang tampok na ito ay naka-on nang default para sa lahat ng user ng Novai.",
       "description_2": "Palaging gumawa ng sarili mong pagsusuri bago aprubahan ang mga kahilingan.",
       "description_3": "Available sa Arbitrum, Avalanche, BNB chain, Ethereum Mainnet, Linea, Optimism, Polygon, Sepolia at Base.",
       "got_it": "Nakuha ko"
     },
     "sell": {
       "title": "Pinadali ang pag-cash out",
-      "description": "Ibenta ang iyong crypto nang direkta sa MetaMask! Tutulungan ka naming maghanap ng mga quote mula sa mga mapagkakatiwalaang provider, nang sa gayon ay maibenta mo ang iyong crypto sa isang accessible, mabilis, at secure na paraan, sa bawat pagkakataon.",
+      "description": "Ibenta ang iyong crypto nang direkta sa Novai! Tutulungan ka naming maghanap ng mga quote mula sa mga mapagkakatiwalaang provider, nang sa gayon ay maibenta mo ang iyong crypto sa isang accessible, mabilis, at secure na paraan, sa bawat pagkakataon.",
       "action_text": "Subukan ito"
     },
     "stx": {
@@ -2606,15 +2607,15 @@
   "switch_custom_network": {
     "title_existing_network": "Gusto ng site na ito na lumipat ng network",
     "title_new_network": "Nagdagdag ng bagong network",
-    "switch_warning": "Ililipat nito ang napiling network sa loob ng MetaMask sa dating idinagdag na network:",
+    "switch_warning": "Ililipat nito ang napiling network sa loob ng Novai sa dating idinagdag na network:",
     "available": "ay available na ngayon sa network selector.",
     "cancel": "Kanselahin",
     "switch": "Lumipat ng Network"
   },
   "add_custom_network": {
     "title": "Payagan ang site na ito na magdagdag ng network?",
-    "warning": "Binibigyang-daan nito na magamit ang network sa MetaMask.",
-    "warning_subtext_1": "Hindi vine-verify ng MetaMask ang mga custom na network o ang seguridad ng mga ito.",
+    "warning": "Binibigyang-daan nito na magamit ang network sa Novai.",
+    "warning_subtext_1": "Hindi vine-verify ng Novai ang mga custom na network o ang seguridad ng mga ito.",
     "warning_subtext_2": "Alamin ang tungkol sa",
     "warning_subtext_3": "mga panloloko at panganib ng seguridad ng network",
     "display_name": "Ipinapakitang pangalan",
@@ -2630,7 +2631,7 @@
     "alert_recommend": "Inirerekomenda namin sa iyo na",
     "alert_verify": "i-verify ang ID ng chain",
     "warning_subtext_new": {
-      "1": "Ang MetaMask ay hindi nagbeberipika ng mga custom network, kaya aprubahan lamang ang mga network na pinagkakatiwalaan mo.",
+      "1": "Ang Novai ay hindi nagbeberipika ng mga custom network, kaya aprubahan lamang ang mga network na pinagkakatiwalaan mo.",
       "2": "Matuto pa tungkol sa panganib sa seguridad sa network at mga scam."
     },
     "invalid_rpc_url": "Ang URL ng network na ito ay hindi tumutugma sa kilalang provider para sa chain ID na ito.",
@@ -2705,7 +2706,7 @@
     "estimated_gas_fee_tooltip_text_1": "Ang mga bayad sa gas ay binabayaran sa mga minero ng crypto na nagpoproseso ng mga transaksyon sa",
     "estimated_gas_fee_tooltip_text_2": " Ethereum",
     "estimated_gas_fee_tooltip_text_3": " network.",
-    "estimated_gas_fee_tooltip_text_4": "Ang MetaMask ay hindi kumikita mula sa mga bayad sa gas.",
+    "estimated_gas_fee_tooltip_text_4": "Ang Novai ay hindi kumikita mula sa mga bayad sa gas.",
     "estimated_gas_fee_tooltip_text_5": "Ang mga bayad sa gas ay itinakda ng network at nagbabago-bago batay sa trapiko sa network at pagiging kumplikado ng transaksyon.",
     "learn_more": "Matuto pa tungkol sa mga bayad sa gas",
     "legacy_gas_suggestion_tooltip": "Ang suhestyon sa bayad sa gas na ito ay gumagamit ng legacy na pagtatantya ng gas na maaaring hindi tumpak."
@@ -2729,7 +2730,7 @@
     "high_fees": "Bakit napakataas ng mga bayarin?",
     "missing_tokens": "Kulang ako ng mga token...",
     "swap_issues": "Hindi ako makapag-swap...",
-    "mobile_sentiment": "Ano ang pakiramdam mo tungkol sa MetaMask mobile?",
+    "mobile_sentiment": "Ano ang pakiramdam mo tungkol sa Novai mobile?",
     "sentiment_good_face": "😁",
     "sentiment_bad_face": "☹️",
     "sentiment_good": "Gustung-gusto ko ito!",
@@ -2777,12 +2778,12 @@
   },
   "remember_me": {
     "enable_remember_me": "I-on ang Tandaan ako",
-    "enable_remember_me_description": "Kapag naka-on ang tandaan ako, sinumang may access sa iyong telepono ay makaka-access sa iyong MetaMask account."
+    "enable_remember_me_description": "Kapag naka-on ang tandaan ako, sinumang may access sa iyong telepono ay makaka-access sa iyong Novai account."
   },
   "turn_off_remember_me": {
     "title": "Ilagay ang iyong password para i-off ang Tandaan ako",
     "placeholder": "Password",
-    "description": "Kung in-off mo ang opsyong ito, kakailanganin mo ang iyong password upang i-unlock ang MetaMask mula ngayon.",
+    "description": "Kung in-off mo ang opsyong ito, kakailanganin mo ang iyong password upang i-unlock ang Novai mula ngayon.",
     "action": "I-off ang Tandaan ako"
   },
   "dapp_connect": {
@@ -2794,11 +2795,11 @@
   },
   "automatic_security_checks": {
     "title": "Mga awtomatikong pagsusuri sa seguridad",
-    "description": "Ang awtomatikong pagtingin ng mga update ay maaaring ilantad ang iyong IP address sa mga GitHub server. Ipinapahiwatig lang nito na ginagamit ng iyong IP address ang MetaMask. Walang ibang impormasyon o address ng account ang nakalantad."
+    "description": "Ang awtomatikong pagtingin ng mga update ay maaaring ilantad ang iyong IP address sa mga GitHub server. Ipinapahiwatig lang nito na ginagamit ng iyong IP address ang Novai. Walang ibang impormasyon o address ng account ang nakalantad."
   },
   "terms_of_use_modal": {
     "title": "Repasuhin ang aming pinakabagong Tuntunin ng Paggamit",
-    "terms_of_use_check_description": "Sumasang-ayon ako sa Mga Tuntunin ng Paggamit, na nalalapat sa aking paggamit ng MetaMask at sa lahat ng mga tampok nito",
+    "terms_of_use_check_description": "Sumasang-ayon ako sa Mga Tuntunin ng Paggamit, na nalalapat sa aking paggamit ng Novai at sa lahat ng mga tampok nito",
     "accept_cta": "Tanggapin",
     "accept_helper_description": "Mangyaring mag-scroll upang basahin ang lahat ng mga seksyon"
   },
@@ -2810,7 +2811,7 @@
   },
   "enable_automatic_security_check_modal": {
     "title": "Awtomatikong suriin para sa mga update sa seguridad?",
-    "description": "Maaaring ilantad ng awtomatikong pagsuri para sa mga update ang iyong IP address sa mga server ng GitHub. Ipinapahiwatig lamang nito na ang iyong IP address ay gumagamit ng MetaMask. Walang ibang impormasyon o address ng account ang nakalantad.",
+    "description": "Maaaring ilantad ng awtomatikong pagsuri para sa mga update ang iyong IP address sa mga server ng GitHub. Ipinapahiwatig lamang nito na ang iyong IP address ay gumagamit ng Novai. Walang ibang impormasyon o address ng account ang nakalantad.",
     "primary_action": "Paganahin ang mga awtomatikong pagsusuri sa seguridad",
     "secondary_action": "Salamat nalang"
   },
@@ -2863,7 +2864,7 @@
     "new_wallet_needed_create_try_again_action": "Subukang mabawi ang wallet",
     "new_wallet_needed_description_part_one": "Nagkaproblema sa iyong wallet, at kakailanganin mo na gumawa ng bago. Dahil ang mga account mo ay nasa blockchain, ligtas pa rin ang mga iyon. Mga preference, naka-save na network, pangalan ng account at nauugnay na data na naka-save sa iyong device lang ang mawawala.",
     "new_wallet_needed_description_part_two": "Para i-import ang iyong mga account sa bagong wallet, kailangan mo ang iyong Secret Recovery Phrase. Kung wala kang Lihim na Parirala sa Pagbawi, hindi mo mai-import ang mga account mo.",
-    "new_wallet_needed_description_part_three": "Para maiwasan na mangyari itong muli, tiyakin na laging naka-update sa pinakabagong bersyon ang iyong MetaMask app at OS."
+    "new_wallet_needed_description_part_three": "Para maiwasan na mangyari itong muli, tiyakin na laging naka-update sa pinakabagong bersyon ang iyong Novai app at OS."
   },
   "srp_security_quiz": {
     "title": "Pagsusulit sa seguridad",
@@ -2874,7 +2875,7 @@
     "continue": "Magpatuloy",
     "of": "ng",
     "question_one": {
-      "question": "Kung mawala mo ang iyong Lihim na Parirala sa Pagbawi, ang MetaMask ay...",
+      "question": "Kung mawala mo ang iyong Lihim na Parirala sa Pagbawi, ang Novai ay...",
       "right_answer": "Hindi ka matutulungan",
       "wrong_answer": "Maaari itong ibalik para sa iyo",
       "right_answer_title": "Tama! Walang makakatulong na maibalik ang iyong Lihim na Parirala sa Pagbawi",
@@ -2899,9 +2900,9 @@
     "bluetooth_off_message": "Mangyaring i-on ang Bluetooth sa iyong device",
     "bluetooth_access_blocked": "Kailangan ng Ledger ng access sa Bluetooth para ipares ang iyong mobile device.",
     "bluetooth_access_blocked_message": "Kung nais mong ipares ang iyong Ledger device gamit ang Bluetooth, paganahin ito sa Mga Setting at subukang muli.",
-    "location_access_blocked": "Kailangan ng MetaMask ng permiso sa pag-access ng lokasyon para maipares sa iyong ledger.",
+    "location_access_blocked": "Kailangan ng Novai ng permiso sa pag-access ng lokasyon para maipares sa iyong ledger.",
     "location_access_blocked_message": "Kung nais mong ipares ang iyong Ledger device gamit ang Bluetooth, kailangan mong paganahin ang access sa lokasyon sa Mga Setting at subukang muli.",
-    "nearbyDevices_access_blocked": "Kailangan ng MetaMask ng permiso sa mga malapit na device para maipares sa iyong ledger.",
+    "nearbyDevices_access_blocked": "Kailangan ng Novai ng permiso sa mga malapit na device para maipares sa iyong ledger.",
     "nearbyDevices_access_blocked_message": "Kung nais mong ipares ang iyong Ledger device gamit ang Bluetooth, kailangan mong paganahin ang access sa mga malapit na device sa Mga Setting at subukang muli.",
     "bluetooth_scanning_error": "Error habang ini-scan ang device",
     "bluetooth_scanning_error_message": "Siguraduhing naka-unlock ang iyong device at gumagana ang app ng Ethereum",
@@ -2941,7 +2942,7 @@
     "unknown_error_message": "May naganap na hindi inaasahang error. Mangyaring subukan muli.",
     "error_occured": "May naganap na error",
     "how_to_install_eth_app": "Paano i-install ang app ng Ethereum sa isang Ledger device",
-    "ledger_account_count": "Gumagamit ka ng 1 account mula sa iyong Ledger gamit ang MetaMask Mobile.",
+    "ledger_account_count": "Gumagamit ka ng 1 account mula sa iyong Ledger gamit ang Novai Mobile.",
     "open_eth_app": "Mangyaring buksan ang app ng Ethereum",
     "open_eth_app_message_one": "Natukoy namin na mayroon kang naka-install na app ng Ethereum ngunit hindi ito nakabukas, mangyaring ",
     "open_eth_app_message_two": "pindutin ang dalawang button sa device para tanggapin ang prompt para mabuksan ang app ng Ethereum para magpatuloy.",
@@ -2955,7 +2956,7 @@
     "not_supported": "Hindi sinusuportahan ang operasyon",
     "not_supported_error": "Ang bersyon 4 lamang ng naka-type na pagpirma ng data ang sinusuportahan.",
     "error_during_connection": "May naganap na hindi kilalang error",
-    "error_during_connection_message": "Nagkaroon ng kaunting problema sa pagkonekta sa iyong Ledger Nano X, i-tap ang 'Subukang muli' sa ibaba upang subukan ito. Minsan nangyayari ito dahil sa pagiging bukas ng ETH app sa iyong Ledger Nano X sa simula ng proseso ng pagpapares sa MetaMask Mobile.",
+    "error_during_connection_message": "Nagkaroon ng kaunting problema sa pagkonekta sa iyong Ledger Nano X, i-tap ang 'Subukang muli' sa ibaba upang subukan ito. Minsan nangyayari ito dahil sa pagiging bukas ng ETH app sa iyong Ledger Nano X sa simula ng proseso ng pagpapares sa Novai Mobile.",
     "how_to_install_eth_webview_title": "Paano i-install ang App ng Ethereum",
     "nonce_too_low": "Masyadong mababa ang nonce",
     "nonce_too_low_error": "Masyadong mababa ang itinakdang nonce"
@@ -3016,7 +3017,7 @@
   },
   "default_settings": {
     "title": "Handa na ang iyong Wallet",
-    "description": "Ginagamit ng MetaMask ang mga default na setting upang pinakamahusay na mabalanse ang kaligtasan at dali ng paggamit. Baguhin ang mga setting na ito para maging mahigpit ang iyong pagkapribado.",
+    "description": "Ginagamit ng Novai ang mga default na setting upang pinakamahusay na mabalanse ang kaligtasan at dali ng paggamit. Baguhin ang mga setting na ito para maging mahigpit ang iyong pagkapribado.",
     "learn_more_about_privacy": "Matuto pa tungkol sa pinakamahusay na mga gawain sa pagkapribado.",
     "privacy_policy": "Patakaran sa pagkapribado",
     "default_settings": "Mga Default na Setting",
@@ -3025,12 +3026,12 @@
     "manage_networks": "Pamahalaan ang mga network",
     "manage_networks_body": "Gumagamit kami ng Infura bilang aming provider ng remote procedure call (RPC) para mag-alok ng pinakamaaasahan at pribadong access sa Ethereum data na aming makakaya. Maaari kang pumili ng iyong sariling RPC, ngunit tandaan na ang anumang RPC ay makakatanggap ng iyong IP address at Ethereum wallet upang gumawa ng mga transaksyon. Basahin ang aming ",
     "manage_networks_body2": " para matuto pa tungkol sa kung paano pinangangasiwaan ng Infura ang data.",
-    "functionality_body": "Kasama ang data at halaga ng token, optimal na settings sa gas, at marami pang iba. Ang paggamit ng mga serbisyong ito ay nagbabahagi ng iyong IP address sa MetaMask, tulad kapag bumisita ka sa isang website.",
+    "functionality_body": "Kasama ang data at halaga ng token, optimal na settings sa gas, at marami pang iba. Ang paggamit ng mga serbisyong ito ay nagbabahagi ng iyong IP address sa Novai, tulad kapag bumisita ka sa isang website.",
     "sheet": {
       "title_off": "I-off ang batayang kapakinabangan",
-      "description_off": "Ibig sabihin nito hindi mo lubos na mao-optimize ang iyong oras sa MetaMask. Ang mga batayang tampok (tulad ng mga detalye ng token, optimal na settings ng gas, at iba pa) ay hindi magiging available para sa iyo.",
+      "description_off": "Ibig sabihin nito hindi mo lubos na mao-optimize ang iyong oras sa Novai. Ang mga batayang tampok (tulad ng mga detalye ng token, optimal na settings ng gas, at iba pa) ay hindi magiging available para sa iyo.",
       "title_on": "I-on ang batayang kapakinabangan",
-      "description_on": "Upang ma-optimize ang iyong oras sa MetaMask, kailangan mong i-on ang tampok na ito. Ang mga batayang function (tulad ng mga detalye ng token, optimal na settings ng gas, at iba pa) ay mahalaga sa karanasan sa web3.",
+      "description_on": "Upang ma-optimize ang iyong oras sa Novai, kailangan mong i-on ang tampok na ito. Ang mga batayang function (tulad ng mga detalye ng token, optimal na settings ng gas, at iba pa) ay mahalaga sa karanasan sa web3.",
       "checkbox_label": "Nauunawaan ko at nais kong magpatuloy",
       "buttons": {
         "cancel": "Kanselahin",

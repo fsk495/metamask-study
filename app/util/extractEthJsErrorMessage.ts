@@ -1,3 +1,5 @@
+import Logger from "./Logger";
+
 const ethJsRpcSlug = 'Error: [ethjs-rpc] rpc error with payload ';
 const errorLabelPrefix = 'Error: ';
 

@@ -2,6 +2,7 @@ import { Linking } from 'react-native';
 import isUrl from 'is-url';
 import Url from 'url-parse';
 import { regex, hasProtocol } from '../../util/regex';
+import Logger from '../../util/Logger';
 
 /**
  * Returns URL prefixed with protocol
@@ -141,15 +142,17 @@ export const getAlertMessage = (
  * @param url - String containing url
  * @returns Promise<any>
  */
-export const allowLinkOpen = (url: string) =>
+export const allowLinkOpen = (url: string) => {
+  Logger.log("allowLinkOpen  ",url);
   Linking.canOpenURL(url)
-    .then((supported) => {
-      if (supported) {
-        return Linking.openURL(url);
-      }
-      console.warn(`Can't open url: ${url}`);
-      return null;
-    })
-    .catch((e) => {
-      console.warn(`Error opening URL: ${e}`);
-    });
+  .then((supported) => {
+    if (supported) {
+      return Linking.openURL(url);
+    }
+    console.warn(`Can't open url: ${url}`);
+    return null;
+  })
+  .catch((e) => {
+    console.warn(`Error opening URL: ${e}`);
+  });
+}

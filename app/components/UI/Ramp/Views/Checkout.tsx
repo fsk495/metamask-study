@@ -28,6 +28,7 @@ import useAnalytics from '../hooks/useAnalytics';
 import { strings } from '../../../../../locales/i18n';
 import Routes from '../../../../constants/navigation/Routes';
 import useHandleSuccessfulOrder from '../hooks/useHandleSuccessfulOrder';
+import Logger from '../../../../util/Logger';
 
 interface CheckoutParams {
   url: string;
@@ -105,6 +106,8 @@ const CheckoutWebView = () => {
       setIsRedirectionHandled(true);
       try {
         const parsedUrl = parseUrl(navState.url);
+        Logger.log("handleNavigationStateChange 1 ",navState.url)
+        Logger.log("handleNavigationStateChange 2 ",parsedUrl)
         if (Object.keys(parsedUrl.query).length === 0) {
           // There was no query params in the URL to parse
           // Most likely the user clicked the X in Wyre widget

@@ -531,6 +531,7 @@ const App = ({ userLoggedIn }) => {
 
   const setNavigatorRef = (ref) => {
     if (!prevNavigator.current) {
+      console.log('ref  ',ref);
       setNavigator(ref);
       NavigationService.setNavigationRef(ref);
     }
